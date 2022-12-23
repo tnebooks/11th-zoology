@@ -96,7 +96,7 @@ an Digestive system
 
 involved in the process of absorption and the cells lining the villi produce numerous microscopic projections called microvilli giving a brush border appearance that increase the surface area enormously. Along with villi, the ileal mucosa also contain mucus secreting goblet cells and lymphoid tissue known as **Peyer’s patches** which produce lymphocytes. The wall of the small intestine bears crypts between the base of villi called **crypts of Leiberkuhn** ( Figure.5.3).
 
-![ Buccal cavity](5.2.png "")
+![Buccal cavity](5.2.png "")
 
 
 ![ Small in  ](5.3.png "")
