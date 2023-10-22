@@ -73,7 +73,7 @@ Earthworms collected from native soil prefer a layer of local soil in their comp
 
 1 meter
 
-![ Vermicultur  ](13.1.png "")
+
 
 
 on top of the gravel sand layer and introduce earthworms into it. For exotic species such as _Eisenia fetida_ and _Eudrilus eugeniae,_the layer of soil is not needed. The unit can now be loaded with digested biomass or animal dung such as cow dung that has lost its heat. The number of earthworms to be introduced in an unit depends on the size of the vermibed prepared. Earthworms such as _Periyonyx excavatus, Eisenia fetida_ or _Eudrilus eugeniae_ are introduced on the top. Jute bags or cardboards or broad leaves are used to cover the unit. As worms require moisture, water management is most important for the survival of the earthworms. Too little or too much of water is not good for the worms.
@@ -186,7 +186,7 @@ about 3 mm in length and is pale, yellowish- white in colour. The caterpillars a
 
 After 1st, 2nd, 3rd and 4th moultings caterpillars get transformed into 2nd, 3rd, 4th and 5th instars respectively (Figure13.3). It takes about 21 to 25 days after hatching. The fully grown caterpillar is 7.5 cm in length. It develops salivary glands, stops feeding and undergoes pupation. The caterpillars stop feeding and move towards the corner among the leaves and secretes a sticky fluid through their silk gland. The secreted fluid comes out through spinneret (a narrow pore situated on the hypopharynx) and takes the form of long fine thread of silk which hardens on exposure to air and is wrapped around the body of caterpillar in the form
 
-![ Life cycle of _Bombyx m_  ](13.3.png "")
+
 
 
 of a covering called as cocoon. It is the white coloured bed of the pupa whose outer threads are irregular while the inner threads are regular. The length of continuous thread secreted by a caterpillar for the formation of cocoon is about 1000-1200 metres which requires 3 days to complete. The pupal period lasts for 10 to 12 days and the pupae cut through the cocoon and emerge into adult moth.
@@ -274,7 +274,7 @@ The drone is the functional male member of the colony which develops from an unf
 
 Queen Worker Drone
 
-![ Social organization of honey bees  ](13.4.png "")
+
 
 
 queens, worker cell for workers and drone cells for drones (Figure.13.5). The cells are intended for storage of honey and pollen in the upper portion of the comb whereas the lower portions are for brood rearing.
@@ -289,10 +289,10 @@ Pollen cells
 
 Brood cells Drone cells
 
-![ Structure of a hive showing various cells](13.5.png "")
 
 
-![ Langstroth bee hive](13.6.png "")
+
+
 
 
 Top cover
@@ -540,7 +540,7 @@ fertilization, one pair of prawn are kept in a separate tank. After mating, the 
 
 **Preparation of farm** For the preparation of ponds for algal growth and for the subsequent stocking of prawns it is essential to drain off the water and sundry the bottom followed by light tilling. Agricultural lime should be applied to absorb excess CO2 and to supply calcium which is required for moulting. Fertilizers like rice, bran, poultry, and cattle dung are used to increase the fertility of the soil. Prawns are commonly caught in crafts and gears using different types of nets such as cast nets, bag nets, drag nets, trawl nets and barrier nets. Preservation of prawns is done by peeling and deveining or by cooking and peeling.
 
-![ _Macrobrachium rosenbergii_  ](13.10.png "")
+
 
 
 ### Pearl Culture
@@ -586,7 +586,7 @@ antle Mantle epitheliumForeign body
 
 Mother of pearl (nacre) PearlLayer of nacreShell
 
-![ Pearl and Pearl Formation](13.11.png "")
+
 
 
 Prismatic Layere
