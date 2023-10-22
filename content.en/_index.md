@@ -1,4 +1,4 @@
 ---
-title: 'Biology'
-weight: 1
---- 
+title: 'Zoology'
+weight: 2
+---
