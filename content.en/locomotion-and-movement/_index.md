@@ -88,7 +88,7 @@ Sarcoplasmic reticulum
 
 Contraction of the muscle depends on the presence of contractile proteins (Figure 9.2) such as **actin** and **myosin** in the myofilaments. The thick filaments are composed of the protein myosin which are bundled together whose heads produce at opposite ends of the filament. Each myosin molecule is made up of a monomer called meromyosin. The meromyosin has two regions, a globular head with a short arm and a tail. The short arm constitutes the heavy meromyosin (HMM). The tail portion forms the light meromyosin (LMM). The head bears an actin-binding site and an ATP- binding site. It also contains ATPase enzyme that split ATP to generate energy for the contraction of muscle. The thin filaments are composed of two interwined actin molecules. Actin has polypeptide subunits called globular
 
-![ Organizational level of a skeletal muscle](9.1.png "")
+### Organizational level of a skeletal muscle 9.1.png
 
 
 
@@ -122,7 +122,7 @@ binds to an actin and activates a contraction – relaxation cycle which is foll
 
 The power stroke (cross-bridge tilting) begins after the myosin head and hinge region tilt from a 90° angle to a 45° angle. The cross- bridge transforms into strong, high-force bond which allows the myosin head to swivel. When the myosin head swivels it pulls the attached actin filament towards the centre of the A-band. The myosin returns back to its relaxed state and releases ADP and phosphate ion. A new ATP molecule then binds to the head of the myosin and the cross-bridge is
 
-![ Cross-bridge cycle of mus  ](9.3.png "")
+### Cross-bridge cycle of mus   9.3.png
 
 
 broken. At the end of each power stroke, each myosin head detaches from actin, then swivels back and binds to a new actin molecule to start another contraction cycle. This movement is similar to the motion of an oar on a boat. At the end of each power stroke, each myosin head detaches from actin, then swivels back and binds to a new actin molecule to start another contraction cycle. The power stroke repeats many times until a muscle fibre contracts. The myosin heads bind, push and release actin molecules over and over as the thin filaments move toward the centre of the sarcomere. The repeated formation of cross-
@@ -289,7 +289,7 @@ The vertebral column protects the spinal cord, supports the head and serves as t
 
 Rib cage protects the lungs, heart, liver and also plays a role in breathing.  
 
-![ Rib cage](9.7.png "")
+### Rib cage 9.7.png
 
 
 ## The Appendicular skeleton
@@ -331,7 +331,7 @@ The ischium is a curved bar of bone. The V-shaped **pubic bones** articulate ant
 
 The pelvic girdle is a heavy, strong girdle. How does its structure reflect its function?
 
-![ Pelvic girdle with lower limb](9.9.png "")
+### Pelvic girdle with lower limb 9.9.png
 
 
 **The Lower limb** The lower limb consists of 30 bones which carries the entire weight of the erect body and is subjected to exceptional forces  
@@ -454,7 +454,7 @@ Total number of bones in adults 206
 
 the joint surface is covered by a double- layered membrane called the **periosteum**. The outer fibrous layer is dense irregular connective tissue. The inner osteogenic layer consists of **osteoblasts** (bone- forming cells) which secrete bone matrix elements and **osteoclasts** (bone-destroying cells). In addition, there are primitive stem cells, osteogenic cells, that give rise to the osteoblasts. The periosteum is richly supplied with nerve fibres, lymphatic vessels and blood vessels. Internal bone surfaces are covered with a delicate connective tissue membrane called the endosteum. The endosteum covers the trabeculae of spongy bone and lines the canals that pass through the compact bone. It also contains both osteoblasts and osteoclasts. Between the epiphysis and diaphysis **epiphyseal plate** or **growth plate** is present.
 
-![ Structure of a long bone](9.10.png "")
+### Structure of a long bone 9.10.png
 
 
 Medullary cavity
@@ -600,7 +600,7 @@ During muscular exercise, there is an increase in metabolism. The O2 need of the
 
   
 
-![ Types of bone fracture](9.12.png "")
+### Types of bone fracture 9.12.png
 
 
 ## Bone Fracture
@@ -656,7 +656,7 @@ in the fibro cartilaginous callus. Gradually that is converted into a bony (hard
 
 for several months. After that the bony callus is remodelled. The excess material on the diaphysis exterior and within the medullary cavity is removed and the compact bone is laid down to reconstruct the shaft walls. The final structure of the remodelled area resembles like the unbroken bony region.
 
-![ Mechanism and healing of bo  ](9.13.png "")
+### Mechanism and healing of bo   9.13.png
 
 
 ## Dislocation of joints and treatment

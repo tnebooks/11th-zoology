@@ -23,7 +23,7 @@ Species is the basic unit of classification in the taxonomic hierarchial system.
 
 **Class:** This category includes one or more related orders with some common characters. For example order Primata comprising monkeys, apes and man is placed in the Class Mammalia, along with the order Carnivora which includes dogs and cats.
 
-![Figure 1.2 Sterile offsprings](1.3.png "")
+
 
 ```
 **Crosses between**
@@ -36,7 +36,7 @@ Male Lion and Female Tiger results in Liger
 
 Male Tiger and Female Lion results in Tigon
 ```
-![Figure 1.2 Sterile offsprings](1.4.png "")
+
 
 **Phylum:** The group of classes with
 similar

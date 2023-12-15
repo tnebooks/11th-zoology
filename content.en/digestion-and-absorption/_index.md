@@ -96,10 +96,10 @@ an Digestive system
 
 involved in the process of absorption and the cells lining the villi produce numerous microscopic projections called microvilli giving a brush border appearance that increase the surface area enormously. Along with villi, the ileal mucosa also contain mucus secreting goblet cells and lymphoid tissue known as **Peyer’s patches** which produce lymphocytes. The wall of the small intestine bears crypts between the base of villi called **crypts of Leiberkuhn** ( Figure.5.3).
 
-![Buccal cavity](5.2.png "")
 
 
-![ Small in  ](5.3.png "")
+
+### Small in   5.3.png
 
 
 The large intestine consists of caecum, colon and rectum. The caecum is a small blind pouch like structure that opens into the colon and it possesses a narrow finger like tubular projection called **vermiform appendix**. Both caecum and vermiform appendix are large in herbivorous animal and act as an important site for cellulose digestion with the help of symbiotic bacteria. The colon is divided into four regions – an ascending, a transverse, a descending part and a sigmoid colon. The colon is lined by dilations called **haustra** (singular – haustrum) (Figure.5.4). The “S” shaped sigmoid colon (pelvic colon) opens into the rectum. Rectum is concerned with temporary storage of faeces. The rectum open out through the anus. The anus is guarded by two anal sphincter muscles. The anal mucosa is folded into several vertical folds and contains arteries and veins called anal columns. Anal column may get enlarged and causes **piles** or **haemorrhoids**.
@@ -150,7 +150,7 @@ Descending colon
 
 Transverse colon
 
-![ Large intestine  ](5.4.png "")
+### Large intestine   5.4.png
 
 
 **Salivary glands** There are three pairs of salivary glands in the mouth. They are the largest parotids gland in the cheeks, the sub-maxillary/ sub-mandibular in the lower jaw and the sublingual beneath the tongue. These glands have ducts such as **Stenson’s duct, Wharton’s duct and Bartholin’s duct or duct of Rivinis** respectively (Figure. 5.6)**.** The salivary juice secreted by the salivary glands reaches the mouth through these ducts. The daily secretion of saliva from salivary glands ranges from 1000 to 1500mL.
@@ -172,7 +172,7 @@ Apart from bile secretion, the liver also performs several functions 1. Destroys
 
 defective blood cells
 
-![ Salivary glands](5.6.png "")
+### Salivary glands 5.6.png
 
 
 Gallbladder
@@ -359,7 +359,7 @@ Absorption is a process by which the end product of digestion passes through the
 
 Nutrients like amino acids, glucose and electrolytes like Na+ are absorbed into the blood against the concentration gradient by active transport. The insoluble substances like fatty acids, glycerol and fat soluble vitamins are first incorporated into small, spherical water soluble droplets called micelles and are absorbed into the intestinal mucosa where they are re-synthesized into protein coated fat globules called chylomicrons which are then transported into the lacteals within the intestinal villi and eventually empty into lymphatic duct. The lymphatic ducts ultimately release the absorbed substances into the blood stream. While the fatty acids are absorbed by the lymph duct, other materials are absorbed either actively or passively by the capillaries of the villi (Figure. 5.9). Water soluble vitamins are absorbed by simple
 
-![ Process of Di  ](5.9.png "")
+### Process of Di   5.9.png
 
 
 diffusion or active transport. Transport of water depends upon the osmotic gradient.
@@ -572,7 +572,7 @@ of fullness of stomach. It may be due to inadequate enzyme secretion, anxiety, f
 
 **Appendicitis:** It is the inflammation of the vermiform appendix, leading to severe abdominal pain. The treatment involves the removal of appendix by surgery. If treatment is delayed the appendix may rupture and results in infection of the abdomen, called **peritonitis**. **Hiatus Hernia (Diaphragmatic Hernia):** It is a structural abnormality in which superior part of the stomach protrudes slightly above the diaphragm. The exact cause of hiatus hernias is not known. In some people, injury or other damage may weaken muscle tissue, by applying too much pressure (repeatedly) on the muscles around the stomach while coughing, vomiting, and straining during bowel movement and lifting heavy object. Heart burn is also common in those with a hiatus hernia. In this condition, stomach contents travel back into the oesophagus or even into oral cavity and causes pain in the centre of the chest due to the eroding nature of acidity (Figure.5.10).
 
-![ Hiatus hernia](5.10.png "")
+### Hiatus hernia 5.10.png
 
 
 **Diarrhoea:** It is the most common gastrointestinal disorder worldwide. It is sometimes caused by bacteria or viral infections through food or water. When the colon is infected, the  

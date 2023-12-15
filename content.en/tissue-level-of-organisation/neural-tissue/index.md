@@ -23,7 +23,7 @@ When a neuron is suitably stimulated, an electrical disturbance is generated whi
 
 **2\. Alzheimer’s disease:** It is a chronic neurodegenerative disease which includes the symptoms of difficulty in remembering recent events, problems with language, disorientation and mood swings.
 
-![ Nervous tissues with neuroglia  ](3.8.png "")
+### Nervous tissues with neuroglia   3.8.png
 
 
 **Biopsy** is an examination of tissue or liquid removed from a living body to discover the presence, cause or extent of a disease. **Autopsy** is a post-mortem (dissection of a dead body) examination to discover the cause of death or the extent of disease. The field of Forensic science effectively uses the histological techniques to trace out crimes.

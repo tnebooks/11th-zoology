@@ -1,5 +1,5 @@
 ---
-title: Non Chordates (Invertebrata) 2.3.1 Phylum: Porifera
+title: Non Chordates (Invertebrata) 2.3.1 Phylum Porifera
 weight: 1
 ---
 
@@ -32,7 +32,7 @@ central cavity (**spongocoel)** and goes out through the osculum. This water tra
 
 Examples: _Sycon_ (Scypha), _Spongilla_ (fresh water sponge), _Euspongia_ (bath sponge) Euplectella (Venus flower basket) (Figure 2.9).
 
-![ Examples of Porifera](2.9.png "")
+### Examples of Porifera 2.9.png
 
 
 _Sycon Hyalonema_
@@ -48,7 +48,7 @@ The underwater sea bed is the new habitat where the discovery and development of
 
 Coelenterata), are aquatic, sessile or free swimming, solitary or colonial forms with radial symmetry The name Cnidaria is derived from **cnidocytes** or **cnidoblasts** with **stinging cells** or **nematocyst** on tentacles. Cnidoblasts are used for anchorage, defense, and to capture the prey. Cnidarians are the first group of animals to exhibit tissue level organisation and are diploblastic. They have a central vascular cavity or **coelenteron** (serves both digestion and circulatory function) with a single opening called mouth or hypostome, which serves the process of ingestion and egestion. Digestion is both extracellular and intracellular. The nervous system is primitive and is formed of diffused nerve net. Cnidarians like corals have a skeleton made up of calcium carbonate. Cnidarians exhibit two basic body forms, polyp and medusa. The polyp forms are sessile and cylindrical (e.g. _Hydra, Adamsia_), whereas the **medusa** are umbrella shaped and free swimming. Cnidarians which exist
 
-![ Examples of Cnidarians](2.10.png "")
+### Examples of Cnidarians 2.10.png
 
 
 _Adamsia Pennatula_
@@ -75,7 +75,7 @@ biradially symmetrical, diploblastic animals with tissue level of organisation. 
 
 Examples : _Pleurobrachia and Ctenoplana_.
 
-![ Example of Ctenophora- _Pleurobrachia_](2.11.png "")
+### Example of Ctenophora- _Pleurobrachia_ 2.11.png
 
 
 ### Phylum: Platyhelminthes (Flatworms)
@@ -101,10 +101,10 @@ Examples: _Taenia_ _solium_ (Tape worm), _Fasciola hepatica_ (Liver fluke), _Sch
 
 Nematoda, this phylum is now named as Aschelminthes. The body of these worms is circular (round) in cross section and hence are called round worms. They are free living or parasitic on aquatic and terrestrial plants and animals. They are bilaterally symmetrical, triploblastic and pseudocoelomate animals with organ system level of organisation. The body is unsegmented and covered by a transparent,
 
-![ Example _Planaria Liverfl_](2.12.png "")
+### Example _Planaria Liverfl_ 2.12.png
 
 
-![ Example _Ascaris Filarial_  ](2.13.png "")
+### Example _Ascaris Filarial_   2.13.png
 
 
 tough and protective collagenous layer called cuticle. The alimentary canal is complete with a well developed mouth, muscular pharynx and anus. Excretory system consists of renette glands. Sexes are separate; and exhibit sexual dimorphism; often females are longer than males. Fertilisation is internal; majority are oviparous (e.g. _Ascaris_) few are ovoviviparous (_Wuchereria_). Development may be direct or indirect.
@@ -133,7 +133,7 @@ Examples: _Lampito mauritii_ (earthworm), _Neries_ (sand worm), _Hirudinaria_ (l
 
 How is cephalisation advantageous to animals in finding food?
 
-![ Exam _Earthworm Nere_  ](2.14.png "")
+### Exam _Earthworm Nere_   2.14.png
 
 
 **Filariasis** has been a major public health problem in India next only to malaria. The disease was recorded in India as early as 6th century B.C. by the famous Indian physician, Susruta in his book **Susruta Samhita.** In 7 th century A.D., **Madhavakara** described signs and symptoms of the disese in his treatise ‘ Madhava Nidhana’ which holds good even today. In 1709, Clarke identified elephantoid legs in Cochin. The microfilariae in the peripheral blood was first identified by Lewis in 1872 in Calcutta (Kolkata).
@@ -158,7 +158,7 @@ Examples : _Limulus_ (King crab, a living fossil), _Palamnaeus_ (Scorpion), _Eup
 
 Spider silk is five times stronger than steel of the same diameter. It has been suggested that a Boeing 747 could be stopped in flight by a single pencil- width strand and spider silk is almost as strong as Kevlar, the toughest man-made polymer.
 
-![ Examp](2.15.png "")
+### Examp 2.15.png
 
 
 _Prawn Hermit_
@@ -187,7 +187,7 @@ respiratory pigment. They are dioecious and oviparous. Development is indirect w
 
 Examples: _Pila_ (Apple snail), _Lamellidens_ (Mussel), _Pinctada_ (Pearl oyster), _Sepia_ (Cuttle fish), _Loligo_ (Squid), _Octopus_ (Devil fish) (Figure 2.16).
 
-![ Examples of Mollusca](2.16.png "")
+### Examples of Mollusca 2.16.png
 
 
 _Pila Octopus_
@@ -213,7 +213,7 @@ Examples: _Asterias_ (Starfish or Sea star), _Echinus_ (Sea-urchin), _Antedon_ (
 
 _Brittle star_
 
-![ Examples of Echinodermata](2.17.png "")
+### Examples of Echinodermata 2.17.png
 
 
 _Starfish_
@@ -236,7 +236,7 @@ This phylum consists of a small group of worm-like, soft marine animals, mostly 
 
 Examples: _Balanoglossus_, _Saccoglossus, Ptychodera flava (Indian Hemichordate_ found in Kurusadai islands in Tamilnadu) (Figure 2.18).
 
-![ Example of](2.18.png "")
+### Example of 2.18.png
 
 
 Hemichordata - Balanoglossus  

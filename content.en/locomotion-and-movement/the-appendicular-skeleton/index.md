@@ -42,7 +42,7 @@ The ischium is a curved bar of bone. The V-shaped **pubic bones** articulate ant
 
 The pelvic girdle is a heavy, strong girdle. How does its structure reflect its function?
 
-![ Pelvic girdle with lower limb](9.9.png "")
+### Pelvic girdle with lower limb 9.9.png
 
 
 **The Lower limb** The lower limb consists of 30 bones which carries the entire weight of the erect body and is subjected to exceptional forces  
@@ -165,7 +165,7 @@ Total number of bones in adults 206
 
 the joint surface is covered by a double- layered membrane called the **periosteum**. The outer fibrous layer is dense irregular connective tissue. The inner osteogenic layer consists of **osteoblasts** (bone- forming cells) which secrete bone matrix elements and **osteoclasts** (bone-destroying cells). In addition, there are primitive stem cells, osteogenic cells, that give rise to the osteoblasts. The periosteum is richly supplied with nerve fibres, lymphatic vessels and blood vessels. Internal bone surfaces are covered with a delicate connective tissue membrane called the endosteum. The endosteum covers the trabeculae of spongy bone and lines the canals that pass through the compact bone. It also contains both osteoblasts and osteoclasts. Between the epiphysis and diaphysis **epiphyseal plate** or **growth plate** is present.
 
-![ Structure of a long bone](9.10.png "")
+### Structure of a long bone 9.10.png
 
 
 Medullary cavity

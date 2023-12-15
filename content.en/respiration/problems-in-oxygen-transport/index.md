@@ -8,7 +8,7 @@ Problems in Oxygen transport## Problems in Oxygen transport
 
 When a person travels quickly from sea level to elevations above 8000ft, where
 
-![ Chlorid  ](6.8.png "")
+### Chlorid   6.8.png
 
 
 the atmospheric pressure and partial pressure of oxygen are lowered, the individual responds with symptoms of **acute mountain sickness** (AMS)– headache, shortness of breath, nausea and dizziness due to poor binding of O2 with haemoglobin. When the person moves on a long–term basis to mountains from sea level, the body begins to make respiratory and haematopoietic adjustments. To overcome this situation kidneys accelerate production of the hormone erythropoietin, which stimulates the bone marrow to produce more RBCs.

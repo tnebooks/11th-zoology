@@ -56,7 +56,7 @@ Animals in which the cells are arranged in two embryonic layers (Figure 2.1), th
 
 Animals in which the developing embryo has three germinal layers are called **triploblastic** animals and consists of outer ectoderm (skin, hair, neuron, nail, teeth, etc), inner endoderm (gut, lung, liver) and middle mesoderm (muscle, bone, heart). Most of the triploblastic animals show organ system level of organisation (Flat worms to Chordates).
 
-![ Germinal layers](2.1.png "")
+### Germinal layers 2.1.png
 
 
 ### Patterns of symmetry
@@ -66,7 +66,7 @@ in which parts that lie on opposite side
 
 of an axis are identical. An animal’s body plan results from the animal’s pattern of development. The simplest body plan is seen in sponges (Figure 2.2). They do not display symmetry and are **asymmetrical**. Such animals lack a definite body plan or are irregular shaped and any plane passing through the centre of the body does not divide them into two equal halves (Sponges). An asymmetrical body plan is also seen in adult gastropods (snails).
 
-![ Asymmetry in sponges](2.2.png "")
+### Asymmetry in sponges 2.2.png
 
 
 Symmetrical animals have paired body parts that are arranged on either side of a plane passing through the central axis. When any plane passing through the central axis of the body divides an organism into two identical parts, it is called **radial symmetry**. Such radially symmetrical animals have a top and bottom side but no dorsal (back) and ventral (abdomen) side, no right and left side. They have a body plan in which the body parts are organised in a circle around an axis. It is the principal symmetry in diploblastic animals. Cnidarians such as sea anemone and corals (Figure 2.3) are radially symmetrical. However, triploblastic animals like echinoderms (e.g., starfish) have five planes of symmetry and show **Pentamerous** **radial symmetry**.
@@ -78,7 +78,7 @@ Animals which possess two pairs of symmetrical sides are said to be
 
   
 
-![ Bilateral symmetry in Insects](2.5.png "")
+### Bilateral symmetry in Insects 2.5.png
 
 
 **biradially symmetrical** (Figure 2.4). Biradial symmetry is a combination of radial and bilateral symmetry as seen in ctenophores. There are only two planes of symmetry, one through the longitudinal and sagittal axis and the other through the longitudinal and transverse axis. (e.g., Comb jellyfish – _Pleurobrachia_)
@@ -91,7 +91,7 @@ _Radial symmetry in sea anemone_
 
 _Pentamerous radial symmetry in starfish_
 
-![ Biradial symmetry in comb jelly  ](2.4.png "")
+### Biradial symmetry in comb jelly   2.4.png
 
 
 from predators more efficiently. Animals that have dorsal and ventral sides, anterior and posterior ends, right and left sides are bilaterally symmetrical and exhibit cephalisation, in which the sensory and brain structures are concentrated at the anterior end of the animal.
@@ -145,10 +145,10 @@ pouches from gut Developing
 
 coelom
 
-![ Development of Schizocoelomata and Enterocoelomata](2.7.png "")
+### Development of Schizocoelomata and Enterocoelomata 2.7.png
 
 
-![ Diagrammatic repre](2.6.png "")
+### Diagrammatic repre 2.6.png
 
 
 What is the advantage of true coelom over a pseudocoelom?

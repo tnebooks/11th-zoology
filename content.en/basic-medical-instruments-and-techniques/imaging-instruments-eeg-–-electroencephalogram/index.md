@@ -16,7 +16,7 @@ tracks and records the brain wave patterns. It is a graphical recording of the e
 
 2\. It is useful in diagnosis of neurological and sleep disorders
 
-![ Autoanalyser](12.4.png "")
+### Autoanalyser 12.4.png
 
 
 
@@ -69,7 +69,7 @@ while he was studying on high voltage discharge phenomenon in a Crooker’s tube
 
 Ultrasound literally means sound beyond the range of human hearing. Ultrasound waves are produced by a physical phenomenon known as Piezo-electric effect. When an electric potential is applied to certain crystals for example: Lead zirconate, they become excited, vibrate and produce ultrasound. When the ultrasound waves are introduced through homogenous tissue, they pass unimpeded until they
 
-![ X Ray machine  ](12.6.png "")
+### X Ray machine   12.6.png
 
 
 meet another tissue or organ. A part or whole of the ultrasound wave is reflected and received back by the same crystal and is converted into an electrical signal. This signal denoting reflecting interface is shown on the oscilloscope screen as a deflection from the base line (Figure12.7).
@@ -88,7 +88,7 @@ meet another tissue or organ. A part or whole of the ultrasound wave is reflecte
 
 Computed tomography is originally known as computed axial tomography (CAT or CT Scan). The word tomography
 
-![ Ultrasonography](12.7.png "")
+### Ultrasonography 12.7.png
 
 
 
@@ -100,7 +100,7 @@ is derived from the Greek word _tomos_ means slice and _graphe_ means to write. 
 
 CT produces volumes of data which can be manipulated through a process known as windowing in order to demonstrate various structures based on their ability to block the X ray beam.
 
-![ CT Scan](12.8.png "")
+### CT Scan 12.8.png
 
 
 **Clinical significance** • Gives a clear image of bone, soft tissues

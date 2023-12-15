@@ -153,7 +153,7 @@ Parafollicular cell
 
   
 
-![ Negative feedback mechanism **Functions of thyrocalcitonin (TCT):**](11.4.png "")
+### Negative feedback mechanism **Functions of thyrocalcitonin (TCT):** 11.4.png
 
 
 TCT is a polypeptide hormone, which regulates the blood calcium and phosphate levels. It reduces the blood calcium level and opposes the effects of parathyroid hormone.
@@ -174,7 +174,7 @@ In human, four tiny parathyroid glands are found in the posterior wall of the th
 
 Thymus gland is partially an endocrine and partially a lymphoid organ. It is a bilobed structure located just above the heart and aorta, behind the sternum. It is covered by fibrous capsule and anatomically it is divisible into an outer cortex and an inner medulla. It secretes four hormones such **as thymulin, thymosin, thymopoietin and thymic humoral factor (THF). The primary** function of thymus is the production of immuno competent ‘T’ lymphocytes which provides cell mediated immunity.
 
-![ Structure of thymus gland](11.5.png "")
+### Structure of thymus gland 11.5.png
 
 
 
@@ -204,10 +204,10 @@ The general function of noradrenalin is to mobilize the brain and body for actio
 
   
 
-![ Structure of adrenal gland](11.6.png "")
+### Structure of adrenal gland 11.6.png
 
 
-![ Structure of Islets of langerhans (pa  ](11.7.png "")
+### Structure of Islets of langerhans (pa   11.7.png
 
 
 ### Pancreas

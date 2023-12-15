@@ -44,7 +44,7 @@ Stem
 
 **WBC pipette**
 
-![ Hemocytometer, RB  ](12.10.png "")
+### Hemocytometer, RB   12.10.png
 
 
 fluid (Hayem’s) is isotonic with blood, hence haemolysis does not occur. The blood is diluted 1:200 times with RBC diluting fluid and the cells are counted under 45X objective of the microscope.
@@ -114,7 +114,7 @@ A person suffering from severe fever, head ach and fatigue so he visits his doct
 
 2\. While maintaining contact with the bottom slide, pull the top slide back to contact the drop, which will spread by the capillary action.
 
-![ Peripheral blood smear preparation](12.11.png "")
+### Peripheral blood smear preparation 12.11.png
 
 
 **Cell Differential Count**
@@ -131,7 +131,7 @@ A person suffering from severe fever, head ach and fatigue so he visits his doct
 
 **Figure 12.13 Differential Count of** White blood cells
 
-![ Smear of peripheral blood](12.12.png "")
+### Smear of peripheral blood 12.12.png
 
 
 

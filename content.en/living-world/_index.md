@@ -53,7 +53,7 @@ Early classification of organisms were based on only two criteria, beneficial or
 
 After Aristotle, his student Theophrastus (372-287 BC) continued his research on the classification of plants, and he was known as the “Father of Botany.” There was a huge gap till 16th century, then the English naturalist John Ray (1627–1705) wrote several important works through his life. His most important contribution was the establishment of species as the ultimate unit of taxonomy. In 1682 he published the Methodus Plantarum Nova, which contained about 18,000 plant species, a result of a relatively narrow species concept. His complicated classification was based on many combined characters, as opposed to earlier taxonomists. John Ray also aimed at publishing a complete system of nature, which included works on mammals, reptiles, birds, fishes and insects. The Swedish biologist Carolus Linnaeus (1707 - 1788) father of modern taxonomy and founder of modern systematics developed a scientific system of taxonomy and binomial nomenclature, which is still (with modifications) in use. Aristotle to Linnaeus employed easily observable single to few traits for classification of organisms. With increased knowledge of the several biological domains, many characters were considered for classifying organisms. This represented the phase of classical taxonomy which was based on overall similarities or affinities derived from morphology, anatomy and embryology of organisms. A modification of this system is the numerical taxonomy, which evolved in the 1950s. This system evaluates the resemblances and differences through statistical methods followed by computer analyses to establish the numerical degree of relationship among individuals. Later on biologists initiated studies on the evolutionary and genetic relationships among organisms, which led to the emerge of phylogenetic classification or ­cladistics. It is an evolutionary classification based on how a common ancestry was shared. Cladistic classification ­ summarizes the genetic differences between all species in the ‘phylogenetic tree’. Ernst Haeckal introduced the method of representing evolutionary relationships with the help of a tree diagram known as cladogram. This system of classification takes into account ancestral characters (traits of basic body design which would be in the entire group) and derived characters (traits whose structure and functions differs from those of ancestral characters). One or more derived characters which appeared during evolution resulted in the formation of new subspecies. In a cladogram each evolutionary step produces a branching and all the members of the branch would possess the derived character which will not be seen in organisms below the particular branch point. Arranging organisms on the basis of their similar or derived characters which differ from the ancestral characters produced a phylogenetic tree or cladogram (Figure 1.1).
 
-![Figure 1.1 Example of a Cladogram](1.2.png "")
+
 
 Depending on the system of classification, organisms were classified into two or three kingdoms. Later into four, five, six and now into seven kingdoms. R.H.Whittaker (1969) proposed the Five kingdom Classification, the Kingdoms defined by him were Monera, Protista, Fungi, Plantae, and Animalia based on the cell structure, mode of nutrition, mode of reproduction and phylogenetic relationships. Table 1. gives a comparative account of different characteristics of the five kingdoms. Classification has come a long way and now takes into an account even molecular level DNA and RNA identification. The advancement in molecular techniques and biochemical assays has led to a new classification - The “Three Domain” classification.
 
@@ -77,7 +77,7 @@ Bacteria are prokaryotic, their cells have no definite nucleus and DNA exists as
 ### Domain Eukarya (Eukaryotes)
 Eukaryotes are animals which have true nucleus and membrane bound organelles. DNA in the nucleus is arranged as a linear chromosome with histone proteins, ribsosomes of 80S type in the cytosol and 70S type in the chloroplast and mitochondria. Organisms in this domain are classified under kingdoms, namely, Protista, Fungi, Plantae and Animalia. In 1987, Cavalier-Smith revised the six kingdom system to Seven Kingdom system. The concept of super kingdom was introduced and revised to seven kingdom classification. The classification is divided into two Super Kingdoms (Prokaryota and Eukaryota) and seven kingdoms, two Prokaryotic Kingdoms (Eubacteria and Archaebacteria) and five Eukaryotic Kingdoms (Protozoa, Chromista, Fungi, Plantae and Animalia) (Table 1.1).
 
-![](1.7.png "")
+
 
 ## 1.5 Taxonomic hierarchy
 In biological classification, the taxonomical hierarchy includes seven major categories namely kingdom, phylum, class, order, family, genus and species and other intermediate categories such as subkingdom, grade, division, subdivision, subphylum, superclass, subclass, superorder, suborder, superfamily, subfamily and subspecies. 
@@ -94,7 +94,7 @@ Species is the basic unit of classification in the taxonomic hierarchial system.
 
 **Class:** This category includes one or more related orders with some common characters. For example order Primata comprising monkeys, apes and man is placed in the Class Mammalia, along with the order Carnivora which includes dogs and cats.
 
-![Figure 1.2 Sterile offsprings](1.3.png "")
+
 
 ```
 **Crosses between**
@@ -107,7 +107,7 @@ Male Lion and Female Tiger results in Liger
 
 Male Tiger and Female Lion results in Tigon
 ```
-![Figure 1.2 Sterile offsprings](1.4.png "")
+
 
 **Phylum:** The group of classes with
 similar

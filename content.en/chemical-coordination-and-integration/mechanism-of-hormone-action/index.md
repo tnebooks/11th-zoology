@@ -44,7 +44,7 @@ Hormones speed up or slow down or alter the activities of target organs. The hyp
 
 Hypothalamus interlinks nervous system and endocrine system. It is located in the diencephalon of cerebrum and controls the pituitary secretion. Pituitary gland secretes six tropic hormones which regulates various physiological functions of our body. Posterior pituitary gland secretes vasopressin that regulates water and electrolyte balance. Oxytocin helps during child birth. Melatonin secreted by pineal gland regulates circadian rhythm of our body. The thyroid gland secretes thyroxine which stimulates the nervous  
 
-![ Mechanism of steroid hormone action](11.18.png "")
+### Mechanism of steroid hormone action 11.18.png
 
 
 system, skeletal growth, and regulates basal metabolic rate.

@@ -80,7 +80,7 @@ Animals in which the cells are arranged in two embryonic layers (Figure 2.1), th
 
 Animals in which the developing embryo has three germinal layers are called **triploblastic** animals and consists of outer ectoderm (skin, hair, neuron, nail, teeth, etc), inner endoderm (gut, lung, liver) and middle mesoderm (muscle, bone, heart). Most of the triploblastic animals show organ system level of organisation (Flat worms to Chordates).
 
-![ Germinal layers](2.1.png "")
+### Germinal layers 2.1.png
 
 
 ### Patterns of symmetry
@@ -90,7 +90,7 @@ in which parts that lie on opposite side
 
 of an axis are identical. An animal’s body plan results from the animal’s pattern of development. The simplest body plan is seen in sponges (Figure 2.2). They do not display symmetry and are **asymmetrical**. Such animals lack a definite body plan or are irregular shaped and any plane passing through the centre of the body does not divide them into two equal halves (Sponges). An asymmetrical body plan is also seen in adult gastropods (snails).
 
-![ Asymmetry in sponges](2.2.png "")
+### Asymmetry in sponges 2.2.png
 
 
 Symmetrical animals have paired body parts that are arranged on either side of a plane passing through the central axis. When any plane passing through the central axis of the body divides an organism into two identical parts, it is called **radial symmetry**. Such radially symmetrical animals have a top and bottom side but no dorsal (back) and ventral (abdomen) side, no right and left side. They have a body plan in which the body parts are organised in a circle around an axis. It is the principal symmetry in diploblastic animals. Cnidarians such as sea anemone and corals (Figure 2.3) are radially symmetrical. However, triploblastic animals like echinoderms (e.g., starfish) have five planes of symmetry and show **Pentamerous** **radial symmetry**.
@@ -102,7 +102,7 @@ Animals which possess two pairs of symmetrical sides are said to be
 
   
 
-![ Bilateral symmetry in Insects](2.5.png "")
+### Bilateral symmetry in Insects 2.5.png
 
 
 **biradially symmetrical** (Figure 2.4). Biradial symmetry is a combination of radial and bilateral symmetry as seen in ctenophores. There are only two planes of symmetry, one through the longitudinal and sagittal axis and the other through the longitudinal and transverse axis. (e.g., Comb jellyfish – _Pleurobrachia_)
@@ -115,7 +115,7 @@ _Radial symmetry in sea anemone_
 
 _Pentamerous radial symmetry in starfish_
 
-![ Biradial symmetry in comb jelly  ](2.4.png "")
+### Biradial symmetry in comb jelly   2.4.png
 
 
 from predators more efficiently. Animals that have dorsal and ventral sides, anterior and posterior ends, right and left sides are bilaterally symmetrical and exhibit cephalisation, in which the sensory and brain structures are concentrated at the anterior end of the animal.
@@ -169,10 +169,10 @@ pouches from gut Developing
 
 coelom
 
-![ Development of Schizocoelomata and Enterocoelomata](2.7.png "")
+### Development of Schizocoelomata and Enterocoelomata 2.7.png
 
 
-![ Diagrammatic repre](2.6.png "")
+### Diagrammatic repre 2.6.png
 
 
 What is the advantage of true coelom over a pseudocoelom?
@@ -279,7 +279,7 @@ central cavity (**spongocoel)** and goes out through the osculum. This water tra
 
 Examples: _Sycon_ (Scypha), _Spongilla_ (fresh water sponge), _Euspongia_ (bath sponge) Euplectella (Venus flower basket) (Figure 2.9).
 
-![ Examples of Porifera](2.9.png "")
+### Examples of Porifera 2.9.png
 
 
 _Sycon Hyalonema_
@@ -295,7 +295,7 @@ The underwater sea bed is the new habitat where the discovery and development of
 
 Coelenterata), are aquatic, sessile or free swimming, solitary or colonial forms with radial symmetry The name Cnidaria is derived from **cnidocytes** or **cnidoblasts** with **stinging cells** or **nematocyst** on tentacles. Cnidoblasts are used for anchorage, defense, and to capture the prey. Cnidarians are the first group of animals to exhibit tissue level organisation and are diploblastic. They have a central vascular cavity or **coelenteron** (serves both digestion and circulatory function) with a single opening called mouth or hypostome, which serves the process of ingestion and egestion. Digestion is both extracellular and intracellular. The nervous system is primitive and is formed of diffused nerve net. Cnidarians like corals have a skeleton made up of calcium carbonate. Cnidarians exhibit two basic body forms, polyp and medusa. The polyp forms are sessile and cylindrical (e.g. _Hydra, Adamsia_), whereas the **medusa** are umbrella shaped and free swimming. Cnidarians which exist
 
-![ Examples of Cnidarians](2.10.png "")
+### Examples of Cnidarians 2.10.png
 
 
 _Adamsia Pennatula_
@@ -322,7 +322,7 @@ biradially symmetrical, diploblastic animals with tissue level of organisation. 
 
 Examples : _Pleurobrachia and Ctenoplana_.
 
-![ Example of Ctenophora- _Pleurobrachia_](2.11.png "")
+### Example of Ctenophora- _Pleurobrachia_ 2.11.png
 
 
 ### Phylum: Platyhelminthes (Flatworms)
@@ -348,10 +348,10 @@ Examples: _Taenia_ _solium_ (Tape worm), _Fasciola hepatica_ (Liver fluke), _Sch
 
 Nematoda, this phylum is now named as Aschelminthes. The body of these worms is circular (round) in cross section and hence are called round worms. They are free living or parasitic on aquatic and terrestrial plants and animals. They are bilaterally symmetrical, triploblastic and pseudocoelomate animals with organ system level of organisation. The body is unsegmented and covered by a transparent,
 
-![ Example _Planaria Liverfl_](2.12.png "")
+### Example _Planaria Liverfl_ 2.12.png
 
 
-![ Example _Ascaris Filarial_  ](2.13.png "")
+### Example _Ascaris Filarial_   2.13.png
 
 
 tough and protective collagenous layer called cuticle. The alimentary canal is complete with a well developed mouth, muscular pharynx and anus. Excretory system consists of renette glands. Sexes are separate; and exhibit sexual dimorphism; often females are longer than males. Fertilisation is internal; majority are oviparous (e.g. _Ascaris_) few are ovoviviparous (_Wuchereria_). Development may be direct or indirect.
@@ -380,7 +380,7 @@ Examples: _Lampito mauritii_ (earthworm), _Neries_ (sand worm), _Hirudinaria_ (l
 
 How is cephalisation advantageous to animals in finding food?
 
-![ Exam _Earthworm Nere_  ](2.14.png "")
+### Exam _Earthworm Nere_   2.14.png
 
 
 **Filariasis** has been a major public health problem in India next only to malaria. The disease was recorded in India as early as 6th century B.C. by the famous Indian physician, Susruta in his book **Susruta Samhita.** In 7 th century A.D., **Madhavakara** described signs and symptoms of the disese in his treatise ‘ Madhava Nidhana’ which holds good even today. In 1709, Clarke identified elephantoid legs in Cochin. The microfilariae in the peripheral blood was first identified by Lewis in 1872 in Calcutta (Kolkata).
@@ -405,7 +405,7 @@ Examples : _Limulus_ (King crab, a living fossil), _Palamnaeus_ (Scorpion), _Eup
 
 Spider silk is five times stronger than steel of the same diameter. It has been suggested that a Boeing 747 could be stopped in flight by a single pencil- width strand and spider silk is almost as strong as Kevlar, the toughest man-made polymer.
 
-![ Examp](2.15.png "")
+### Examp 2.15.png
 
 
 _Prawn Hermit_
@@ -434,7 +434,7 @@ respiratory pigment. They are dioecious and oviparous. Development is indirect w
 
 Examples: _Pila_ (Apple snail), _Lamellidens_ (Mussel), _Pinctada_ (Pearl oyster), _Sepia_ (Cuttle fish), _Loligo_ (Squid), _Octopus_ (Devil fish) (Figure 2.16).
 
-![ Examples of Mollusca](2.16.png "")
+### Examples of Mollusca 2.16.png
 
 
 _Pila Octopus_
@@ -460,7 +460,7 @@ Examples: _Asterias_ (Starfish or Sea star), _Echinus_ (Sea-urchin), _Antedon_ (
 
 _Brittle star_
 
-![ Examples of Echinodermata](2.17.png "")
+### Examples of Echinodermata 2.17.png
 
 
 _Starfish_
@@ -483,7 +483,7 @@ This phylum consists of a small group of worm-like, soft marine animals, mostly 
 
 Examples: _Balanoglossus_, _Saccoglossus, Ptychodera flava (Indian Hemichordate_ found in Kurusadai islands in Tamilnadu) (Figure 2.18).
 
-![ Example of](2.18.png "")
+### Example of 2.18.png
 
 
 Hemichordata - Balanoglossus  
@@ -503,7 +503,7 @@ Dorsal, hollow
 
 nerve cord
 
-![ A Typical Chordate](2.19.png "")
+### A Typical Chordate 2.19.png
 
 
 1\. Presence of elongated rod like notochord below the nerve cord and above the alimentary canal. It serves as a primitive internal skeleton. It may persist throughout life in lancelets and lampreys. In adult vertebrates, it may be partially or completely replaced by backbone or vertebral column.
@@ -532,7 +532,7 @@ commonly called **sea squirts**. Mostly sessile, some pelagic or free swimming, 
 
 Notochord is present Dorsal, hollow and single nerve cord Pharynx perforated by gill slits Heart is ventrally placed A post anal tail is present Alimentary canal is placed ventral to the nerve cord
 
-![ Exampl _Ascidia Salpa_  ](2.20.png "")
+### Exampl _Ascidia Salpa_   2.20.png
 
 
 unsegmented and covered by a test or tunic. Adult forms are sac like. Coelom is absent, but has an atrial cavity surrounding the pharynx. Notochord is present only in the tail region of the larval stage, hence named urochordata. Alimentary canal is complete and circulatory system is of open type. The heart is ventral and tubular. Respiration is through gill slits and clefts. Dorsal tubular nerve cord is present only in the larval stage and a single dorsal ganglion is present in the adults. Mostly hermaphrodites, development indirect and includes a free swimming **tadpole larva** with chordate characters. **Retrogressive metamorphosis** is seen (Figure 2.20).
@@ -571,7 +571,7 @@ fish like coelomate forms with chordate characters such us notochord, dorsal tub
 
 Example: _Branchiostoma_ (Amphioxus or lancelet)
 
-![ Example of Cephalochordata - Amphioxus](2.21.png "")
+### Example of Cephalochordata - Amphioxus 2.21.png
 
 
 Pharyngeal gill slits
@@ -600,7 +600,7 @@ without paired appendages. Notochord persists in the adult. Gnathostomata includ
 
 All members of cyclostomata are primitive, poikilothermic, jawless aquatic vertebrates and are ectoparasites on some fishes. Body is slender and eel-like bearing six to fifteen pair of gill slits for respiration**.** Mouth is circular without jaws and suctorial. Heart is two chambered and circulation is of closed type. No paired appendages. Cranium and vertebral column are cartilaginous. Cyclostomes are marine but migrate to fresh waters for spawning **(anadromous migration). After spawning within a few** days they die. The larvae (ammocoete) after metamorphosis returns to the ocean. Examples: _Petromyzon_ (Lamprey) and _Myxine (Hag fish) (Figure 2.22)._
 
-![ Examples of Cyclostomata](2.22.png "")
+### Examples of Cyclostomata 2.22.png
 
 
 _Lamprey Hag fish_
@@ -624,12 +624,12 @@ Examples: _Scoliodon_ (Shark), _Trygon_ (Sting ray), Pristis (Saw fish) (Figure 
 
 It includes both marine and freshwater fishes with bony endoskeleton and spindle
 
-![ Examp](2.24.png "")
+### Examp 2.24.png
 
 
 _Flying fish Sea horse Angel_
 
-![ Example _Shark Pris_  ](2.23.png "")
+### Example _Shark Pris_   2.23.png
 
 
 shaped body. Skin is covered by **ganoid**, **cycloid** or **ctenoid scales**. Respiration is by four pairs of filamentous gills and is covered by an operculum on either side. Air bladder is present with or without a connection to the gut. It helps in gaseous exchange (lung fishes) and for maintaining buoyancy in most of the ray finned fishes. They have a ventrally placed two chambered heart. Excretory organs are **mesonephric** **kidneys** and are **ammonotelic**. Presence of well developed **lateral line sense organ**. Sexes are separate, external fertilization is seen and most forms are oviparous (Figure 2.24).
@@ -656,7 +656,7 @@ skin is smooth or rough, moist, pigmented and glandular. Eyes have eyelids and t
 
 Examples: _Bufo_ (Toad), _Rana_ (Frog), _Hyla_ (Tree frog), _Salamandra_ (Salamander), _lcthyophis_ (Limbless amphibians) (Figure 2.25).
 
-![ Examples of Amphibia](2.25.png "")
+### Examples of Amphibia 2.25.png
 
 
 _Frog Toad_
@@ -676,7 +676,7 @@ scutes. Reptiles have three chambered heart but four chambered in crocodiles. Al
 
 Examples : _Chelone_ (Turtle), _Testudo_ (tortoise), _Hemidactylus_ (House lizard), _Chameleon_ (Tree lizard), _Calotes_ (Garden lizard), _Draco_ (Flying lizard), _Crocodilus_ (crocodile), Poisonous snakes - _Naja_ (Cobra), _Bangarus_ (Krait), _Vipera_ (Viper) (Figure 2.26).
 
-![ Examples of Reptiles](2.26.png "")
+### Examples of Reptiles 2.26.png
 
 
 _King cobra Draco (Flying Lizard)_
@@ -703,7 +703,7 @@ The Hooded Pitohui is a songbird found in the rain forests of New Guinea, The fi
 
 Examples _Corvus_ (Crow), _Columba_ (Pigeon), _Psittacula_ (Parrot), _Pavo_ (Peacock), _Aptenodytes_ (Penguin), _Neophron_ (Vulture), _Chalcophaps indica_ (Tamilnadu state bird, Common Emerald Dove) (Figure 2.27).
 
-![ Examples of Aves](2.27.png "")
+### Examples of Aves 2.27.png
 
 
 _VultureCommon Emerald Dove (Tamil Nadu State Bird)_
@@ -724,7 +724,7 @@ They are found in a variety of habitats. Their body is covered by hair, a unique
 
 Examples Oviparous- _Ornithorhynchus_ (Platypus), Viviparous- _Macropus_ (Kangaroo), _Pteropus_ (Flying
 
-![ Exam](2.28.png "")
+### Exam 2.28.png
 
 
 _Monkeys Elepha_

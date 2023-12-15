@@ -17,7 +17,7 @@ binds to an actin and activates a contraction – relaxation cycle which is foll
 
 The power stroke (cross-bridge tilting) begins after the myosin head and hinge region tilt from a 90° angle to a 45° angle. The cross- bridge transforms into strong, high-force bond which allows the myosin head to swivel. When the myosin head swivels it pulls the attached actin filament towards the centre of the A-band. The myosin returns back to its relaxed state and releases ADP and phosphate ion. A new ATP molecule then binds to the head of the myosin and the cross-bridge is
 
-![ Cross-bridge cycle of mus  ](9.3.png "")
+### Cross-bridge cycle of mus   9.3.png
 
 
 broken. At the end of each power stroke, each myosin head detaches from actin, then swivels back and binds to a new actin molecule to start another contraction cycle. This movement is similar to the motion of an oar on a boat. At the end of each power stroke, each myosin head detaches from actin, then swivels back and binds to a new actin molecule to start another contraction cycle. The power stroke repeats many times until a muscle fibre contracts. The myosin heads bind, push and release actin molecules over and over as the thin filaments move toward the centre of the sarcomere. The repeated formation of cross-

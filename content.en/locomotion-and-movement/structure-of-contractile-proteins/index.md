@@ -8,7 +8,7 @@ Structure of contractile proteins## Structure of contractile proteins
 
 Contraction of the muscle depends on the presence of contractile proteins (Figure 9.2) such as **actin** and **myosin** in the myofilaments. The thick filaments are composed of the protein myosin which are bundled together whose heads produce at opposite ends of the filament. Each myosin molecule is made up of a monomer called meromyosin. The meromyosin has two regions, a globular head with a short arm and a tail. The short arm constitutes the heavy meromyosin (HMM). The tail portion forms the light meromyosin (LMM). The head bears an actin-binding site and an ATP- binding site. It also contains ATPase enzyme that split ATP to generate energy for the contraction of muscle. The thin filaments are composed of two interwined actin molecules. Actin has polypeptide subunits called globular
 
-![ Organizational level of a skeletal muscle](9.1.png "")
+### Organizational level of a skeletal muscle 9.1.png
 
 
 

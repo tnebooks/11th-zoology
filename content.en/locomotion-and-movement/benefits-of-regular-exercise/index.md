@@ -33,6 +33,6 @@ During muscular exercise, there is an increase in metabolism. The O2 need of the
 
   
 
-![ Types of bone fracture](9.12.png "")
+### Types of bone fracture 9.12.png
 
 

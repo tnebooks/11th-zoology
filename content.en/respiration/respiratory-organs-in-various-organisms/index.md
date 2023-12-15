@@ -84,9 +84,9 @@ blood and the cells. v. Uptake of O2 by the cells for various
 
 activities and the release of CO2.
 
-![ Structure of alveoli](6.3.png "")
+### Structure of alveoli 6.3.png
 
 
-![ The Human Respiratory tract  ](6.2.png "")
+### The Human Respiratory tract   6.2.png
 
 

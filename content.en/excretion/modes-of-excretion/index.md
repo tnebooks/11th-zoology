@@ -25,7 +25,7 @@ Animals
 
 Nitrogenous wastes
 
-![ Excretory products  ](8.1.png "")
+### Excretory products   8.1.png
 
 
 urine, whereas mammalian kidneys produce concentrated (hyperosmotic) urine due to the presence of long Henle’s loop. The Loop of Henle of the nephron has evolved to form hypertonic urine. Aglomerular kidneys of marine fishes produce little urine that is isoosmotic to the body fluid. Amphibians and fresh water fish lack Henle’s loop hence produce dilute urine (hypoosmotic).

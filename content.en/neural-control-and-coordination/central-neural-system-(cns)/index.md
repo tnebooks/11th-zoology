@@ -36,7 +36,7 @@ Occipital Visual processing
 
 **Table 10.2** Functions of brain lobes
 
-![ Lobes of Cerebral hemisphere](10.7.png "")
+### Lobes of Cerebral hemisphere 10.7.png
 
 
 **Diencephalon** consists largely of following three paired structures.
@@ -64,7 +64,7 @@ Human brain is formed of a large number of parts like cerebrum, thalamus, hypoth
 
 the brain. b) Damage to medulla may cause the death of organism.
 
-![ Mid sagittal section of brain](10.8.png "")
+### Mid sagittal section of brain 10.8.png
 
 
 Corpus callosum Septum pellucidum
@@ -107,7 +107,7 @@ Cerebellum
 
   
 
-![ Brain stem](10.10.png "")
+### Brain stem 10.10.png
 
 
 Thalamus
@@ -126,7 +126,7 @@ Medulla oblongata
 
 **Hind brain** Rhombencephalon forms the hind brain. It comprises of cerebellum, pons varolii and medulla oblongata. **Cerebellum** is
 
-![ Limbic system](10.9.png "")
+### Limbic system 10.9.png
 
 
 Cingulate gyrus
@@ -159,7 +159,7 @@ found in the roof of the ventricles and forms **cerebro spinal fluid (CSF)** fro
 ### Spinal Cord
  The spinal cord is a long, slender, cylindrical nervous tissue. It is protected by the vertebral column and surrounded by the three membranes as in the brain. The spinal cord that extends from the brain stem into the vertebral canal of the vertebral column up to the level of 1st or 2nd lumbar vertebra. So the nerve roots of the remaining nerves are greatly elongated to exit the vertebral column at their appropriate space. The thick bundle of elongated nerve roots within the lower vertebral canal is called the **cauda equina** (horse’s tail) because of its appearance**.**
 
-![ C.S me](10.11.png "")
+### C.S me 10.11.png
 
 
 me

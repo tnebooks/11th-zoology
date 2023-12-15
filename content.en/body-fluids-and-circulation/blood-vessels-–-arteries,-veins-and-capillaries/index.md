@@ -73,7 +73,7 @@ Endothelium
 
 **Capillary**
 
-![ Structure of Blood vessels  ](7.5.png "")
+### Structure of Blood vessels   7.5.png
 
 
 are small, narrow, and thin walled which are connected to the capillaries. A small sphincter lies at the junction between the arterioles and capillaries to regulate the blood supply. Arteries do not always branch into arterioles, they can also form anastomoses.

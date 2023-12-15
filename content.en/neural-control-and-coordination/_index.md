@@ -76,7 +76,7 @@ short fibres coming out of the cell body are called **dendrites,** which transmi
 
 An axon is a long fibre that arises from a cone shaped area of the cell body called the **Axon hillock** and ends at the branched distal end. Axon hillock is the place where the nerve impulse is generated in the motor neurons. The axon of one-neuron branches and forms connections with many other neurons. An axon contains the same organelles found in the dendrites and cell body but lacks Nissl’s granules and Golgi apparatus.
 
-![ Neuron](10.1.png "")
+### Neuron 10.1.png
 
 
 Nucleus with nucleolus
@@ -137,7 +137,7 @@ Myelin sheath
 
 Axon terminal
 
-(a) Multipolar neuron (b) Bipolar neu ![ Typ  ](10.2.png "")
+(a) Multipolar neuron (b) Bipolar neu ### Typ   10.2.png
 
 
 across their axolemma for transmission of impulses. This unequal distribution of ions establishes the membrane potential across the axolemma. The axolemma contains a variety of membrane proteins that act as ionic channels and regulates the movement of ions across the axolemma. (Shown in Table 10.1).
@@ -188,7 +188,7 @@ They a of the the ce cell b opens diffus
 
 These memb There **i. Sod ii. Pot**
 
-![ Ionic channels](10.3.png "")
+### Ionic channels 10.3.png
 
 
 Extracellular Fluid
@@ -308,7 +308,7 @@ Axon
 
 –
 
-![ Conduction of nerve im](10.4.png "")
+### Conduction of nerve im 10.4.png
 
 
 50
@@ -351,7 +351,7 @@ Myelin sheath
 
 pulse
 
-![ Graph showing Action potential in Neuron](10.5.png "")
+### Graph showing Action potential in Neuron 10.5.png
 
 
 0 1 2 3 4 5 6 7
@@ -431,7 +431,7 @@ Ca2+
 
 Ligand-gated channel open
 
-![ Synaptic Transmission](10.6.png "")
+### Synaptic Transmission 10.6.png
 
 
 ## Central Neural System (CNS)
@@ -467,7 +467,7 @@ Occipital Visual processing
 
 **Table 10.2** Functions of brain lobes
 
-![ Lobes of Cerebral hemisphere](10.7.png "")
+### Lobes of Cerebral hemisphere 10.7.png
 
 
 **Diencephalon** consists largely of following three paired structures.
@@ -495,7 +495,7 @@ Human brain is formed of a large number of parts like cerebrum, thalamus, hypoth
 
 the brain. b) Damage to medulla may cause the death of organism.
 
-![ Mid sagittal section of brain](10.8.png "")
+### Mid sagittal section of brain 10.8.png
 
 
 Corpus callosum Septum pellucidum
@@ -538,7 +538,7 @@ Cerebellum
 
   
 
-![ Brain stem](10.10.png "")
+### Brain stem 10.10.png
 
 
 Thalamus
@@ -557,7 +557,7 @@ Medulla oblongata
 
 **Hind brain** Rhombencephalon forms the hind brain. It comprises of cerebellum, pons varolii and medulla oblongata. **Cerebellum** is
 
-![ Limbic system](10.9.png "")
+### Limbic system 10.9.png
 
 
 Cingulate gyrus
@@ -590,7 +590,7 @@ found in the roof of the ventricles and forms **cerebro spinal fluid (CSF)** fro
 ### Spinal Cord
  The spinal cord is a long, slender, cylindrical nervous tissue. It is protected by the vertebral column and surrounded by the three membranes as in the brain. The spinal cord that extends from the brain stem into the vertebral canal of the vertebral column up to the level of 1st or 2nd lumbar vertebra. So the nerve roots of the remaining nerves are greatly elongated to exit the vertebral column at their appropriate space. The thick bundle of elongated nerve roots within the lower vertebral canal is called the **cauda equina** (horse’s tail) because of its appearance**.**
 
-![ C.S me](10.11.png "")
+### C.S me 10.11.png
 
 
 me
@@ -776,7 +776,7 @@ The cornea is the only tissue in the body that can be transplanted from one pers
 
 in the iris contract; so that the pupil size increases and more light enters the eye. Smooth muscle present in the ciliary body is called the **ciliary muscle** which alters the convexity of the lens for near and far vision. The ability of the eyes to focus objects at varying distances is called **accommodation** which is achieved by
 
-![ L.S. of the eye](10.14.png "")
+### L.S. of the eye 10.14.png
 
 
 **Retina** forms the inner most layer of the eye and it contains two regions: A sheet of **pigmented epithelium** (non visual part) and **neural visual regions.** The neural retina layer contains three types of cells: photoreceptor cells – **cones and rods** (Figure 10.15 and Table 10.4), **bipolar cells and ganglion cells.**
@@ -789,7 +789,7 @@ The pigment present in the rods is rhodopsin, formed of a protein scotopsin and 
 
 **suspensory ligament, ciliary muscle** and **ciliary body**. The suspensory ligament extends from the ciliary body and helps to hold the lens in its upright position. The ciliary body is provided with blood capillaries that secrete a watery fluid called **aqueous humor** that fills the anterior chamber.
 
-![ Rod and Cone cells](10.15.png "")
+### Rod and Cone cells 10.15.png
 
 
 The yellow flat spot at the centre of the posterior region of the retina is called **macula lutea** which is responsible for sharp detailed vision. A small depression present in the centre of the yellow spot is called **fovea centralis** which contains only cones. The optic nerves and the retinal blood vessels enter the eye slightly
@@ -885,7 +885,7 @@ Tympanum
 
 AirSound
 
-![ Path of Sound wave  ](10.17.png "")
+### Path of Sound wave   10.17.png
 
 
 connective tissues covered with skin outside and with mucus membrane inside.
@@ -917,7 +917,7 @@ with endolymph. At the base of the cochlea, the scala vestibule ends at the ‘o
 
 base of hair cells and the action potential is propagated to the brain as sound sensation through cochlear nerve.
 
-![ Organ of Corti](10.18.png "")
+### Organ of Corti 10.18.png
 
 
 **Defects of Ear** Deafness may be temporary or permanent. It can be further classified into **conductive deafness** and **sensory-neural deafness**. Possible causes for conductive deafness may be due to
@@ -943,7 +943,7 @@ accumulation iv. Restriction of ossicular movement.In
 
 the position, orientation and movement of the body. The organ of balance is known as the **vestibular system** which is located in the inner ear next to the cochlea. The vestibular system is composed of a series of fluid filled sacs and tubules.These sacs and tubules contain endolymph and are kept in the surrounding perilymph (Figure 10.19). These two fluids, perilymph and endolymph, respond to the mechanical forces, during changes occurring in body position and acceleration.
 
-![ Organ of Equilibrium](10.19.png "")
+### Organ of Equilibrium 10.19.png
 
 
 Name the parts of the organ of equilibrium involved in the following functions. a) Linear movement of the body b) Changes in the body position c) Rotational movement of the head.
@@ -966,10 +966,10 @@ chemoreceptors. The smell receptors are excited by air borne chemicals that diss
 
 lobe of the brain for identification of smell and the limbic system for the emotional responses to odour. **Gustatory receptor: The sense of taste is** considered to be the most pleasurable of all senses. The tongue is provided with many small projections called **papillae** which give the tongue an abrasive feel. Taste buds are located mainly on the papillae which are scattered
 
-![ Gustatory receptor](10.20.png "")
+### Gustatory receptor 10.20.png
 
 
-![ Skin receptors  ](10.21.png "")
+### Skin receptors   10.21.png
 
 
 over the entire tongue surface. Most taste buds are seen on the tongue (Figure 10.20) few are scattered on the soft palate, inner surface of the cheeks, pharynx and epiglottis of the larynx. Taste buds are flask-shaped and consist of 50 – 100 epithelial cells of two major types. **Gustatory epithelial cells** (taste cells) and **Basal epithelial cells** (Repairing cells**)** Long microvilli called **gustatory hairs** project from

@@ -16,7 +16,7 @@ Cockroach is a typical cosmopolitan insect and exhibits all the fundamental char
 
 The head of cockroach is small, triangular lies at right angle to the longitudinal body **axis**. the mouth parts are directed downwards so it is **hypognathous.** It is formed by the fusion of six segments and shows great mobility in all directions due to a flexible neck (Figure 4.8). The head capsule bears a pair of large, sessile, and reniform **compound eyes**, a pair of
 
-![ _Periplaneta americana:_ **(**a) External features (b) Head dorsal and ventral view (c) Male and Female ventral](4.8.png "")
+### _Periplaneta americana:_ **(**a) External features (b) Head dorsal and ventral view (c) Male and Female ventral 4.8.png
 
 
 view of posterior segment of abdomen
@@ -31,7 +31,7 @@ The cockroaches are ancient and most basic among all groups of insects, dating b
 
   
 
-![ _Periplaneta americana_](4.9.png "")
+### _Periplaneta americana_ 4.9.png
 
 
 antennae and appendages around the mouth. Antennae have sensory receptors that help in monitoring the environment. The appendages form the mouth parts which are of biting and chewing type (**Mandibulate** or **Orthopterus type**).
@@ -69,7 +69,7 @@ One of the fastest moving land insects is the cockroach. They can move as fast a
 
 Digestive glands of cockroach consist of the salivary glands, the glandular cells and hepatic caecae. A pair of salivary glands is found on either side of the crop in the thorax. The glandular cells of the midgut and hepatic or gastric caecae produce digestive juices.
 
-![ _Periplaneta americana_: Digestive system](4.10.png "")
+### _Periplaneta americana_: Digestive system 4.10.png
 
 
 e cockroach **h Female cockroach**
@@ -109,7 +109,7 @@ The respiratory system of cockroach is well developed compared with other terres
 
 SPIRACLES TRACHEA TISSUES TRACHEOLES
 
-![ _Periplaneta americana_: Tracheal system in dorsal view  ](4.11.png "")
+### _Periplaneta americana_: Tracheal system in dorsal view   4.11.png
 
 
 **Circulatory system**
@@ -129,7 +129,7 @@ Respiratory system of cockroach is formed of spiracles and tracheal interconnect
 
 The nervous system of cockroach consists of a **nerve ring** and a **ganglionated** **double ventral nerve cord**, **sub- oesophageal ganglion**, **circum– oesophageal connectives** and **double** **ventral nerve cord (Figure 4.13)**. The nerve ring is present around the oesophagus in the head capsule and is formed by the supra-oesophagial ganglion called the **‘brain’**, The brain is mainly a
 
-![ _Periplaneta americana_: Circulatory system](4.12.png "")
+### _Periplaneta americana_: Circulatory system 4.12.png
 
 
 A **cockroach** can hold its breath for 45 minutes, and can even survive being submerged under
@@ -140,7 +140,7 @@ sensory and an endocrine centre and lies above the oesophagus. Sub-oesophageal g
 
 In cockroach, the sense organs are antennae, compound eyes, labrum, maxillary palps, labial palps and anal cerci. The receptor for touch (thigmo receptors) is located in the antenna, maxillary palps and cerci. The receptor for smell (olfactory receptors) is found on the antennae. The receptor for taste (gustatory receptors) is found on the palps of maxilla and labium.
 
-![ _Periplaneta americana_: Nervous system](4.13.png "")
+### _Periplaneta americana_: Nervous system 4.13.png
 
 
 
@@ -179,7 +179,7 @@ The female reproductive system of cockroach consists of a **pair of ovaries**, *
 
 abdominal segment. Each ovary is formed of a group of eight ovarian tubules or ovarioles, containing a chain of developing ova. The lateral oviducts of each ovary unite into a broad median common oviduct known as vagina, which opens into the genital chamber. The vertical opening of the vagina is the female genital pore. A pair of spermathecae is present in the 6th segment, which opens by a median aperture in the dorsal wall of the genital pouch. During copulation, the ova descend to the genital chamber, where they are fertilized by the sperms. A pair of white and branched **collaterial glands**
 
-![ _Periplaneta americana reproductive system_  ](4.14.png "")
+### _Periplaneta americana reproductive system_   4.14.png
 
 
 present behind the ovaries forms a hard egg case called **Ootheca** around the eggs. Genital pouch is formed by the 7th, 8th and 9th abdominal sterna. The genital pouch has two chambers, a genital chamber into which the vagina opens and an oothecal chamber where oothecae are formed. Three pairs of plate like chitinous structures called gonapophyses are present around the female genital aperture. These gonapophyses guide the ova into the ootheca as ovipositors. (Figure 4. 14).

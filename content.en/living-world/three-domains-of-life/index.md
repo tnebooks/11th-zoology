@@ -22,5 +22,5 @@ Bacteria are prokaryotic, their cells have no definite nucleus and DNA exists as
 ### Domain Eukarya (Eukaryotes)
 Eukaryotes are animals which have true nucleus and membrane bound organelles. DNA in the nucleus is arranged as a linear chromosome with histone proteins, ribsosomes of 80S type in the cytosol and 70S type in the chloroplast and mitochondria. Organisms in this domain are classified under kingdoms, namely, Protista, Fungi, Plantae and Animalia. In 1987, Cavalier-Smith revised the six kingdom system to Seven Kingdom system. The concept of super kingdom was introduced and revised to seven kingdom classification. The classification is divided into two Super Kingdoms (Prokaryota and Eukaryota) and seven kingdoms, two Prokaryotic Kingdoms (Eubacteria and Archaebacteria) and five Eukaryotic Kingdoms (Protozoa, Chromista, Fungi, Plantae and Animalia) (Table 1.1).
 
-![](1.7.png "")
+
 

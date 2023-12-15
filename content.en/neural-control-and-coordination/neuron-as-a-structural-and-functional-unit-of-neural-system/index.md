@@ -17,7 +17,7 @@ short fibres coming out of the cell body are called **dendrites,** which transmi
 
 An axon is a long fibre that arises from a cone shaped area of the cell body called the **Axon hillock** and ends at the branched distal end. Axon hillock is the place where the nerve impulse is generated in the motor neurons. The axon of one-neuron branches and forms connections with many other neurons. An axon contains the same organelles found in the dendrites and cell body but lacks Nissl’s granules and Golgi apparatus.
 
-![ Neuron](10.1.png "")
+### Neuron 10.1.png
 
 
 Nucleus with nucleolus
@@ -78,7 +78,7 @@ Myelin sheath
 
 Axon terminal
 
-(a) Multipolar neuron (b) Bipolar neu ![ Typ  ](10.2.png "")
+(a) Multipolar neuron (b) Bipolar neu ### Typ   10.2.png
 
 
 across their axolemma for transmission of impulses. This unequal distribution of ions establishes the membrane potential across the axolemma. The axolemma contains a variety of membrane proteins that act as ionic channels and regulates the movement of ions across the axolemma. (Shown in Table 10.1).
@@ -129,7 +129,7 @@ They a of the the ce cell b opens diffus
 
 These memb There **i. Sod ii. Pot**
 
-![ Ionic channels](10.3.png "")
+### Ionic channels 10.3.png
 
 
 Extracellular Fluid
@@ -249,7 +249,7 @@ Axon
 
 –
 
-![ Conduction of nerve im](10.4.png "")
+### Conduction of nerve im 10.4.png
 
 
 50
@@ -292,7 +292,7 @@ Myelin sheath
 
 pulse
 
-![ Graph showing Action potential in Neuron](10.5.png "")
+### Graph showing Action potential in Neuron 10.5.png
 
 
 0 1 2 3 4 5 6 7
@@ -372,6 +372,6 @@ Ca2+
 
 Ligand-gated channel open
 
-![ Synaptic Transmission](10.6.png "")
+### Synaptic Transmission 10.6.png
 
 

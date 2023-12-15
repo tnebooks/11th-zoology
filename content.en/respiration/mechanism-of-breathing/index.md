@@ -44,7 +44,7 @@ and phospholipids covering the alveolar membrane. The surfactant lowers the surf
 
   
 
-![ Mechan](6.4.png "")
+### Mechan 6.4.png
 
 
 Air inhaled.Rib cage
@@ -161,7 +161,7 @@ Normal TV = 500mL; Normal respiratory rate = 12 times/minute
 
 Therefore, minute respiratory volume = 6 Litres/minute (for a normal healthy man).
 
-![ Lung volu](6.5.png "")
+### Lung volu 6.5.png
 
 
 Minimal volume (30-120mL)

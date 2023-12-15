@@ -19,7 +19,7 @@ A function to each organ and each organ to its own function is seen in all anima
 
 by burrowing and swallowing the soil. In gardens, they can be traced by their faecal deposits known as worm castings on the soil surface. Earthworms are considered as **“Friends of Farmers”.** The common Indian earthworms are _Lampito mauritii (S_yn. _Megascolex mauritii), Perioynx excavatus_ and _Metaphire posthuma (_Syn_. Pheretima posthuma)._ Earthworms are also conveniently classified based on their ecological strategies as **epigeics, anecics** and **endogeics** (Figure 4.1). Epigeics (Greek for “up on the earth”) are surface dwellers, eg. _Perionyx excavatus_ and _Eudrilus eugeniae._ Anecics (Greek for “outer layer of the earth”) are found in upper layers of the soil, eg. _Lampito mauritii, Lumbricus terrestris._ Endogeics (Greek for “within the earth”) are found in deeper layers of the soil eg. _Octochaetona thurstoni_.
 
-![ Earthworm classification based on ecological strategies](4.1.png "")
+### Earthworm classification based on ecological strategies 4.1.png
 
 
 **Morphology**
@@ -55,7 +55,7 @@ surface moist and free from harmful microorganisms. Spermathecal openings are th
 
 13\. **Micronephridia** 14th to last segme 14. **Meganephridia** 19th to last segme 15. **Male genital pore** 18th segment 16. **Female genital pore** 14th segment
 
-![ _Lam_  ](4.2.png "")
+### _Lam_   4.2.png
 
 
 on the ventral side in the 14th segment and a pair of male genital apertures are situated latero-ventrally in the 18th segment. Nephridiopores are numerous and found throughout the body of the earthworm except a few anterior segments, through which the metabolic wastes are eliminated.
@@ -115,7 +115,7 @@ of columnar cells and glandular cells. The alimentary canal opens to the exterio
 
 The ingested organic rich soil passes through the digestive tract where digestive enzymes breakdown complex food into smaller absorbable units. The simpler molecules are absorbed through the intestinal membrane and are utilized. The undigested particles along with earth are passed out through the anus, as **worm castings** or **vermicasts**. The pharyngeal
 
-![ _Lampito mauritii_ – Digestive System](4.3.png "")
+### _Lampito mauritii_ – Digestive System 4.3.png
 
 
 **Intestinal Caeca** In _Metaphire posthuma_, the 26th segment has a pair of short conical out growths called intestinal caecae. It is extended anteriorly up to the 22nd segment. These are digestive glands and secrete an amylolytic enzyme for the digestion of starch. Intestinal caecae are not present in many species of earthworms such as the _Lampito mauritii_.
@@ -214,7 +214,7 @@ blood vessels, capillaries and lateral hearts (Figure 4.4). Two median longitudi
 
 anterior segments of the earthworm. They produce blood cells and haemoglobin which is dissolved in the plasma and gives red colour to the blood.
 
-![ _Lampito mauritii_: Circulatory system and Nervous System](4.4.png "")
+### _Lampito mauritii_: Circulatory system and Nervous System 4.4.png
 
 
 **Nervous System**
@@ -281,7 +281,7 @@ by the gland cells of the clitellum which also collects the partner’s sperms f
 
 _Lampito mauritii_ begins its life cycle, from the fertilized eggs. The eggs are held in a protective cocoon. These cocoons have an incubation period of about 14- 18 days after which they hatch to release **juveniles** (Figure 4.7). The juveniles undergo changes into **non-clitellate** forms in phase – I after about 15 days, which then develops a clitellum, called the **clitellate** at the end of the growth phase – II taking 15 - 17 days to complete. During the reproductive stage, earthworms copulate, and later shed their cocoons in the soil after about 10 days. The life cycle of _Lampito mauritii_ takes about 60 days to complete.
 
-![ Life cycle of _Lampito mauritii_](4.7.png "")
+### Life cycle of _Lampito mauritii_ 4.7.png
 
 
 

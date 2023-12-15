@@ -41,7 +41,7 @@ Hormones are chemical messengers because they act as organic catalysts and coenz
 
 the cells that contain receptor molecules specific for the hormone are physiologically activated. A single hormone may have multiple effects on a single target tissue or on different target tissues.
 
-![ Location of various endocrine gland**s**](11.1.png "")
+### Location of various endocrine gland**s** 11.1.png
 
 
 Many hormones exhibit long term changes like growth, puberty and pregnancy. Hormones often influence many organs and organ systems at the same time. Serious deficiency or excess secretion of hormones leads to disorders. Hormones coordinate different physical, physiological, mental activities and
@@ -208,7 +208,7 @@ Parafollicular cell
 
   
 
-![ Negative feedback mechanism **Functions of thyrocalcitonin (TCT):**](11.4.png "")
+### Negative feedback mechanism **Functions of thyrocalcitonin (TCT):** 11.4.png
 
 
 TCT is a polypeptide hormone, which regulates the blood calcium and phosphate levels. It reduces the blood calcium level and opposes the effects of parathyroid hormone.
@@ -229,7 +229,7 @@ In human, four tiny parathyroid glands are found in the posterior wall of the th
 
 Thymus gland is partially an endocrine and partially a lymphoid organ. It is a bilobed structure located just above the heart and aorta, behind the sternum. It is covered by fibrous capsule and anatomically it is divisible into an outer cortex and an inner medulla. It secretes four hormones such **as thymulin, thymosin, thymopoietin and thymic humoral factor (THF). The primary** function of thymus is the production of immuno competent ‘T’ lymphocytes which provides cell mediated immunity.
 
-![ Structure of thymus gland](11.5.png "")
+### Structure of thymus gland 11.5.png
 
 
 
@@ -259,10 +259,10 @@ The general function of noradrenalin is to mobilize the brain and body for actio
 
   
 
-![ Structure of adrenal gland](11.6.png "")
+### Structure of adrenal gland 11.6.png
 
 
-![ Structure of Islets of langerhans (pa  ](11.7.png "")
+### Structure of Islets of langerhans (pa   11.7.png
 
 
 ### Pancreas
@@ -346,17 +346,17 @@ of growth hormone (GH) in children. Overgrowth of skeletal structure occurs (up 
 
 **Figure 11.9 Gigantism**
 
-![ Acromegaly](11.10.png "")
+### Acromegaly 11.10.png
 
 
 In infants, hypothyroidism causes **cretinism.** A cretin shows retarded skeletal growth, absence of sexual maturity, retarded mental ability, thick wrinkled skin, protruded enlarged tongue, bloated face, thick and short limbs occurs. The other symptoms are low BMR, slow pulse rate, subnormal body temperature and elevated blood cholesterol levels. (Figure 11.11)  
 
-![ Cretinism Hyposecretion of thyroid in adults](11.11.png "")
+### Cretinism Hyposecretion of thyroid in adults 11.11.png
 
 
 causes **myxodema**. It is otherwise called **Gull’s disease**. This disease is characterised by decreased mental activity, memory loss, slowness of movement, speech, and general weakness of body, dry coarse skin, scarce hair, puffy appearance, disturbed sexual function, low BMR, poor appetite, and subnormal body temperature. (Figure 11.12)
 
-![ Myxodema](11.12.png "")
+### Myxodema 11.12.png
 
 
 **Grave’s disease** also called as **thyrotoxicosis** or **exophthalmic goitre**. This disease is caused due to hyper
@@ -368,12 +368,12 @@ causes **myxodema**. It is otherwise called **Gull’s disease**. This disease i
 
 secretion of thyroid. It is characterised by enlargement of thyroid gland, increased BMR (50% - 100%), elevated respiratory and excretory rates, increased heart beat, high BP, increased body temperature, protrusion of eyeball and weakness of eye muscles and weight loss. (Figure 11.13)
 
-![ Grave’s disease](11.13.png "")
+### Grave’s disease 11.13.png
 
 
 **Simple goitre** is also known as **Endemic goitre**. It is caused due to hyposecretion of thyroxine. The symptoms includes enlargement of thyroid gland, fall in serum thyroxine level, increased TSH secretion. (Figure 11.14)
 
-![ Simple goitre  ](11.14.png "")
+### Simple goitre   11.14.png
 
 
 **Tetany** is caused due to the hyposecretion of parathyroid hormone (PTH). Due to hyposecretion of PTH serum calcium level decreases (Hypocalcemia), as a result serum phosphate level increases. Calcium and phosphate excretion level decreases. Generalized convulsion, locking of jaws increased heart beat rate, increased body temperature, muscular spasm are the major symptoms of tetany.
@@ -382,7 +382,7 @@ secretion of thyroid. It is characterised by enlargement of thyroid gland, incre
 
 **Addison’s disease** is caused due to hyposecretion of glucocorticoids and mineralocorticoids from the adrenal cortex. Muscular weakness, low BP., loss of appetite, vomiting, hyper pigmentation of skin, low metabolic rate, subnormal temperature, reduced blood volume, weight loss are the symptoms that occur in Addison’s disease (Figure 11.15). Reduced aldosterone secretion increases urinary excretion of Na Cl. and water and decreases potassium excretion leading to dehydration.
 
-![ Addison’s disease](11.15.png "")
+### Addison’s disease 11.15.png
 
 
 
@@ -452,7 +452,7 @@ Hormones speed up or slow down or alter the activities of target organs. The hyp
 
 Hypothalamus interlinks nervous system and endocrine system. It is located in the diencephalon of cerebrum and controls the pituitary secretion. Pituitary gland secretes six tropic hormones which regulates various physiological functions of our body. Posterior pituitary gland secretes vasopressin that regulates water and electrolyte balance. Oxytocin helps during child birth. Melatonin secreted by pineal gland regulates circadian rhythm of our body. The thyroid gland secretes thyroxine which stimulates the nervous  
 
-![ Mechanism of steroid hormone action](11.18.png "")
+### Mechanism of steroid hormone action 11.18.png
 
 
 system, skeletal growth, and regulates basal metabolic rate.

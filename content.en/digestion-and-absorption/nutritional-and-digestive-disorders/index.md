@@ -29,7 +29,7 @@ of fullness of stomach. It may be due to inadequate enzyme secretion, anxiety, f
 
 **Appendicitis:** It is the inflammation of the vermiform appendix, leading to severe abdominal pain. The treatment involves the removal of appendix by surgery. If treatment is delayed the appendix may rupture and results in infection of the abdomen, called **peritonitis**. **Hiatus Hernia (Diaphragmatic Hernia):** It is a structural abnormality in which superior part of the stomach protrudes slightly above the diaphragm. The exact cause of hiatus hernias is not known. In some people, injury or other damage may weaken muscle tissue, by applying too much pressure (repeatedly) on the muscles around the stomach while coughing, vomiting, and straining during bowel movement and lifting heavy object. Heart burn is also common in those with a hiatus hernia. In this condition, stomach contents travel back into the oesophagus or even into oral cavity and causes pain in the centre of the chest due to the eroding nature of acidity (Figure.5.10).
 
-![ Hiatus hernia](5.10.png "")
+### Hiatus hernia 5.10.png
 
 
 **Diarrhoea:** It is the most common gastrointestinal disorder worldwide. It is sometimes caused by bacteria or viral infections through food or water. When the colon is infected, the  

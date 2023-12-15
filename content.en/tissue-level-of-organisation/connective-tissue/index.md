@@ -35,7 +35,7 @@ develops from the **mesoderm** and is widely distributed in the body. There are 
 
   
 
-![ Loose c](3.5.png "")
+### Loose c 3.5.png
 
 
 **Areolar tissue**
@@ -75,7 +75,7 @@ and dense irregular tissues. **Dense regular connective tissues** primarily cont
 
 **Blood is the fluid connective tissue** containing plasma, red blood cells (RBC), white blood cells (WBC) and platelets. It functions as the transport medium for the cardiovascular system, carrying nutrients, wastes, respiratory gases throughout the body. You will learn more about blood in Chapter 7.
 
-![ Specialized connective tissues](3.6.png "")
+### Specialized connective tissues 3.6.png
 
 
 You are looking at a slide of a tissue through the compound microscope and you see striped branching cells that connect with one another. What type of muscle are you viewing?

@@ -43,7 +43,7 @@ Renal vein
 
 Vena cava
 
-![ Human excretory system The longitudinal section of kidney (Figure.](8.2.png "")
+### Human excretory system The longitudinal section of kidney (Figure. 8.2.png
 
 
 8.3) shows, an outer cortex, inner medulla and pelvis. The medulla is divided into a few conical tissue masses called medullary pyramids or renal pyramids. The part of cortex that extends in between the medullary pyramids is the renal columns of **Bertini.** The centre of the inner concave surface of the kidney has a notch called the renal **hilum,** through which ureter, blood vessels and nerves innervate. Inner to the hilum is a broad funnel shaped space called the renal pelvis with projection called calyces. The renal pelvis is continuous with the ureter once it leaves the hilum. The walls of the calyces,  
@@ -74,7 +74,7 @@ Juxtamedullary nephron
 
 Cortical nephron
 
-![ L S of kidney](8.3.png "")
+### L S of kidney 8.3.png
 
 
 ### Structure of a nephron
@@ -120,14 +120,14 @@ henle
 
 Collecting duct
 
-![ Structure of a Nephrons The renal tubule continues further](8.4.png "")
+### Structure of a Nephrons The renal tubule continues further 8.4.png
 
 
 to form the proximal convoluted tubule \[PCT\] followed by a U-shaped loop of Henle (Henle’s loop) that has a thin descending and a thick ascending limb. The ascending limb continues as a highly coiled tubular region called the distal convoluted tubule \[DCT\]. The DCT of many nephrons open into a straight tube called collecting duct. The collecting duct runs through the medullary pyramids in the region of the pelvis. Several collecting ducts fuse to form papillary duct that delivers urine into the calyces, which opens into the renal pelvis.
 
 In the renal tubules, PCT and DCT of the nephron are situated in the cortical region of the kidney whereas the loop of Henle is in the medullary region. In majority of nephrons, the loop of Henle is too short and extends only very little into the medulla and are called **cortical nephrons.** Some nephrons have very long loop of Henle that run deep into the medulla and are called **juxta medullary nephrons (JMN)** (Figure 8.5 a and b)  
 
-![ (a) Cortical nephrons are located predominantly in the outer cortex. (b) Juxtamedullary nephrons are mainly](8.5.png "")
+### (a) Cortical nephrons are located predominantly in the outer cortex. (b) Juxtamedullary nephrons are mainly 8.5.png
 
 
 located in the inner medulla.
@@ -144,7 +144,7 @@ Medulla
 
 Vasa recta
 
-![ Blood vessels of the nephron.](8.6.png "")
+### Blood vessels of the nephron. 8.6.png
 
 
 **The capillary bed of the nephrons**\- First capillary bed of the nephron is the glomerulus and the other is the peritubular capillaries. The glomerular capillary bed is different from other capillary beds in that it is supplied by the afferent and drained by the efferent arteriole. The efferent

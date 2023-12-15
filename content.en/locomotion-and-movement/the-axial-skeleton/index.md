@@ -53,6 +53,6 @@ The vertebral column protects the spinal cord, supports the head and serves as t
 
 Rib cage protects the lungs, heart, liver and also plays a role in breathing.  
 
-![ Rib cage](9.7.png "")
+### Rib cage 9.7.png
 
 

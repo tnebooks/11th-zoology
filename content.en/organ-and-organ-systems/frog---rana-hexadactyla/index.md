@@ -89,7 +89,7 @@ Teeth Maxillary and v teeth.
 
 Egg formation Lays eggs in clu
 
-![ _Rana hexadact_  ](4.15.png "")
+### _Rana hexadact_   4.15.png
 
 
 d
@@ -134,14 +134,14 @@ for jumping with greatly elongated hind limbs. Frogs can live in water (aquatic)
 
 External nostrils are present on the dorsal surface of the snout, one on each side of the median line (Figure 4.15). Eyes are large and project above the general surface of the body. They lie behind the external nostrils and are protected by a thin movable lower eyelid, thick immovable upper eyelid and a third transparent eyelid called **nictitating membrane**_._ This membrane protects the eye when the frog is under water. A pair of **tympanic membranes** forms the ear drum behind the eyes on either side. Frogs have no external ears, neck and tail are absent. Trunk bears a pair of fore limbs and a pair of hind limbs. At the posterior end of the dorsal side, between the hind limbs is the **cloacal aperature**. This is
 
-![ Male _Rana hexadactyla_ with vocal sacs and nuptial pad  ](4.16.png "")
+### Male _Rana hexadactyla_ with vocal sacs and nuptial pad   4.16.png
 
 
 the common opening for the digestive, excretory and reproductive systems.
 
 **Fore limbs** are short, stumpy, and helps to bear the weight of the body. They are also helpful for the landing of the frog after leaping. Each forelimb consists of an upper arm, fore arm and a hand. Hand bears four digits. **Hind limbs** are large, long and consist of thigh, shank and foot. Foot bears five long webbed toes and one small spot called the sixth toe. These are adaptations for leaping and swimming. When the animal is at rest, the hind limbs are kept folded in the form of letter **‘Z’**. **Sexual dimorphism** is exhibited clearly during the breeding season. The male frog has a pair of **vocal sacs** and a copulatory or **nuptial pad** on the ventral side of the first digit of each forelimb (Figure 4.16). Vocal sacs assist in amplifying the croaking sound of frog. Vocal sacs and nuptial pads are absent in the female frogs.
 
-![ The Buccal Cavity of _Rana hexadactyla_](4.17.png "")
+### The Buccal Cavity of _Rana hexadactyla_ 4.17.png
 
 
 Tongue
@@ -201,7 +201,7 @@ as aquatic respiratory organ (**cutaneous respiration**). Dissolved oxygen in th
 
 Blood vascular system consists of a **heart** with three chambers, **blood vessels** and **blood**. Heart is covered by a double-walled membrane
 
-![ _Rana hexada_](4.19.png "")
+### _Rana hexada_ 4.19.png
 
 
 Ventral view  
@@ -217,10 +217,10 @@ Dorsal View
 
   
 
-![ _Rana hexadactyla - Internal Structure of Heart_](4.20.png "")
+### _Rana hexadactyla - Internal Structure of Heart_ 4.20.png
 
 
-![ _Rana hexadactyla_ – Blood cells](4.21.png "")
+### _Rana hexadactyla_ – Blood cells 4.21.png
 
 
 The **blood** consists of **plasma** \[60%\] and blood **cells** \[40 %\] which includes red blood cells, white blood cells, and platelets. RBCs are loaded with red pigment, nucleated and oval in shape. Leucocytes are nucleated, and circular in shape (Figure 4.21). **The Nervous System**
@@ -236,7 +236,7 @@ Spinal cord. Brain is situated in the cranial cavity and covered by two meninges
 
   
 
-![ _Rana hexadactyla_ - Male Urinogenital System](4.23.png "")
+### _Rana hexadactyla_ - Male Urinogenital System 4.23.png
 
 
 **Excretory system**
@@ -245,7 +245,7 @@ Elimination of **nitrogenous waste** and salt and water balance are performed by
 
 **Reproductive system** The **male** frog has a pair of testes which are attached to the kidney and the dorsal body wall by folds of peritonium called mesorchium. Vasa efferentia arise from each **testis**. They enter the kidneys on both side and open into the bidder’s canal. Finally, it communicates with the urinogenital duct that comes out of kidneys and opens into the cloaca (Figure 4.23).  
 
-![ _Rana hexadactyla_ - Female Urinogenital System](4.24.png "")
+### _Rana hexadactyla_ - Female Urinogenital System 4.24.png
 
 
 **Female** reproductive system (Figure 4.24) consists of paired **ovaries,** attached to the kidneys, and dorsal body wall by folds of peritoneum called mesovarium. There is a pair of coiled **oviducts** lying on the sides of the kidney. Each oviduct opens into the body-cavity at the anterior end by a funnel like opening called ostia. Unlike the male frog, the female frog has separate genital ducts distinct from ureters. Posteriorly the oviducts dilated to form **ovisacs** before they open into cloaca. Ovisacs store the eggs temporarily before they are sent out through the cloaca. Fertilization is external. Within few days of fertilization, the **eggs** hatch into **tadpoles**. A newly hatched tadpole lives off the yolk stored in its body. It gradually grows larger and develops three pairs of gills. The tadpole grows and **metamorphosis** into an air – breathing carnivorous adult frog (Figure 4.25). Legs grow from the body, and the tail and gills disappear. The mouth broadens, developing teeth and jaws, and the lungs become functional.

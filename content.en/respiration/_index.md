@@ -134,10 +134,10 @@ blood and the cells. v. Uptake of O2 by the cells for various
 
 activities and the release of CO2.
 
-![ Structure of alveoli](6.3.png "")
+### Structure of alveoli 6.3.png
 
 
-![ The Human Respiratory tract  ](6.2.png "")
+### The Human Respiratory tract   6.2.png
 
 
 ## Mechanism of breathing
@@ -181,7 +181,7 @@ and phospholipids covering the alveolar membrane. The surfactant lowers the surf
 
   
 
-![ Mechan](6.4.png "")
+### Mechan 6.4.png
 
 
 Air inhaled.Rib cage
@@ -298,7 +298,7 @@ Normal TV = 500mL; Normal respiratory rate = 12 times/minute
 
 Therefore, minute respiratory volume = 6 Litres/minute (for a normal healthy man).
 
-![ Lung volu](6.5.png "")
+### Lung volu 6.5.png
 
 
 Minimal volume (30-120mL)
@@ -391,7 +391,7 @@ CO2 0.3 40
 
 Molecular oxygen is carried in blood in two ways bound to haemoglobin within the red blood cells and dissolved in plasma. Oxygen is poorly soluble in water, so only 3% of the oxygen is transported in the dissolved form. 97% of oxygen binds with haemoglobin in a reversible manner to form oxyhaemoglobin (HbO2). The rate at which haemoglobin binds with O2 is regulated by the partial pressure of O2. Each haemoglobin carries maximum of four molecules of
 
-![ Oxygen dissociation curv  ](6.7.png "")
+### Oxygen dissociation curv   6.7.png
 
 
 **al pressure mm Hg**
@@ -488,7 +488,7 @@ of the respiratory rhythm centre to ensure normal breathing. The chemosensitive 
 
 When a person travels quickly from sea level to elevations above 8000ft, where
 
-![ Chlorid  ](6.8.png "")
+### Chlorid   6.8.png
 
 
 the atmospheric pressure and partial pressure of oxygen are lowered, the individual responds with symptoms of **acute mountain sickness** (AMS)– headache, shortness of breath, nausea and dizziness due to poor binding of O2 with haemoglobin. When the person moves on a long–term basis to mountains from sea level, the body begins to make respiratory and haematopoietic adjustments. To overcome this situation kidneys accelerate production of the hormone erythropoietin, which stimulates the bone marrow to produce more RBCs.

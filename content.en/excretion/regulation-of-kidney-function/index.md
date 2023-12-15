@@ -83,7 +83,7 @@ Increased thirst
 
 bsorption istal tubule cretion of ium
 
-![ Schematic representations of the various hormones in the](8.9.png "")
+### Schematic representations of the various hormones in the 8.9.png
 
 
 regulation of body fluid concentration

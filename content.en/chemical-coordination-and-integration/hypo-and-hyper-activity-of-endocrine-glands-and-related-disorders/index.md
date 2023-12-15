@@ -23,17 +23,17 @@ of growth hormone (GH) in children. Overgrowth of skeletal structure occurs (up 
 
 **Figure 11.9 Gigantism**
 
-![ Acromegaly](11.10.png "")
+### Acromegaly 11.10.png
 
 
 In infants, hypothyroidism causes **cretinism.** A cretin shows retarded skeletal growth, absence of sexual maturity, retarded mental ability, thick wrinkled skin, protruded enlarged tongue, bloated face, thick and short limbs occurs. The other symptoms are low BMR, slow pulse rate, subnormal body temperature and elevated blood cholesterol levels. (Figure 11.11)  
 
-![ Cretinism Hyposecretion of thyroid in adults](11.11.png "")
+### Cretinism Hyposecretion of thyroid in adults 11.11.png
 
 
 causes **myxodema**. It is otherwise called **Gull’s disease**. This disease is characterised by decreased mental activity, memory loss, slowness of movement, speech, and general weakness of body, dry coarse skin, scarce hair, puffy appearance, disturbed sexual function, low BMR, poor appetite, and subnormal body temperature. (Figure 11.12)
 
-![ Myxodema](11.12.png "")
+### Myxodema 11.12.png
 
 
 **Grave’s disease** also called as **thyrotoxicosis** or **exophthalmic goitre**. This disease is caused due to hyper
@@ -45,12 +45,12 @@ causes **myxodema**. It is otherwise called **Gull’s disease**. This disease i
 
 secretion of thyroid. It is characterised by enlargement of thyroid gland, increased BMR (50% - 100%), elevated respiratory and excretory rates, increased heart beat, high BP, increased body temperature, protrusion of eyeball and weakness of eye muscles and weight loss. (Figure 11.13)
 
-![ Grave’s disease](11.13.png "")
+### Grave’s disease 11.13.png
 
 
 **Simple goitre** is also known as **Endemic goitre**. It is caused due to hyposecretion of thyroxine. The symptoms includes enlargement of thyroid gland, fall in serum thyroxine level, increased TSH secretion. (Figure 11.14)
 
-![ Simple goitre  ](11.14.png "")
+### Simple goitre   11.14.png
 
 
 **Tetany** is caused due to the hyposecretion of parathyroid hormone (PTH). Due to hyposecretion of PTH serum calcium level decreases (Hypocalcemia), as a result serum phosphate level increases. Calcium and phosphate excretion level decreases. Generalized convulsion, locking of jaws increased heart beat rate, increased body temperature, muscular spasm are the major symptoms of tetany.
@@ -59,7 +59,7 @@ secretion of thyroid. It is characterised by enlargement of thyroid gland, incre
 
 **Addison’s disease** is caused due to hyposecretion of glucocorticoids and mineralocorticoids from the adrenal cortex. Muscular weakness, low BP., loss of appetite, vomiting, hyper pigmentation of skin, low metabolic rate, subnormal temperature, reduced blood volume, weight loss are the symptoms that occur in Addison’s disease (Figure 11.15). Reduced aldosterone secretion increases urinary excretion of Na Cl. and water and decreases potassium excretion leading to dehydration.
 
-![ Addison’s disease](11.15.png "")
+### Addison’s disease 11.15.png
 
 
 

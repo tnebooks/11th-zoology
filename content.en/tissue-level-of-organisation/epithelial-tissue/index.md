@@ -8,7 +8,7 @@ Epithelial Tissue## Epithelial Tissue
 
 covers the body surface or lines the body cavity. It occurs in the body as a **covering, as a lining epithelium and as glandular, epithelium. The functions of epithelium** includes protection, absorption, filtration, **excretion, secretion** and **sensory reception.**
 
-![ Types o  ](3.1.png "")
+### Types o   3.1.png
 
 
 **Animal Tissues**
@@ -34,7 +34,7 @@ f Tissues in Human
 
   
 
-![ Types o](3.2.png "")
+### Types o 3.2.png
 
 
 into squamous epithelium, cuboidal epithelium, columnar epithelium, ciliated epithelium and pseudostratified epithelium (Figure 3.2). The squamous epithelium is made of a single thin layer of flattened cells with irregular boundaries. They are found in the kidney glomeruli, air sacs of lungs, lining of heart, blood vessels and lymphatic vessels and are involved in functions like forming a diffusion boundary and filtration in sites where protection is not important. The cuboidal epithelium is made of a single layer of cube like cells. This tissue is commonly found in the kidney tubules, ducts and secretory portions of small glands and surface of the ovary. Its main functions are secretion and absorption. The columnar **epithelium** is composed of single layer of tall cells with round to oval nuclei at the base. It lines the digestive tract from the stomach to  
@@ -101,7 +101,7 @@ All cells of the epithelium are held together with little intercellular material
 
 Multi-layered cells
 
-![ Compound Epithelium  ](3.4.png "")
+### Compound Epithelium   3.4.png
 
 
 functional links between its individual cells. Three types of cell junctions are found in the epithelium and other tissues. These are called as tight, adhering and gap junctions. **Tight junctions** help to stop substances from leaking across a tissue. **Adhering junctions** perform cementing to keep neighbouring cells together. **Gap junctions** facilitate the cells to communicate with each other by connecting the cytoplasm of adjoining cells, for rapid transfer of ions, small molecules and sometimes big molecules.

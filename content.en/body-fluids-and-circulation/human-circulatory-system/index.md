@@ -6,7 +6,7 @@ weight: 4
 Human Circulatory System## Human Circulatory System
  The structure of the heart was described by **Raymond de viessens**, in 1706. Human heart is made of special type of muscle called the **cardiac muscle**. It is situated in the thoracic cavity and its apex portion is slightly tilted towards left. It weighs about 300g in an adult. The size of our heart is roughly equal to a closed fist. Heart is divided into four chambers, upper two small auricles or atrium and lower two large ventricles. The walls of the ventricles are thicker than the auricles due to the presence of papillary muscles. The heart wall is made up of three layers, the outer **epicardium**, middle **myocardium** and inner **endocardium**.  
 
-![ L.S of Heart](7.6.png "")
+### L.S of Heart 7.6.png
 
 
 The space present between the membranes is called pericardial space and is filled with pericardial fluid.
@@ -125,7 +125,7 @@ and increased peripheral resistance which together increase the mean arterial pr
 
 An electrocardiogram (ECG) records the electrical activity of the heart over a period of time using electrodes placed on the skin, arms, legs and chest. It records the changes in electrical potential across the heart during one cardiac cycle. The special flap of muscle which initiates the heart beat is called as **sinu-auricular node** or **SA node** in the right atrium. It spreads as a wave of contraction in the heart. The waves of the ECG are due to depolarization and not due to contraction of the heart. This wave of depolarisation occurs before the beginning of contraction of the cardiac muscle. A normal ECG shows 3 waves designated as P wave, QRS complex and T wave as shown in Figure 7.8 and the stages of the ECG graph are shown in Figure 7.9.
 
-![ Graph of a normal ECG](7.8.png "")
+### Graph of a normal ECG 7.8.png
 
 
 **P Wave (Atrial Depolarisation)**
@@ -160,7 +160,7 @@ It lies between the QRS complex and T wave. It is the time during which all regi
 
 **T wave (Ventricular Repolarisation)** It represents ventricular repolarisation. The duration of the T wave is longer than QRS complex because repolarisation takes place  
 
-![ Stages of ECG graph](7.9.png "")
+### Stages of ECG graph 7.9.png
 
 
 simultaneously throughout the ventricular depolarisation.

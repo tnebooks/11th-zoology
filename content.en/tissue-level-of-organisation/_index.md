@@ -58,7 +58,7 @@ most of the animals like cat.
 
 covers the body surface or lines the body cavity. It occurs in the body as a **covering, as a lining epithelium and as glandular, epithelium. The functions of epithelium** includes protection, absorption, filtration, **excretion, secretion** and **sensory reception.**
 
-![ Types o  ](3.1.png "")
+### Types o   3.1.png
 
 
 **Animal Tissues**
@@ -84,7 +84,7 @@ f Tissues in Human
 
   
 
-![ Types o](3.2.png "")
+### Types o 3.2.png
 
 
 into squamous epithelium, cuboidal epithelium, columnar epithelium, ciliated epithelium and pseudostratified epithelium (Figure 3.2). The squamous epithelium is made of a single thin layer of flattened cells with irregular boundaries. They are found in the kidney glomeruli, air sacs of lungs, lining of heart, blood vessels and lymphatic vessels and are involved in functions like forming a diffusion boundary and filtration in sites where protection is not important. The cuboidal epithelium is made of a single layer of cube like cells. This tissue is commonly found in the kidney tubules, ducts and secretory portions of small glands and surface of the ovary. Its main functions are secretion and absorption. The columnar **epithelium** is composed of single layer of tall cells with round to oval nuclei at the base. It lines the digestive tract from the stomach to  
@@ -151,7 +151,7 @@ All cells of the epithelium are held together with little intercellular material
 
 Multi-layered cells
 
-![ Compound Epithelium  ](3.4.png "")
+### Compound Epithelium   3.4.png
 
 
 functional links between its individual cells. Three types of cell junctions are found in the epithelium and other tissues. These are called as tight, adhering and gap junctions. **Tight junctions** help to stop substances from leaking across a tissue. **Adhering junctions** perform cementing to keep neighbouring cells together. **Gap junctions** facilitate the cells to communicate with each other by connecting the cytoplasm of adjoining cells, for rapid transfer of ions, small molecules and sometimes big molecules.
@@ -190,7 +190,7 @@ develops from the **mesoderm** and is widely distributed in the body. There are 
 
   
 
-![ Loose c](3.5.png "")
+### Loose c 3.5.png
 
 
 **Areolar tissue**
@@ -230,7 +230,7 @@ and dense irregular tissues. **Dense regular connective tissues** primarily cont
 
 **Blood is the fluid connective tissue** containing plasma, red blood cells (RBC), white blood cells (WBC) and platelets. It functions as the transport medium for the cardiovascular system, carrying nutrients, wastes, respiratory gases throughout the body. You will learn more about blood in Chapter 7.
 
-![ Specialized connective tissues](3.6.png "")
+### Specialized connective tissues 3.6.png
 
 
 You are looking at a slide of a tissue through the compound microscope and you see striped branching cells that connect with one another. What type of muscle are you viewing?
@@ -267,7 +267,7 @@ The smooth muscle fibres taper at both ends (fusiform) and do not show striation
 
 **Cardiac muscle tissue** is a contractile tissue present only in the heart. Cell junctions fuse the plasma membranes of cardiac muscle cells and make them stick together. Communication junctions (intercalated discs) at some fusion points allow the cells to contract as a unit, i.e., when one cell receives a signal to contract, its neighbours are also stimulated to contract.
 
-![ Muscle tissues](3.7.png "")
+### Muscle tissues 3.7.png
 
 
 **Palmaris muscle:** This long narrow muscle runs from the elbow to the wrist and is important for hanging and climbing in primates, is missing in 11% of humans today.
@@ -292,7 +292,7 @@ When a neuron is suitably stimulated, an electrical disturbance is generated whi
 
 **2\. Alzheimer’s disease:** It is a chronic neurodegenerative disease which includes the symptoms of difficulty in remembering recent events, problems with language, disorientation and mood swings.
 
-![ Nervous tissues with neuroglia  ](3.8.png "")
+### Nervous tissues with neuroglia   3.8.png
 
 
 **Biopsy** is an examination of tissue or liquid removed from a living body to discover the presence, cause or extent of a disease. **Autopsy** is a post-mortem (dissection of a dead body) examination to discover the cause of death or the extent of disease. The field of Forensic science effectively uses the histological techniques to trace out crimes.

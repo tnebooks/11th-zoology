@@ -56,6 +56,6 @@ in the fibro cartilaginous callus. Gradually that is converted into a bony (hard
 
 for several months. After that the bony callus is remodelled. The excess material on the diaphysis exterior and within the medullary cavity is removed and the compact bone is laid down to reconstruct the shaft walls. The final structure of the remodelled area resembles like the unbroken bony region.
 
-![ Mechanism and healing of bo  ](9.13.png "")
+### Mechanism and healing of bo   9.13.png
 
 

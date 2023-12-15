@@ -53,10 +53,10 @@ an Digestive system
 
 involved in the process of absorption and the cells lining the villi produce numerous microscopic projections called microvilli giving a brush border appearance that increase the surface area enormously. Along with villi, the ileal mucosa also contain mucus secreting goblet cells and lymphoid tissue known as **Peyer’s patches** which produce lymphocytes. The wall of the small intestine bears crypts between the base of villi called **crypts of Leiberkuhn** ( Figure.5.3).
 
-![Buccal cavity](5.2.png "")
 
 
-![ Small in  ](5.3.png "")
+
+### Small in   5.3.png
 
 
 The large intestine consists of caecum, colon and rectum. The caecum is a small blind pouch like structure that opens into the colon and it possesses a narrow finger like tubular projection called **vermiform appendix**. Both caecum and vermiform appendix are large in herbivorous animal and act as an important site for cellulose digestion with the help of symbiotic bacteria. The colon is divided into four regions – an ascending, a transverse, a descending part and a sigmoid colon. The colon is lined by dilations called **haustra** (singular – haustrum) (Figure.5.4). The “S” shaped sigmoid colon (pelvic colon) opens into the rectum. Rectum is concerned with temporary storage of faeces. The rectum open out through the anus. The anus is guarded by two anal sphincter muscles. The anal mucosa is folded into several vertical folds and contains arteries and veins called anal columns. Anal column may get enlarged and causes **piles** or **haemorrhoids**.
@@ -107,7 +107,7 @@ Descending colon
 
 Transverse colon
 
-![ Large intestine  ](5.4.png "")
+### Large intestine   5.4.png
 
 
 **Salivary glands** There are three pairs of salivary glands in the mouth. They are the largest parotids gland in the cheeks, the sub-maxillary/ sub-mandibular in the lower jaw and the sublingual beneath the tongue. These glands have ducts such as **Stenson’s duct, Wharton’s duct and Bartholin’s duct or duct of Rivinis** respectively (Figure. 5.6)**.** The salivary juice secreted by the salivary glands reaches the mouth through these ducts. The daily secretion of saliva from salivary glands ranges from 1000 to 1500mL.
@@ -129,7 +129,7 @@ Apart from bile secretion, the liver also performs several functions 1. Destroys
 
 defective blood cells
 
-![ Salivary glands](5.6.png "")
+### Salivary glands 5.6.png
 
 
 Gallbladder

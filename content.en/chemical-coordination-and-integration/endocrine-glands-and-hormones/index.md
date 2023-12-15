@@ -17,7 +17,7 @@ Hormones are chemical messengers because they act as organic catalysts and coenz
 
 the cells that contain receptor molecules specific for the hormone are physiologically activated. A single hormone may have multiple effects on a single target tissue or on different target tissues.
 
-![ Location of various endocrine gland**s**](11.1.png "")
+### Location of various endocrine gland**s** 11.1.png
 
 
 Many hormones exhibit long term changes like growth, puberty and pregnancy. Hormones often influence many organs and organ systems at the same time. Serious deficiency or excess secretion of hormones leads to disorders. Hormones coordinate different physical, physiological, mental activities and

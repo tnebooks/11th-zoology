@@ -40,7 +40,7 @@ Cell Cytoplasm
 
 Urea
 
-![ Ornithine cycle](8.7.png "")
+### Ornithine cycle 8.7.png
 
 
 Urine formation involves three main processes namely, glomerular filtration, tubular reabsorption and tubular secretion.  
@@ -152,7 +152,7 @@ Postive transport
 
 Water impermeable
 
-![ (a) Counter current multiplier – th nephrons create the medullary osmotic gradien](8.8.png "")
+### (a) Counter current multiplier – th nephrons create the medullary osmotic gradien 8.8.png
 
 
 preserves the medullary gradient while r  

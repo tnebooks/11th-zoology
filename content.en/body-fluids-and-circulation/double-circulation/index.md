@@ -6,7 +6,7 @@ weight: 5
 Double Circulation## Double Circulation
  Circulation of the blood was first described by **William Harvey** (1628). There are two types of blood circulation in vertebrates, **single circulation** and **double circulation** which is shown in Figure 7.10 (a and b) and 7.11.
 
-![ Diagrammatic representation of ( circulation (b) double circulation](7.10.png "")
+### Diagrammatic representation of ( circulation (b) double circulation 7.10.png
 
 
 Arterioles
@@ -33,7 +33,7 @@ Systemic capillaries
 
 LV
 
-![ Diagrammatic representatio of the Double Circulation](7.11.png "")
+### Diagrammatic representatio of the Double Circulation 7.11.png
 
 
 The blood circulates twice through the heart first on the right side then on the left side to complete one cardiac cycle.  

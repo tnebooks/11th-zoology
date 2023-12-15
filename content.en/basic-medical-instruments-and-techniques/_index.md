@@ -47,7 +47,7 @@ identifying or determining the nature of disease while treatment involves the cu
 
 Stethoscope is a medical device used to hear the internal sounds of the human body such as heart beat, sounds due to inhalation and exhalation of air in the lungs, stomach, intestinal movements and also foetal movements. The modern electronic stethoscope is a high precision instrument used to hear with clarity the internal sounds of the human body even in a noisy environment or through the heavy clothing of the patient. A typical stethoscope consists of a disc shaped resonator that is placed against chest with two rubber tubes connected to earpieces. This is simply known as binaural stethoscope. It is a simple but an effective diagnostic tool to localize problems and to diagnose diseases (Figure12.1).
 
-![ Clinical stethoscope and electronic stethoscope  ](12.1.png "")
+### Clinical stethoscope and electronic stethoscope   12.1.png
 
 
 **Clinical significance of stethoscope**
@@ -79,7 +79,7 @@ shows blood pressure by affecting the height of a column of mercury which does n
 
 2\. **Digital sphygmomanometer:** It detects systolic and diastolic pressures by an oscillometric detector. It is easy to use even without training.
 
-![ Sphygmomanometer – Mercury and Digital  ](12.2.png "")
+### Sphygmomanometer – Mercury and Digital   12.2.png
 
 
 The maximum pressure exerted during the ventricular contraction is called **systolic pressure** and the minimum pressure exerted during the ventricular relaxation is called **diastolic pressure.**
@@ -98,7 +98,7 @@ circulation. 3. Provides the functional details of heart.
 
 **Glucometer** Glucometer is a simple and portable medical device used to record the approximate levels of blood glucose. It is a battery operated digital meter.
 
-![ Glucometer A drop of blood is taken from the tip of the finger and placed on the disposable test](12.3.png "")
+### Glucometer A drop of blood is taken from the tip of the finger and placed on the disposable test 12.3.png
 
 
 
@@ -129,7 +129,7 @@ tracks and records the brain wave patterns. It is a graphical recording of the e
 
 2\. It is useful in diagnosis of neurological and sleep disorders
 
-![ Autoanalyser](12.4.png "")
+### Autoanalyser 12.4.png
 
 
 
@@ -182,7 +182,7 @@ while he was studying on high voltage discharge phenomenon in a Crooker’s tube
 
 Ultrasound literally means sound beyond the range of human hearing. Ultrasound waves are produced by a physical phenomenon known as Piezo-electric effect. When an electric potential is applied to certain crystals for example: Lead zirconate, they become excited, vibrate and produce ultrasound. When the ultrasound waves are introduced through homogenous tissue, they pass unimpeded until they
 
-![ X Ray machine  ](12.6.png "")
+### X Ray machine   12.6.png
 
 
 meet another tissue or organ. A part or whole of the ultrasound wave is reflected and received back by the same crystal and is converted into an electrical signal. This signal denoting reflecting interface is shown on the oscilloscope screen as a deflection from the base line (Figure12.7).
@@ -201,7 +201,7 @@ meet another tissue or organ. A part or whole of the ultrasound wave is reflecte
 
 Computed tomography is originally known as computed axial tomography (CAT or CT Scan). The word tomography
 
-![ Ultrasonography](12.7.png "")
+### Ultrasonography 12.7.png
 
 
 
@@ -213,7 +213,7 @@ is derived from the Greek word _tomos_ means slice and _graphe_ means to write. 
 
 CT produces volumes of data which can be manipulated through a process known as windowing in order to demonstrate various structures based on their ability to block the X ray beam.
 
-![ CT Scan](12.8.png "")
+### CT Scan 12.8.png
 
 
 **Clinical significance** • Gives a clear image of bone, soft tissues
@@ -349,7 +349,7 @@ Stem
 
 **WBC pipette**
 
-![ Hemocytometer, RB  ](12.10.png "")
+### Hemocytometer, RB   12.10.png
 
 
 fluid (Hayem’s) is isotonic with blood, hence haemolysis does not occur. The blood is diluted 1:200 times with RBC diluting fluid and the cells are counted under 45X objective of the microscope.
@@ -419,7 +419,7 @@ A person suffering from severe fever, head ach and fatigue so he visits his doct
 
 2\. While maintaining contact with the bottom slide, pull the top slide back to contact the drop, which will spread by the capillary action.
 
-![ Peripheral blood smear preparation](12.11.png "")
+### Peripheral blood smear preparation 12.11.png
 
 
 **Cell Differential Count**
@@ -436,7 +436,7 @@ A person suffering from severe fever, head ach and fatigue so he visits his doct
 
 **Figure 12.13 Differential Count of** White blood cells
 
-![ Smear of peripheral blood](12.12.png "")
+### Smear of peripheral blood 12.12.png
 
 
 

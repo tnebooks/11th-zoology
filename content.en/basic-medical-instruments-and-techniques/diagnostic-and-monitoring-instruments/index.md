@@ -10,7 +10,7 @@ Diagnostic and Monitoring Instruments## Diagnostic and Monitoring Instruments
 
 Stethoscope is a medical device used to hear the internal sounds of the human body such as heart beat, sounds due to inhalation and exhalation of air in the lungs, stomach, intestinal movements and also foetal movements. The modern electronic stethoscope is a high precision instrument used to hear with clarity the internal sounds of the human body even in a noisy environment or through the heavy clothing of the patient. A typical stethoscope consists of a disc shaped resonator that is placed against chest with two rubber tubes connected to earpieces. This is simply known as binaural stethoscope. It is a simple but an effective diagnostic tool to localize problems and to diagnose diseases (Figure12.1).
 
-![ Clinical stethoscope and electronic stethoscope  ](12.1.png "")
+### Clinical stethoscope and electronic stethoscope   12.1.png
 
 
 **Clinical significance of stethoscope**
@@ -42,7 +42,7 @@ shows blood pressure by affecting the height of a column of mercury which does n
 
 2\. **Digital sphygmomanometer:** It detects systolic and diastolic pressures by an oscillometric detector. It is easy to use even without training.
 
-![ Sphygmomanometer – Mercury and Digital  ](12.2.png "")
+### Sphygmomanometer – Mercury and Digital   12.2.png
 
 
 The maximum pressure exerted during the ventricular contraction is called **systolic pressure** and the minimum pressure exerted during the ventricular relaxation is called **diastolic pressure.**
@@ -61,7 +61,7 @@ circulation. 3. Provides the functional details of heart.
 
 **Glucometer** Glucometer is a simple and portable medical device used to record the approximate levels of blood glucose. It is a battery operated digital meter.
 
-![ Glucometer A drop of blood is taken from the tip of the finger and placed on the disposable test](12.3.png "")
+### Glucometer A drop of blood is taken from the tip of the finger and placed on the disposable test 12.3.png
 
 
 

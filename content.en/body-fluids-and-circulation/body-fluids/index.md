@@ -29,7 +29,7 @@ of ions, hormones, lipids and assists in immune function. Both **Prothrombin** a
 
 Red blood cells/corpuscles (erythrocytes), white blood cells/corpuscles (Leucocytes) and platelets are collectively called formed elements.  
 
-![ Structure of RBC](7.1.png "")
+### Structure of RBC 7.1.png
 
 
 **Red Blood Cells** Red blood cells are abundant than the other blood cells. There are about 5 million to 5.5 millions of RBC mm23 of blood in a healthy man and 4.5-5.0 millions of RBC mm23 in healthy women. The RBCs are very small with the diameter of about 7µm (micrometer). The structure of RBC is shown in Figure 7.1. The red colour of the RBC is due to the presence of a respiratory pigment, haemoglobin dissolved in the cytoplasm. Haemoglobin plays an important role in the transport of respiratory gases and facilitates the exchange of gases with the fluid outside the cell (tissue fluid). The biconcave shaped RBCs increases the surface area to volume ratio, hence oxygen diffuses quickly in and out of the cell. The RBCs are devoid of nucleus, mitochondria, ribosomes and endoplasmic reticulum. The absence of these organelles accommodates more haemoglobin thereby maximising the oxygen carrying capacity of the cell. The average life span of RBCs in a healthy individual is about 120 days after which they are destroyed in the spleen (graveyard / cemetery of RBCs) and the iron component returns to the bone marrow for reuse. **Erythropoietin** is a hormone secreted by the kidneys in response to low oxygen and

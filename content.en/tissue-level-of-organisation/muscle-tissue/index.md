@@ -16,7 +16,7 @@ The smooth muscle fibres taper at both ends (fusiform) and do not show striation
 
 **Cardiac muscle tissue** is a contractile tissue present only in the heart. Cell junctions fuse the plasma membranes of cardiac muscle cells and make them stick together. Communication junctions (intercalated discs) at some fusion points allow the cells to contract as a unit, i.e., when one cell receives a signal to contract, its neighbours are also stimulated to contract.
 
-![ Muscle tissues](3.7.png "")
+### Muscle tissues 3.7.png
 
 
 **Palmaris muscle:** This long narrow muscle runs from the elbow to the wrist and is important for hanging and climbing in primates, is missing in 11% of humans today.
