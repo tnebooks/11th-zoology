@@ -1,5 +1,5 @@
 ---
-title: Non Chordates (Invertebrata) 2.3.1 Phylum Porifera
+title: Phylum Porifera
 weight: 4
 ---
 
