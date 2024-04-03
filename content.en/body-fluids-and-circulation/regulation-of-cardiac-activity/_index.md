@@ -1,6 +1,6 @@
 ---
-title: 'Regulation of Cardiac
-Activity'
+title: Regulation of Cardiac
+Activity
 weight: 6
 ---
 
