@@ -100,5 +100,5 @@ Apart from bile secretion, the liver also performs several functions
 
 The second largest gland in the digestive system is the Pancreas, which is a yellow coloured, compound elongated organ consisting of exocrine and endocrine cells. It is situated between the limbs of the ‘U’ shaped duodenum. The exocrine portion secretes pancreatic juice containing enzymes such as pancreatic amylase, trypsin and pancreatic lipase and the endocrine part called Islets of Langerhans, secretes hormones such as insulin and glucagon. The pancreatic duct directly opens into the duodenum.
 
-```List the chemical preservatives, artificial enhancers found in the food items available in the market. How can you avoid such harmful substances in your food?```
+
 
