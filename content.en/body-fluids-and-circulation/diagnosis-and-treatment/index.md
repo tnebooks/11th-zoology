@@ -33,4 +33,4 @@ must be performed within 4 to 6 minutes after cessation of breath to prevent bra
 Each year over several million people worldwide die of heart disease, than from other conditions. For some patients heart transplant is the only hope. Raju was 62 years old when muscles of both the ventricles had deteriorated. He was lucky enough because biomedical engineers were able develop a pumping device called **‘total artificial heart’**. Raju’s heart was completely removed and an artificial heart was put in place. He was able to go home within a few weeks. This artificial heart would have kept him in alive until suitable real heart was available for transplant.
 
 
-![alt text](/content.en/body-fluids-and-circulation/7.13.png)
+![alt text](../7.13.png)
