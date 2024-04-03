@@ -24,7 +24,7 @@ Tongue is a freely movable muscular organ attached at the posterior end by the f
 The oral cavity leads into a short common passage for food and air called pharynx. The oesophagus and the trachea (wind pipe) open into the pharynx. Food passes into the oesophagus through a wide opening called gullet at the back of the pharynx. A cartilaginous flap called epiglottis prevents the entry of food into the glottis (opening of trachea) during
 
 
-![The Human Digestive system](/content.en/digestion-and-absorption/5.1.png)
+![The Human Digestive system](../5.1.png)
 
 
 
@@ -36,14 +36,13 @@ The stomach functions as the temporary storage organ for food and is located in 
 
 The small intestine assists in the final digestion and absorption of food. It is the longest part of the alimentary canal and has three regions, a ‘U’ shaped duodenum (25cm long), a long coiled middle portion jejunum (2.4m long) and a highly coiled ileum (3.5m long). The wall of the duodenum has **Brunner’s glands** which secrete mucus and enzymes. Ileum is the longest part of the small intestine and opens into the caecum of the large intestine. The ileal mucosa has numerous vascular projections called **villi** which are
 
-![Buccal cavity](/content.en/digestion-and-absorption/5.2.png)
-
+![Buccal cavity](../5.2.png)
 
 involved in the process of absorption and the cells lining the villi produce numerous microscopic projections called microvilli giving a brush border appearance that increase the surface area enormously. Along with villi, the ileal mucosa also contain mucus secreting goblet cells and lymphoid tissue known as **Peyer’s patches** which produce lymphocytes. The wall of the small intestine bears crypts between the base of villi called **crypts of Leiberkuhn** ( Figure.5.3).
 
 
 
-![Small intestine with Villi](/content.en/digestion-and-absorption/5.3.png)
+![Small intestine with Villi](../5.3.png)
 
 
 The large intestine consists of caecum, colon and rectum. The caecum is a small blind pouch like structure that opens into the colon and it possesses a narrow finger like tubular projection called **vermiform appendix**. Both caecum and vermiform appendix are large in herbivorous animal and act as an important site for cellulose digestion with the help of symbiotic bacteria. The colon is divided into four regions – an ascending, a transverse, a descending part and a sigmoid colon. The colon is lined by dilations called **haustra** (singular – haustrum) (Figure.5.4). The “S” shaped sigmoid colon (pelvic colon) opens into the rectum. Rectum is concerned with temporary storage of faeces. The rectum open out through the anus. The anus is guarded by two anal sphincter muscles. The anal mucosa is folded into several vertical folds and contains arteries and veins called anal columns. Anal column may get enlarged and causes **piles** or **haemorrhoids**.
@@ -63,7 +62,7 @@ The wall of the alimentary canal from oesophagus to rectum consists of four laye
 Digestive glands are exocrine glands which secrete biological catalysts called enzymes. The digestive glands associated with the alimentary canal are salivary glands, liver and pancreas. Stomach wall has gastric glands that secrete gastric juice and the intestinal mucosa secretes intestinal juice.
 
 
-![The layers of the alimentary cana](/content.en/digestion-and-absorption/5.5.png)
+![The layers of the alimentary cana](../5.5.png)
 
 
 **Salivary glands** 
@@ -75,7 +74,7 @@ The wall of the stomach is lined by gastric glands. Chief cells or **peptic cell
 **Liver** 
 The liver, the largest gland in our body is situated in the upper right side of the abdominal cavity, just below the diaphragm. The liver consists of two major left and right lobes and two minor lobes. These lobes are connected with diaphragm. Each lobe has many hepatic lobules (functional unit of liver) and is covered by a thin connective
 
-![Salivary glands](/content.en/digestion-and-absorption/5.6.png)
+![Salivary glands](../5.6.png)
 
 
 tissue sheath called the **Glisson’s capsule**. Liver cells (hepatic cells) secrete bile which is stored and concentrated in a thin muscular sac called the gall bladder. The duct of gall bladder (cystic duct) along with the hepatic duct from the liver forms the common bile duct. The bile duct passes downwards and joins with the main pancreatic duct to form a common duct called hepato-pancreatic duct. The opening of the hepato-pancreatic duct into the duodenum is guarded by a sphincter called the **sphincter of Oddi (**Figure.5.7)**.** Liver has high power of regeneration and liver cells are replaced by new ones every 3-4 weeks.
@@ -92,7 +91,7 @@ Apart from bile secretion, the liver also performs several functions
 
 5. Involves in the synthesis of non-essential amino acids and urea.
 
-![Liver and pancreas](/content.en/digestion-and-absorption/5.7.png)
+![Liver and pancreas](../5.7.png)
 
 
 
