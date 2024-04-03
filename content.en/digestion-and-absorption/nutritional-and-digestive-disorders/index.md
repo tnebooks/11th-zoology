@@ -45,8 +45,7 @@ It is the inflammation of the vermiform appendix, leading to severe abdominal pa
 **Hiatus Hernia (Diaphragmatic Hernia):** It is a structural abnormality in which superior part of the stomach protrudes slightly above the diaphragm. The exact cause of hiatus hernias is not known. In some people, injury or other damage may weaken muscle tissue, by applying too much pressure (repeatedly) on the muscles around the stomach while coughing, vomiting, and straining during bowel movement and lifting heavy object. Heart burn is also common in those with a hiatus hernia. In this condition, stomach contents travel back into the oesophagus or even into oral cavity and causes pain in the centre of the chest due to the eroding nature of acidity (Figure.5.10).
 
 
-![Hiatus hernia](/content.en/digestion-and-absorption/5.12.png)
-
+![Hiatus hernia](../5.12.png)
 
 
 **Diarrhoea:** 
@@ -67,4 +66,4 @@ It is caused due to the storage of excess of body fat in adipose tissue. It may 
 
 That is BMI = 50 /(1.6)2= 19.5
 
-![](/content.en/digestion-and-absorption/5.13.png)
+![alt text](../5.13.png)
