@@ -9,7 +9,7 @@ The movement of air between the atmosphere and the lungs is known as ventilation
 
 Lungs do not contain muscle fibres but expands and contracts by the movement of the ribs and diaphragm. The diaphragm is a sheet of tissue which separates the thorax from the abdomen. In a relaxed state, the diaphragm is domed shaped. Ribs are moved by the intercostal muscles. External and internal intercostal muscles found between the ribs and the diaphragm helps in creating pressure gradients. Inspiration occurs if the pressure inside the lungs (intrapulmonary pressure) is less than the atmospheric pressure likewise expiration takes place when the pressure within the lungs is higher than the atmospheric pressure.
 
-![Mechanism of breathing&Events in inspiration and expiration](/content.en/respiration/6.3.png)
+![Mechanism of breathing&Events in inspiration and expiration](../6.3.png)
   
 
 Inspiraton is initiated by the contraction of the diaphragm muscles and external intercostal muscles, which pulls the ribs and sternum upwards and outwards and increases the volume of the thoracic chamber in the dorso–ventral axis, forcing the lungs to expand the pulmonary volume. The increase in pulmonary volume and decrease in the intrapulmonary pressure forces the fresh air from outside to enter the air passages into the lungs to equalize the pressure. This process is called inspiration.
@@ -45,7 +45,7 @@ The volume of air present in various phases of respiration is denoted as
 • **Expiratory capacity (EC)** The total volume of air a person can exhale after normal inspiration. It includes
 
 
-![Lung volumes and capacity](/content.en/respiration/6.4.png)
+![Lung volumes and capacity](../6.4.png)
 
 
 tidal volume and expiratory reserve volume. EC=TV+ERV

@@ -10,7 +10,7 @@ The space present between the membranes is called pericardial space and is fille
 
 The two auricles are separated by inter **auricular septum** and the two ventricles are separated by **inter ventricular septum** The separation of chambers avoids mixing of oxygenated and deoxygenated blood. The auricle communicates with the ventricle through an opening called **auriculo ventricular aperture** which is guarded by the auriculo ventricular valves. The opening between the right atrium and the right ventricle is guarded by the **tricuspid valve (three flaps or cusps), whereas a bicuspid (two flaps or cusps) or mitral valve guards the opening between the left** atrium and left ventricle (Figure 7.6). The valves of the heart allows the blood to flow only in one direction, i.e., from the atria to the ventricles and from the ventricles to the pulmonary artery or the aorta. These valves prevent backward flow of blood.
 
-![L.S of Heart](/content.en/body-fluids-and-circulation/7.6.png)
+![L.S of Heart](../7.6.png)
 
 
 The opening of right and left ventricles into the pulmonary artery and aorta are guarded by aortic and pulmonary valves and are called **semilunar valves**. Each semilunar valve is made of three half- moon shaped cusps. The myocardium of the ventricle is thrown into irregular muscular ridges called **trabeculae corneae**. The trabeculae corneae are modified into **chordae tendinae**. The opening and closing of the semilunar valves are achieved by the chordae tendinae. The chordae tendinae are attached to the lower end of the heart by papillary muscles. Heart receives deoxygenated blood from various parts of the body through the inferior venacava and superior venacava which open into the right auricle. Oxygenated blood from lungs is drained into the left auricle through four pulmonary veins.
@@ -24,7 +24,7 @@ Pacemaker cells produce excitation through depolarisation of their cell membrane
 
 HEART BEAT- Rhythmic contraction and expansion of heart is called **heart beat**. The contraction of the heart is called **systole** and the relaxation of the heart is called **diastole**. The heart normally beats 70-72 times per min in a human adult. During each cardiac cycle two sounds are produced that can be heard through a **stethoscope**. The first heart sound
 
-![The sequence of electrical conduction of heart.](/content.en/body-fluids-and-circulation/7.7.png)
+![The sequence of electrical conduction of heart.](../7.7.png)
 
 
 (lub) is associated with the closure of the tricuspid and bicuspid valves whereas second heart sound (dub) is associated with the closure of the semilunar valves. These sounds are of clinical diagnostic significance. An increased heart rate is called **tachycardia** and decreased heart rate is called **bradycardia**.
@@ -62,7 +62,7 @@ Blood pressure is the pressure exerted on the surface of blood vessels by the bl
 
 An electrocardiogram (ECG) records the electrical activity of the heart over a period of time using electrodes placed on the skin, arms, legs and chest. It records the changes in electrical potential across the heart during one cardiac cycle. The special flap of muscle which initiates the heart beat is called as **sinu-auricular node** or **SA node** in the right atrium. It spreads as a wave of contraction in the heart. The waves of the ECG are due to depolarization and not due to contraction of the heart. This wave of depolarisation occurs before the beginning of contraction of the cardiac muscle. A normal ECG shows 3 waves designated as P wave, QRS complex and T wave as shown in Figure 7.8 and the stages of the ECG graph are shown in Figure 7.9.
 
-![Graph of a normal ECG](/content.en/body-fluids-and-circulation/7.8.png)
+![Graph of a normal ECG](../7.8.png)
 
 
 
@@ -84,4 +84,4 @@ It lies between the QRS complex and T wave. It is the time during which all regi
 
 **T wave (Ventricular Repolarisation)** It represents ventricular repolarisation. The duration of the T wave is longer than QRS complex because repolarisation takes place   simultaneously throughout the ventricular depolarisation.
 
-![Stages of ECG graph](/content.en/body-fluids-and-circulation/7.9.png)
+![Stages of ECG graph](../7.9.png)

@@ -19,7 +19,7 @@ The smell, sight and taste as well as the mechanical stimulation of food in the 
 Food remains in the stomach for 4 to 5 hours, the rhythmic peristaltic movement churns and mixes the food with gastric juice and make it into a creamy liquid called **chyme**. The gastric secretion is partly controlled by autonomic reflexes. The secretion of gastric juice begins when the food is in the mouth. The gastric juice contains HCl and proenzymes. The proenzyme pepsinogen, on exposure to HCl gets converted into the active enzyme pepsin which converts proteins into proteoses and peptones (peptides). The HCl provides an acidic medium which is optimum for pepsin, kills bacteria and other harmful organisms and avoids putrifaction. The mucus and bicarbonates present in the gastric juice play an important role in lubrication and protection of the mucosal epithelium from the eroding nature of the highly acidic HCl (Figure. 5.8). Another proteolytic enzyme found in gastric juice of infants is rennin helps in the digestion of milk protein, caseinogen to casein in the presence of calcium ions. This enzyme secretion gradually reduces with aging.
 
 
-![The stomach and gastric secretions](/content.en/digestion-and-absorption/5.8.png)
+![The stomach and gastric secretions](../5.8.png)
 
 
 **Digestion in the small intestine**
