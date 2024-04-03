@@ -40,7 +40,7 @@ The respiratory system includes external nostrils, nasal cavity, pharynx, larynx
 
 In human beings, air enters the upper respiratory tract through the external nostrils. The air passing through the nostrils is filtered by fine hairs and mucus lining the passage. The external nostrils lead to the nasal chamber which opens into the nasopharynx which opens through the glottis of the larynx region into the trachea. The ciliated epithelial cells lining the trachea, bronchi and bronchioles secrete mucus. **Mucus membrane** lining the airway contains **goblet cells** which secrete mucus, a slimy material rich in glycoprotein. Microorganisms and dust particles attach in the mucus films and are carried upwards to pass down the
 
-![The Human respiratory system](/content.en/respiration/6.1.png)
+![The Human respiratory system](6.1.png)
 
 
 gullet during normal swallowing. During swallowing a thin elastic flap called epiglottis prevents the food from entering into the larynx and avoids choking of food.
@@ -65,7 +65,7 @@ The lungs are covered by double walled pleural membrane containing a several lay
 
 • should be permeable to respiratory gases
 
-![The Human Respiratory tract&Structure of alveoli](/content.en/respiration/6.2.png)
+![The Human Respiratory tract&Structure of alveoli](6.2.png)
 
 
 The steps involved in respiration are 
@@ -87,7 +87,7 @@ The movement of air between the atmosphere and the lungs is known as ventilation
 
 Lungs do not contain muscle fibres but expands and contracts by the movement of the ribs and diaphragm. The diaphragm is a sheet of tissue which separates the thorax from the abdomen. In a relaxed state, the diaphragm is domed shaped. Ribs are moved by the intercostal muscles. External and internal intercostal muscles found between the ribs and the diaphragm helps in creating pressure gradients. Inspiration occurs if the pressure inside the lungs (intrapulmonary pressure) is less than the atmospheric pressure likewise expiration takes place when the pressure within the lungs is higher than the atmospheric pressure.
 
-![Mechanism of breathing&Events in inspiration and expiration](/content.en/respiration/6.3.png)
+![Mechanism of breathing&Events in inspiration and expiration](6.3.png)
   
 
 Inspiraton is initiated by the contraction of the diaphragm muscles and external intercostal muscles, which pulls the ribs and sternum upwards and outwards and increases the volume of the thoracic chamber in the dorso–ventral axis, forcing the lungs to expand the pulmonary volume. The increase in pulmonary volume and decrease in the intrapulmonary pressure forces the fresh air from outside to enter the air passages into the lungs to equalize the pressure. This process is called inspiration.
@@ -123,7 +123,7 @@ The volume of air present in various phases of respiration is denoted as
 • **Expiratory capacity (EC)** The total volume of air a person can exhale after normal inspiration. It includes
 
 
-![Lung volumes and capacity](/content.en/respiration/6.4.png)
+![Lung volumes and capacity](6.4.png)
 
 
 tidal volume and expiratory reserve volume. EC=TV+ERV
@@ -162,10 +162,10 @@ Haemoglobin belongs to the class of conjugated protein. The iron containing pigm
 
 If the iron component of the haem is in the ferric state, than the normal ferrous state, it is called methaemoglobin. Methaemoglobin does not bind with O2. Normally RBC contains less than 1% methaemoglobin.
 
-![Exchange of gases at the alveolus and the tissue with blood and transport of oxygen and carbondioxide](/content.en/respiration/6.5.png)
+![Exchange of gases at the alveolus and the tissue with blood and transport of oxygen and carbondioxide](6.5.png)
 
 
-![Partial pressure of Oxygen and Carbon dioxide (in mmHg) in comparison to those gases in the atmosphere](/content.en/respiration/tble1.png)
+![Partial pressure of Oxygen and Carbon dioxide (in mmHg) in comparison to those gases in the atmosphere](tble1.png)
 
 
 
@@ -176,7 +176,7 @@ If the iron component of the haem is in the ferric state, than the normal ferrou
 
 Molecular oxygen is carried in blood in two ways bound to haemoglobin within the red blood cells and dissolved in plasma. Oxygen is poorly soluble in water, so only 3% of the oxygen is transported in the dissolved form. 97% of oxygen binds with haemoglobin in a reversible manner to form oxyhaemoglobin (HbO2). The rate at which haemoglobin binds with O2 is regulated by the partial pressure of O2. Each haemoglobin carries maximum of four molecules of
 
-![Oxygen dissociation curve](/content.en/respiration/6.6.png)
+![Oxygen dissociation curve](6.6.png)
 
 
 
@@ -227,7 +227,7 @@ In the lungs the process is reversed as the blood moves through the pulmonary ca
 
 A specialised respiratory centre present in the medulla oblongata of the hind brain called **respiratory rhythm centre** is responsible for this regulation. **Pneumotaxic centre** present in pons varoli region of the brain moderates the function
 
-![Chloride shift mechanism](/content.en/respiration/6.7.png)
+![Chloride shift mechanism](6.7.png)
   
 
 of the respiratory rhythm centre to ensure normal breathing. The chemosensitive area found close to the rhythm centre is highly sensitive to CO2 and H+. And H+ are eliminated out by respiratory process. Receptors associated with the aortic arch and carotid artery send necessary signals to the rhythm centre for remedial action. The role of O2 is insignificant in the regulation of respiratory rhythm.

@@ -12,7 +12,7 @@ The functioning of kidneys is efficiently monitored and regulated by hormonal fe
 
 e long loops of Henle of the juxtamedullary t (b) Counter current exchanger – Vasa recta emoving reabsorbed water and solutes.
 
-![(b) Counter current exchanger – Vasa recta preserves the medullary gradient while removing reabsorbed water and solutes.](/content.en/excretion/8.8.png)
+![(b) Counter current exchanger – Vasa recta preserves the medullary gradient while removing reabsorbed water and solutes.](../8.8.png)
 
 
 apparatus and to a certain extent the heart. Osmoreceptors in the hypothalamus are activated by changes in the blood volume, body fluid volume and ionic concentration. When there is excessive loss of fluid from the body or when there is an increase in the blood pressure, the osmoreceptors of the hypothalamus respond by stimulating the neurohypophysis to secrete the antidiuretic hormone (ADH) or vasopressin (a positive feedback). ADH facilitates reabsorption of water by increasing the number of aquaporins on the cell surface membrane of the distal convoluted tubule and collecting duct. This increase in aquaporins causes the movement of water from the lumen into the interstitial cells, thereby preventing excess loss of water by diuresis. When you drink excess amounts of your favourite juice, osmoreceptors of the hypothalamus is no longer stimulated and the release of ADH is suppressed from the neurohypophysis (negative feedback) and the aquaporins of the collecting ducts move into the cytoplasm. This makes the collecting ducts impermeable to water and the excess fluid flows down the collecting duct without any water loss. Hence dilute urine is produced to maintain the blood volume. Vasopressin secretion is controlled by positive and negative feedback mechanism. Defects in ADH receptors or inability to secrete ADH leads to a condition called diabetes insipidus, characterized by excessive thirst and excretion of large quantities of dilute urine resulting in dehydration and fall in blood pressure.
@@ -24,7 +24,7 @@ Juxta glomerular apparatus (JGA) is a specialized tissue in the afferent arterio
 
 ```Angiotensin Converting Enzyme inhibitors (ACE inhibitors) are used to treat high blood pressure. Using a flow chart, explain why these drugs are helpful in treating hypertension.```
 
-![Schematic representations of the various hormones in the regulation of body fluid concentration](/content.en/excretion/8.9.png)
+![Schematic representations of the various hormones in the regulation of body fluid concentration](../8.9.png)
 
 
 (synthesized in the liver) to angiotensin I. Angiotensin converting enzyme (ACE) converts angiotensin I to angiotensin II. Angiotensin II stimulates Na1 reabsorption in the proximal convoluted tubule by vasoconstriction of the blood vessels and increases the glomerular blood pressure. Angiotensin II acts at different sites such as heart, kidney, brain, adrenal cortex and blood vessels. It stimulates adrenal cortex to secrete aldosterone that causes reabsorption of Na1, K1 excretion and absorption of water from the distal convoluted tubule and collecting duct. This increases the glomerular blood pressure and glomerular filtration rate. This complex mechanism is generally known as **Renin- Angiotensin- Aldosterone System** (RAAS). Figure 8.9 shows the schematic representation of the various hormones in the regulation of body fluid concentration.

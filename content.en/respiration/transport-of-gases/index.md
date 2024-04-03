@@ -10,7 +10,7 @@ weight: 5
 
 Molecular oxygen is carried in blood in two ways bound to haemoglobin within the red blood cells and dissolved in plasma. Oxygen is poorly soluble in water, so only 3% of the oxygen is transported in the dissolved form. 97% of oxygen binds with haemoglobin in a reversible manner to form oxyhaemoglobin (HbO2). The rate at which haemoglobin binds with O2 is regulated by the partial pressure of O2. Each haemoglobin carries maximum of four molecules of
 
-![Oxygen dissociation curve](/content.en/respiration/6.6.png)
+![Oxygen dissociation curve](../6.6.png)
 
 
 
