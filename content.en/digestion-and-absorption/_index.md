@@ -101,7 +101,6 @@ Apart from bile secretion, the liver also performs several functions
 
 The second largest gland in the digestive system is the Pancreas, which is a yellow coloured, compound elongated organ consisting of exocrine and endocrine cells. It is situated between the limbs of the ‘U’ shaped duodenum. The exocrine portion secretes pancreatic juice containing enzymes such as pancreatic amylase, trypsin and pancreatic lipase and the endocrine part called Islets of Langerhans, secretes hormones such as insulin and glucagon. The pancreatic duct directly opens into the duodenum.
 
-```List the chemical preservatives, artificial enhancers found in the food items available in the market. How can you avoid such harmful substances in your food?```
 
 # 5.2 Digestion of food and role of digestive enzymes
 
@@ -127,7 +126,6 @@ The bile, pancreatic juice and intestinal juice are the secretions released into
 The bile contains bile pigments (bilirubin and biliverdin) as the break down products of hemoglobin of dead RBCs, bile salts,
 
 
-```What would happen if HCl is not secreted in the stomach?```
 
 
 cholesterol and phospholipids but has no enzymes. Bile helps in emulsification of fats. Bile salts reduce the surface tension of fat droplets and break them into small globules. Bile also activates lipases to digest lipids Proteins and partially digested proteins in the chyme on reaching the intestine are acted upon by the proteolytic enzymes of pancreatic juice.The pancreatic juice contains enzymes such as trypsinogen, chymotrypsinogen, carboxypeptidases, pancreatic amylases, pancreatic lipases and nucleases. Trypsinogen is activated by an enzyme, enterokinase, secreted by the intestinal mucosa into active trypsin, which in turn activates the enzyme chymotrypsinogen in the pancreatic juice.
@@ -140,23 +138,7 @@ The pancreatic amylase converts glycogen and starch into maltose. Lipase acts on
 The secretions of the Brunner's gland along with the secretions of the intestinal glands constitute the intestinal juice or **succus entericus. The enzymes in the** intestinal juice such as maltase, lactase, sucrase (invertase), peptidases, lipases, nucleotidases and nucleosidases act on the breakdown products of bile and pancreatic digestion.
 
 
-`formulae` Maltose Maltase glucose + glucose
-
-Sucrose Sucrase glucose + fructose
-
-Lactose Lactase glucose + galactose
-
-Dipeptides, Tripeptides
-
-Peptidase amino acids
-
-Nucleotides Nucleotidase Nucleoside + Phosphoric acid
-
-Nucleoside Nucleosidase Sugar + Nitrogen base
-
-Diglycerides and monoglycerides
-
-Lipases Fatty acids + glycerol
+![alt text](<eq 1.png>)
 
 
 
@@ -164,8 +146,7 @@ The mucus along with the bicarbonate ions from the pancreas provides an alkaline
 
 
 
-`formulae` Carbohydrates monosaccharides (glucose, fructose, galactose) Proteins amino acids Lipids fatty acids and glycerol
-
+![alt text](<eq 2 .png>)
 
 
 The simple substances thus formed are absorbed in the jejunum and ileum region of the small intestine. The undigested and unabsorbed substances are propelled into the large intestine. The activities of the gastro-intestinal tract are carried out by the neural and hormonal control for proper coordination of different parts. Gastric and intestinal secretions are stimulated by neural signals. Hormonal control of the secretion of digestive juices is carried out by local hormones produced by the gastric and intestinal mucosa.
@@ -217,7 +198,7 @@ These are the inorganic chemical elements, i.e., Ca, Fe, I, K, Mg, Na, P, S, etc
 ![table-3](/content.en/digestion-and-absorption/table3.png)
 
 
-# 5.6 Caloric value of carbohydrates, proteins and fats## Caloric value of carbohydrates, proteins and fats
+# 5.6 Caloric value of carbohydrates, proteins and fats Caloric value of carbohydrates, proteins and fats
 
 
 We obtain 50% energy from carbohydrates 35% from fats and 15% from proteins. We require about 400 to 500 gm of carbohydrates, 60 to 70 gm of fats and 65 to 75 gm of proteins per day. Balanced diet of each individual will vary according to their age, gender, level of physical activity and others conditions such as pregnancy and lactation.
@@ -282,7 +263,7 @@ It is the most common gastrointestinal disorder worldwide. It is sometimes cause
 It refers to an eroded area of the tissue lining (mucosa) in the stomach or duodenum. Duodenal ulcer occurs in people in the age group of 25 - 45 years. Gastric ulcer is more common in persons above the age of 50 years. Ulcer is mostly due to infections caused by the bacterium **_Helicobacter pylori_.** It may also be caused due to uncontrolled usage of aspirin or certain antiinflammatory drugs. Ulcer may also be caused due to smoking, alcohol, caffeine and psychological stress.
 
 
-```Nobel Prize for the year 2005 was awarded to Robin Warren and Barry Marshall for the discovery of Helicobacter pylori which causes peptic ulcer```
+
 
 
 **Obesity:** 
