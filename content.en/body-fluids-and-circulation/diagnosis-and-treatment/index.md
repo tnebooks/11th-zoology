@@ -26,8 +26,7 @@ A heart transplant is a surgical transplantation procedure which is done to repl
 
 In 1956, **James Elam** and **Peter Safar** were the first to use **mouth to mouth resuscitation**. CPR is a life saving procedure that is done at the time of emergency conditions such as when a person’s breath or heart beat has stopped abruptly in case of drowning, electric shock or heart attack. CPR includes rescue of breath, which is achieved by mouth to mouth breathing, to deliver oxygen to the victim’s lungs by external chest compressions which helps to circulate blood to the vital organs. CPR  
 
-![alt text](/content.en/body-fluids-and-circulation/7.12.png)
-
+![alt text](../7.12.png)
 
 must be performed within 4 to 6 minutes after cessation of breath to prevent brain damage or death. Along with CPR, defibrillation is also done. Defibrillation means a brief electric shock is given to the heart to recover the function of the heart.
 
