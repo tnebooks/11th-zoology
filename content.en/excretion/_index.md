@@ -20,7 +20,7 @@ Excretory system helps in collecting nitrogenous waste and expelling it into the
 
 Animals that excrete most of its nitrogen in the form of ammonia are called ammonoteles. Many fishes, aquatic amphibians and aquatic insects are ammonotelic. In bony fishes, ammonia diffuses out across the body surface or through gill surface as ammonium ions. Reptiles, birds, land snails and insects excrete uric acid crystals, with a minimum loss of water and are called **uricoteles**. In terrestrial animals, less toxic urea and
 
-![Excretory products in different groups of animals.](/content.en/excretion/8.1.png)
+
 ![Excretory products in different groups of animals.](8.1.png)
 uric acid are produced to conserve water. Mammals and terrestrial amphibians mainly excrete urea and are called **ureoteles**. Earthworms while in soil are ureoteles and when in water are ammonoteles. Figure 8.1 shows the excretory products in different groups of animals.
 
