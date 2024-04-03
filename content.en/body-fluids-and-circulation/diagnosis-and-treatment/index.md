@@ -26,7 +26,7 @@ A heart transplant is a surgical transplantation procedure which is done to repl
 
 In 1956, **James Elam** and **Peter Safar** were the first to use **mouth to mouth resuscitation**. CPR is a life saving procedure that is done at the time of emergency conditions such as when a person’s breath or heart beat has stopped abruptly in case of drowning, electric shock or heart attack. CPR includes rescue of breath, which is achieved by mouth to mouth breathing, to deliver oxygen to the victim’s lungs by external chest compressions which helps to circulate blood to the vital organs. CPR  
 
-![](/content.en/body-fluids-and-circulation/7.12.png)
+![alt text](/content.en/body-fluids-and-circulation/7.12.png)
 
 
 must be performed within 4 to 6 minutes after cessation of breath to prevent brain damage or death. Along with CPR, defibrillation is also done. Defibrillation means a brief electric shock is given to the heart to recover the function of the heart.
@@ -34,4 +34,4 @@ must be performed within 4 to 6 minutes after cessation of breath to prevent bra
 Each year over several million people worldwide die of heart disease, than from other conditions. For some patients heart transplant is the only hope. Raju was 62 years old when muscles of both the ventricles had deteriorated. He was lucky enough because biomedical engineers were able develop a pumping device called **‘total artificial heart’**. Raju’s heart was completely removed and an artificial heart was put in place. He was able to go home within a few weeks. This artificial heart would have kept him in alive until suitable real heart was available for transplant.
 
 
-![](/content.en/body-fluids-and-circulation/7.13.png)
+![alt text](/content.en/body-fluids-and-circulation/7.13.png)
