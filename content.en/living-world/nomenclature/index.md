@@ -13,8 +13,8 @@ One of the primary responsibilities of systematic biology is the development of 
 
 **Binomial nomenclature**
 
-_(L. Bi-two; Nomen-Name)_
-Biologists follow universally accepted principles to provide scientific names to known organisms. Each name has two components, a generic name and a specific epithet. This system of naming the organism is called Binomial Nomenclature which was popularised by Carolus Linnaeus and practised by biologists all over the world. Example, the National Bird (Indian Peafowl) – Pavo cristatus, the National Animal tiger as Panthera tigris, and the Tamil Nadu State bird is the common Emerald dove Chalcophaps indica.
+**_(L. Bi-two; Nomen-Name)_**
+Biologists follow universally accepted principles to provide scientific names to known organisms. Each name has two components, a generic name and a specific epithet. This system of naming the organism is called **Binomial Nomenclature** which was popularised by Carolus Linnaeus and practised by biologists all over the world. Example, the National Bird (Indian Peafowl) – Pavo cristatus, the National Animal tiger as Panthera tigris, and the Tamil Nadu State bird is the common Emerald dove Chalcophaps indica.
 
 > Do You Know
 > Biological nomenclature derives from the binomial (or binominal) nomenclature that was originally codified in the works of Linnaeus, Species Plantarum (1753) and Systema Naturae, 10th Edition (1758). These publications are the starting points for the modern biological nomenclature in most groups of plants and animals.
@@ -23,7 +23,7 @@ Biologists follow universally accepted principles to provide scientific names to
 
 **Trinominal nomenclature**
 
-_(Tri – three)_
+**_(Tri – three)_**
 This naming system was proposed by Huxley and Stricklandt, Trinomen means, three names: generic name, species name and sub-species name. When members of any species which have large variations then trinomial system is used. On the basis of dissimilarities, this species gets classified into subspecies. It is the extension of binominal nomenclature system which has an addition of subspecies. All the three names are set in italics and only the first letter of generic name is capitalized, if handwritten then it should be underlined separately E.g.Corvus splendens splendens (Indian house crow) Tautonymy: The practice of naming the animals in which the generic name and species name are the same, is called Tautonymy. e.g. Naja naja (The Indian Cobra).
 
 > What may be the reasons for the
@@ -41,14 +41,13 @@ This naming system was proposed by Huxley and Stricklandt, Trinomen means, three
   alphabet should be in uppercase.
 - The specific name (species) should be
   in lowercase.
-- The scientific names of any two
-- organisms are not similar.
-  The name or abbreviated name of
-  the scientist who first publishes the
-  scientific name may be written after
-  the species name along with the year of
-  publication. For example Lion-Felis leo
-  Linn., 1758 or Felis leo L., 1758.
+- The scientific names of any two organisms are not similar.
+- The name or abbreviated name of
+the scientist who first publishes the
+scientific name may be written after
+the species name along with the year of
+publication. For example Lion-Felis leo
+Linn., 1758 or Felis leo L., 1758.
 - If the species name is framed after any
   person’s name the name of the species
   shall end with i, ii or ae.
