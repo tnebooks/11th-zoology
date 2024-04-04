@@ -22,8 +22,6 @@ Vitamins are naturally occurring organic substances regularly needed in minute q
 These are the inorganic chemical elements, i.e., Ca, Fe, I, K, Mg, Na, P, S, etc needed for regulation of various physiological functions. These can be classified into major minerals (Na, P, K, Ca, Mg, S, Cl) and others are trace minerals such as Fe, Cu, Zn, Co, Mn, I, and fluorine. Sodium ions are more abundant than any other cation in the body fluids.
 
 
-![table-1](/content.en/digestion-and-absorption/table1.png)
-
-![table-2](/content.en/digestion-and-absorption/table2.png)
-
-![table-3](/content.en/digestion-and-absorption/table3.png)
+![Table - 1](../table1.png) 
+![Table - 2](../table2.png) 
+![Table - 3](../table3.png)

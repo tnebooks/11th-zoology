@@ -26,7 +26,7 @@ Plasma mainly consists of water (80-92%) in which the plasma proteins, inorganic
 
 Red blood cells/corpuscles (erythrocytes), white blood cells/corpuscles (Leucocytes) and platelets are collectively called formed elements.  
 
-![Structure of RBC](/content.en/body-fluids-and-circulation/7.1.png)
+![Structure of RBC](7.1.png)
 
 
 **Red Blood Cells** 
@@ -60,7 +60,7 @@ Agranulocytes are characterised by the absence of granules in the cytoplasm and 
 
 **Monocytes** (Macrophages) are phagocytic cells that are similar to mast
 
-![Different types of WBC](/content.en/body-fluids-and-circulation/7.2.png)
+![Different types of WBC](7.2.png)
   
 
 cells and have kidney shaped nucleus. They constitute 1-3% of the total WBCs. The macrophages of the central nervous system are the ‘microglia’, in the sinusoids of the liver they are called **‘Kupffer cells’** and in the pulmonary region they are the **‘alveolar macrophages’**.
@@ -93,7 +93,7 @@ Depending on the presence or absence of surface antigens on the RBCs, blood grou
 ### 7.1.4 Coagulation of Blood
 If you cut your finger or when you get yourself hurt, your wound bleeds for some time after which it stops to bleed. This is because the blood clots or coagulates in response to trauma. The mechanism by which excessive blood loss is prevented by the formation of clot is called **blood coagulation** or **clotting of blood**. Schematic representation of blood coagulation is shown Figure 7.3. The clotting process begins when the endothelium of the blood vessel is damaged and the connective tissue in its wall is exposed to the blood. Platelets adhere to collagen fibres in the connective tissue and release substances that form the platelet plug which provides emergency protection against blood loss. Clotting factors released from the clumped platelets or damaged cells mix with clotting factors in the plasma. The protein called **prothrombin** is converted to its active form called **thrombin** in the presence of calcium and vitamin K. Thrombin helps in the conversion of fibrinogen to fibrin threads. The threads of fibrins become interlinked into a patch that traps blood cell and seals the injured vessel until the wound is healed. After sometime fibrin fibrils contract, squeezing out a straw-coloured fluid through a meshwork called **serum** (Plasma without fibrinogen is called serum). Heparin is an **anticoagulant** produced in small quantities by mast cells of connective tissue which prevents coagulation in small blood vessels.  
 
-![Schematic representation of blood coagulation in an injured blood vessel](/content.en/body-fluids-and-circulation/7.3.png)
+![Schematic representation of blood coagulation in an injured blood vessel](7.3.png)
 
 
 ### 7.1.5 Composition of Lymph and its Functions
@@ -101,7 +101,7 @@ If you cut your finger or when you get yourself hurt, your wound bleeds for some
 
 About 90% of fluid that leaks from capillaries eventually seeps back into the capillaries and the remaining 10% is collected and returned to blood system by means of a series of tubules known as **lymph vessels** or **lymphatics.** The fluid inside the lymphatics is called **lymph**. The lymphatic system consists of a complex network of thin walled ducts (lymphatic vessels), filtering bodies (lymph nodes) and a large number of lymphocytic cell concentrations in various lymphoid organs. The lymphatic vessels have smooth walls that run parallel to the blood vessels, in the skin, along the respiratory and digestive tracts. These vessels serve as return ducts for the fluids that are continually diffusing out of the blood capillaries into the body tissues. The end of a vessel is shown in Figure 7.4.
 
-![Drainage of tissue fluid into a lymph vessel](/content.en/body-fluids-and-circulation/7.4.png)
+![Drainage of tissue fluid into a lymph vessel](7.4.png)
 
 Lymph fluid must pass through the lymph nodes before it is returned to the blood. The lymph nodes that filter the fluid from the lymphatic vessels of the skin are highly concentrated in the neck, inguinal, axillaries, respiratory and digestive tracts. The lymph fluid flowing out of the lymph nodes flow into large collecting duct which finally drains into larger veins that runs beneath the collar bone, the subclavian vein and is emptied into the blood stream. The narrow passages in the lymph nodes are the sinusoids that are lined with macrophages. The lymph nodes successfully prevent the invading microorganisms from reaching the blood stream. Cells found in the lymphatics are the **lymphocytes**. Lymphocytes collected in the lymphatic fluid are carried via the arterial blood and are recycled back to the lymph. Fats are absorbed through lymph in the lacteals present in the villi of the intestinal wall.
 
@@ -115,7 +115,7 @@ The vessels carrying the blood are of three types; they are the arteries, veins 
 
 The blood vessels that carry blood away from the heart are called arteries. The arteries usually lie deep inside the body. The walls of the arteries are thick, non- collapsible to withstand high pressure. Valves are absent and have a narrow lumen. All arteries carry oxygenated blood, except the pulmonary artery. The largest artery, the **aorta** (2.5 cm in diameter and 2 mm thick) branch into smaller arteries and culminates into the tissues as feed arteries. In the tissues the arteries branches into arterioles. As blood enters an arteriole it may have a pressure of 85 mm Hg (11.3 KPa) but as it leaves and flows into the capillary, the pressure drops to 35 mm Hg (4.7 KPa). (Note 1 mm Hg =0.13 KPa. SI unit of mm Hg is KiloPascal (KPa)). Arterioles
 
-![Structure of Blood vessels](/content.en/body-fluids-and-circulation/7.5.png)
+![Structure of Blood vessels](7.5.png)
 
 
 are small, narrow, and thin walled which are connected to the capillaries. A small sphincter lies at the junction between the arterioles and capillaries to regulate the blood supply. Arteries do not always branch into arterioles, they can also form anastomoses.
@@ -152,7 +152,7 @@ The space present between the membranes is called pericardial space and is fille
 
 The two auricles are separated by inter **auricular septum** and the two ventricles are separated by **inter ventricular septum** The separation of chambers avoids mixing of oxygenated and deoxygenated blood. The auricle communicates with the ventricle through an opening called **auriculo ventricular aperture** which is guarded by the auriculo ventricular valves. The opening between the right atrium and the right ventricle is guarded by the **tricuspid valve (three flaps or cusps), whereas a bicuspid (two flaps or cusps) or mitral valve guards the opening between the left** atrium and left ventricle (Figure 7.6). The valves of the heart allows the blood to flow only in one direction, i.e., from the atria to the ventricles and from the ventricles to the pulmonary artery or the aorta. These valves prevent backward flow of blood.
 
-![L.S of Heart](/content.en/body-fluids-and-circulation/7.6.png)
+![L.S of Heart](7.6.png)
 
 
 The opening of right and left ventricles into the pulmonary artery and aorta are guarded by aortic and pulmonary valves and are called **semilunar valves**. Each semilunar valve is made of three half- moon shaped cusps. The myocardium of the ventricle is thrown into irregular muscular ridges called **trabeculae corneae**. The trabeculae corneae are modified into **chordae tendinae**. The opening and closing of the semilunar valves are achieved by the chordae tendinae. The chordae tendinae are attached to the lower end of the heart by papillary muscles. Heart receives deoxygenated blood from various parts of the body through the inferior venacava and superior venacava which open into the right auricle. Oxygenated blood from lungs is drained into the left auricle through four pulmonary veins.
@@ -166,7 +166,7 @@ Pacemaker cells produce excitation through depolarisation of their cell membrane
 
 HEART BEAT- Rhythmic contraction and expansion of heart is called **heart beat**. The contraction of the heart is called **systole** and the relaxation of the heart is called **diastole**. The heart normally beats 70-72 times per min in a human adult. During each cardiac cycle two sounds are produced that can be heard through a **stethoscope**. The first heart sound
 
-![The sequence of electrical conduction of heart.](/content.en/body-fluids-and-circulation/7.7.png)
+![The sequence of electrical conduction of heart.](7.7.png)
 
 
 (lub) is associated with the closure of the tricuspid and bicuspid valves whereas second heart sound (dub) is associated with the closure of the semilunar valves. These sounds are of clinical diagnostic significance. An increased heart rate is called **tachycardia** and decreased heart rate is called **bradycardia**.
@@ -204,7 +204,7 @@ Blood pressure is the pressure exerted on the surface of blood vessels by the bl
 
 An electrocardiogram (ECG) records the electrical activity of the heart over a period of time using electrodes placed on the skin, arms, legs and chest. It records the changes in electrical potential across the heart during one cardiac cycle. The special flap of muscle which initiates the heart beat is called as **sinu-auricular node** or **SA node** in the right atrium. It spreads as a wave of contraction in the heart. The waves of the ECG are due to depolarization and not due to contraction of the heart. This wave of depolarisation occurs before the beginning of contraction of the cardiac muscle. A normal ECG shows 3 waves designated as P wave, QRS complex and T wave as shown in Figure 7.8 and the stages of the ECG graph are shown in Figure 7.9.
 
-![Graph of a normal ECG](/content.en/body-fluids-and-circulation/7.8.png)
+![Graph of a normal ECG](7.8.png)
 
 
 
@@ -226,16 +226,16 @@ It lies between the QRS complex and T wave. It is the time during which all regi
 
 **T wave (Ventricular Repolarisation)** It represents ventricular repolarisation. The duration of the T wave is longer than QRS complex because repolarisation takes place   simultaneously throughout the ventricular depolarisation.
 
-![Stages of ECG graph](/content.en/body-fluids-and-circulation/7.9.png)
+![Stages of ECG graph](7.9.png)
 
 
 # 7.5 Double Circulation
 Circulation of the blood was first described by **William Harvey** (1628). There are two types of blood circulation in vertebrates, **single circulation** and **double circulation** which is shown in Figure 7.10 (a and b) and 7.11.
 
 ![Diagrammatic representation of (a) single
-circulation (b) double circulation](/content.en/body-fluids-and-circulation/7.10.png)
+circulation (b) double circulation](7.10.png)
 
-![Diagrammatic representation of the Double Circulation](/content.en/body-fluids-and-circulation/7.11.png)
+![Diagrammatic representation of the Double Circulation](7.11.png)
 
 
 The blood circulates twice through the heart first on the right side then on the left side to complete one cardiac cycle.  
@@ -310,7 +310,7 @@ A heart transplant is a surgical transplantation procedure which is done to repl
 
 In 1956, **James Elam** and **Peter Safar** were the first to use **mouth to mouth resuscitation**. CPR is a life saving procedure that is done at the time of emergency conditions such as when a person’s breath or heart beat has stopped abruptly in case of drowning, electric shock or heart attack. CPR includes rescue of breath, which is achieved by mouth to mouth breathing, to deliver oxygen to the victim’s lungs by external chest compressions which helps to circulate blood to the vital organs. CPR  
 
-![](/content.en/body-fluids-and-circulation/7.12.png)
+![](7.12.png)
 
 
 must be performed within 4 to 6 minutes after cessation of breath to prevent brain damage or death. Along with CPR, defibrillation is also done. Defibrillation means a brief electric shock is given to the heart to recover the function of the heart.
@@ -318,4 +318,4 @@ must be performed within 4 to 6 minutes after cessation of breath to prevent bra
 Each year over several million people worldwide die of heart disease, than from other conditions. For some patients heart transplant is the only hope. Raju was 62 years old when muscles of both the ventricles had deteriorated. He was lucky enough because biomedical engineers were able develop a pumping device called **‘total artificial heart’**. Raju’s heart was completely removed and an artificial heart was put in place. He was able to go home within a few weeks. This artificial heart would have kept him in alive until suitable real heart was available for transplant.
 
 
-![](/content.en/body-fluids-and-circulation/7.13.png)
+![](7.13.png)

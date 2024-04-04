@@ -27,7 +27,7 @@ Plasma mainly consists of water (80-92%) in which the plasma proteins, inorganic
 
 Red blood cells/corpuscles (erythrocytes), white blood cells/corpuscles (Leucocytes) and platelets are collectively called formed elements.  
 
-![Structure of RBC](/content.en/body-fluids-and-circulation/7.1.png)
+![Structure of RBC](../7.1.png)
 
 
 **Red Blood Cells** 
@@ -61,7 +61,7 @@ Agranulocytes are characterised by the absence of granules in the cytoplasm and 
 
 **Monocytes** (Macrophages) are phagocytic cells that are similar to mast
 
-![Different types of WBC](/content.en/body-fluids-and-circulation/7.2.png)
+![Different types of WBC](../7.2.png)
   
 
 cells and have kidney shaped nucleus. They constitute 1-3% of the total WBCs. The macrophages of the central nervous system are the ‘microglia’, in the sinusoids of the liver they are called **‘Kupffer cells’** and in the pulmonary region they are the **‘alveolar macrophages’**.
@@ -95,14 +95,13 @@ Depending on the presence or absence of surface antigens on the RBCs, blood grou
 
 If you cut your finger or when you get yourself hurt, your wound bleeds for some time after which it stops to bleed. This is because the blood clots or coagulates in response to trauma. The mechanism by which excessive blood loss is prevented by the formation of clot is called **blood coagulation** or **clotting of blood**. Schematic representation of blood coagulation is shown Figure 7.3. The clotting process begins when the endothelium of the blood vessel is damaged and the connective tissue in its wall is exposed to the blood. Platelets adhere to collagen fibres in the connective tissue and release substances that form the platelet plug which provides emergency protection against blood loss. Clotting factors released from the clumped platelets or damaged cells mix with clotting factors in the plasma. The protein called **prothrombin** is converted to its active form called **thrombin** in the presence of calcium and vitamin K. Thrombin helps in the conversion of fibrinogen to fibrin threads. The threads of fibrins become interlinked into a patch that traps blood cell and seals the injured vessel until the wound is healed. After sometime fibrin fibrils contract, squeezing out a straw-coloured fluid through a meshwork called **serum** (Plasma without fibrinogen is called serum). Heparin is an **anticoagulant** produced in small quantities by mast cells of connective tissue which prevents coagulation in small blood vessels.  
 
-![Schematic representation of blood coagulation in an injured blood vessel](/content.en/body-fluids-and-circulation/7.3.png)
-
+![Schematic representation of blood coagulation in an injured blood vessel](../7.3.png)
 
 ### Composition of Lymph and its Functions
 
 
 About 90% of fluid that leaks from capillaries eventually seeps back into the capillaries and the remaining 10% is collected and returned to blood system by means of a series of tubules known as **lymph vessels** or **lymphatics.** The fluid inside the lymphatics is called **lymph**. The lymphatic system consists of a complex network of thin walled ducts (lymphatic vessels), filtering bodies (lymph nodes) and a large number of lymphocytic cell concentrations in various lymphoid organs. The lymphatic vessels have smooth walls that run parallel to the blood vessels, in the skin, along the respiratory and digestive tracts. These vessels serve as return ducts for the fluids that are continually diffusing out of the blood capillaries into the body tissues. The end of a vessel is shown in Figure 7.4.
 
-![Drainage of tissue fluid into a lymph vessel](/content.en/body-fluids-and-circulation/7.4.png)
+![Drainage of tissue fluid into a lymph vessel](../7.4.png)
 
 Lymph fluid must pass through the lymph nodes before it is returned to the blood. The lymph nodes that filter the fluid from the lymphatic vessels of the skin are highly concentrated in the neck, inguinal, axillaries, respiratory and digestive tracts. The lymph fluid flowing out of the lymph nodes flow into large collecting duct which finally drains into larger veins that runs beneath the collar bone, the subclavian vein and is emptied into the blood stream. The narrow passages in the lymph nodes are the sinusoids that are lined with macrophages. The lymph nodes successfully prevent the invading microorganisms from reaching the blood stream. Cells found in the lymphatics are the **lymphocytes**. Lymphocytes collected in the lymphatic fluid are carried via the arterial blood and are recycled back to the lymph. Fats are absorbed through lymph in the lacteals present in the villi of the intestinal wall.

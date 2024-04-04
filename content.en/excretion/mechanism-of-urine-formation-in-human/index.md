@@ -9,7 +9,7 @@ weight: 3
 The nitrogenous waste formed as a result of breakdown of amino acids is converted to urea in the liver by the Ornithine cycle or urea cycle (Figure 8.7).
 
 
-![Ornithine cycle](/content.en/excretion/8.7.png)
+![Ornithine cycle](../8.7.png)
 
 
 Urine formation involves three main processes namely, glomerular filtration, tubular reabsorption and tubular secretion.  
@@ -74,7 +74,7 @@ T**he vasa recta, maintains the medullary osmotic gradient via counter current e
 
 When the blood leaves the efferent arteriole and enters vasa recta the osmolarity in the medulla increases (1200mOsm) and
 
-![(a) Counter current multiplier – the long loops of Henle of the juxtamedullary nephrons create the medullary osmotic gradient.](/content.en/excretion/8.8.png)
+![(a) Counter current multiplier – the long loops of Henle of the juxtamedullary nephrons create the medullary osmotic gradient.](../8.8.png)
 
 results in passive uptake of solutes and loss of water in descending vasa recta. As the blood enters the cortex, the osmolarity in the blood decreases (300mOsm) and the blood loses solutes and gains water.
 

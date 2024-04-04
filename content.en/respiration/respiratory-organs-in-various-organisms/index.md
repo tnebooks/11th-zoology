@@ -18,7 +18,7 @@ The respiratory system includes external nostrils, nasal cavity, pharynx, larynx
 
 In human beings, air enters the upper respiratory tract through the external nostrils. The air passing through the nostrils is filtered by fine hairs and mucus lining the passage. The external nostrils lead to the nasal chamber which opens into the nasopharynx which opens through the glottis of the larynx region into the trachea. The ciliated epithelial cells lining the trachea, bronchi and bronchioles secrete mucus. **Mucus membrane** lining the airway contains **goblet cells** which secrete mucus, a slimy material rich in glycoprotein. Microorganisms and dust particles attach in the mucus films and are carried upwards to pass down the
 
-![The Human respiratory system](/content.en/respiration/6.1.png)
+![The Human respiratory system](../6.1.png)
 
 
 gullet during normal swallowing. During swallowing a thin elastic flap called epiglottis prevents the food from entering into the larynx and avoids choking of food.
@@ -43,7 +43,7 @@ The lungs are covered by double walled pleural membrane containing a several lay
 
 • should be permeable to respiratory gases
 
-![The Human Respiratory tract&Structure of alveoli](/content.en/respiration/6.2.png)
+![The Human Respiratory tract&Structure of alveoli](../6.2.png)
 
 
 The steps involved in respiration are 

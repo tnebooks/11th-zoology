@@ -3,7 +3,7 @@ title: Endocrine glands and hormones
 weight: 1
 ---
 
-Endocrine glands and hormones## Endocrine glands and hormones
+### Endocrine glands and hormones
 
 
 Physiological functions of our human body is regulated and coordinated by both neural and endocrine systems. The endocrine system influences the metabolic activities by means of **hormones** (hormone means _to excite_) which are chemical messengers released into the blood and circulated as chemical signals and acts specifically on certain organs or tissues called target organs or target tissues. Hormones may speed up or slow down or alter the activity of the target organs. The hormones secreted do not remain permanently in the blood but are converted by the liver into inactive compounds and excreted by the kidneys.

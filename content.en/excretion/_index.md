@@ -20,8 +20,8 @@ Excretory system helps in collecting nitrogenous waste and expelling it into the
 
 Animals that excrete most of its nitrogen in the form of ammonia are called ammonoteles. Many fishes, aquatic amphibians and aquatic insects are ammonotelic. In bony fishes, ammonia diffuses out across the body surface or through gill surface as ammonium ions. Reptiles, birds, land snails and insects excrete uric acid crystals, with a minimum loss of water and are called **uricoteles**. In terrestrial animals, less toxic urea and
 
-![Excretory products in different groups of animals.](/content.en/excretion/8.1.png)
 
+![Excretory products in different groups of animals.](8.1.png)
 uric acid are produced to conserve water. Mammals and terrestrial amphibians mainly excrete urea and are called **ureoteles**. Earthworms while in soil are ureoteles and when in water are ammonoteles. Figure 8.1 shows the excretory products in different groups of animals.
 
 The animal kingdom presents a wide variety of excretory structures. Most invertebrates have a simple tubular structure in the form of primitive kidneys called **protonephridia** and **metanephridia.** Vertebrates have complex tubular organs called kidneys. Protonephridia are excretory structures with specialized cells in the form of flame cells (cilia) in Platyhelminthes (example tapeworm) and **Solenocytes** (flagella) in Amphioxus. Nematodes have **rennette cells,** **Metanephridia** are the tubular excretory structures in annelids and molluscs. **Malpighian tubules** are the excretory structures in most insects. **Antennal glands** or **green glands** perform excretory function in crustaceans like prawns. Vertebrate kidney differs among taxa in relation to the environmental conditions. Nephron is the structural and functional unit of kidneys. Reptiles have reduced glomerulus or lack glomerulus and Henle’s loop and hence produce very little hypotonic urine, whereas mammalian kidneys produce concentrated (hyperosmotic) urine due to the presence of long Henle’s loop. The Loop of Henle of the nephron has evolved to form hypertonic urine. Aglomerular kidneys of marine fishes produce little urine that is isoosmotic to the body fluid. Amphibians and fresh water fish lack Henle’s loop hence produce dilute urine (hypoosmotic).
@@ -37,12 +37,12 @@ The animal kingdom presents a wide variety of excretory structures. Most inverte
 Excretory system in human consists of a pair of kidneys, a pair of ureters, urinary bladder and urethra (Figure. 8.2). Kidneys are reddish brown, bean shaped structures that lie in the superior lumbar region between the levels of the last thoracic and third lumber vertebra close to the dorsal inner wall of the abdominal cavity. The right kidney is placed slightly lower than the left kidney. Each kidney weighs an average of 120-170 grams. The outer layer of the kidney is covered by three layers of supportive tissues namely, renal fascia, perirenal fat capsule and fibrous capsule.
 
 
-![Human excretory system](/content.en/excretion/8.2.png)
+![Human excretory system](8.2.png)
 
 
 The longitudinal section of kidney (Figure. 8.2.png 8.3) shows, an outer cortex, inner medulla and pelvis. The medulla is divided into a few conical tissue masses called medullary pyramids or renal pyramids. The part of cortex that extends in between the medullary pyramids is the renal columns of **Bertini.** The centre of the inner concave surface of the kidney has a notch called the renal **hilum,** through which ureter, blood vessels and nerves innervate. Inner to the hilum is a broad funnel shaped space called the renal pelvis with projection called calyces. The renal pelvis is continuous with the ureter once it leaves the hilum. The walls of the calyces, pelvis and ureter have smooth muscles which contracts rhythmically. The calyces collect the urine and empties into the ureter, which is stored in the urinary bladder temporarily. The urinary bladder opens into the urethra through which urine is expelled out.
 
-![L S of kidney](/content.en/excretion/8.3.png)
+![L S of kidney](8.3.png)
 
 
 ### 8.2.2 Structure of a nephron
@@ -50,18 +50,17 @@ The longitudinal section of kidney (Figure. 8.2.png 8.3) shows, an outer cortex,
 
 Each kidney has nearly one million complex tubular structures called nephron (Figure 8.4). Each nephron consists of a filtering corpuscle called renal corpuscle (malpighian body) and a renal tubule. The renal tubule opens into a longer tubule called the collecting duct. The renal tubule begins with a double walled cup shaped structure called the Bowman’s capsule, which encloses a ball of capillaries that delivers fluid to the tubules, called the glomerulus. The Bowman’s capsule and the glomerulus together constitute the **renal corpuscle. The endothelium of glomerulus** has many pores (fenestrae). The external parietal layer of the Bowman's capsule is made up of simple squamous epithelium and the visceral layer is made of epithelial cells called podocytes. The podocytes end in foot processes which cling to the basement membrane of the glomerulus. The openings between the foot processes are called filtration slits.
 
-
-![Structure of a Nephrons](/content.en/excretion/8.4.png)
+![Structure of a Nephrons](8.4.png)
 
 
 The renal tubule continues further 8.4.png to form the proximal convoluted tubule [PCT] followed by a U-shaped loop of Henle (Henle’s loop) that has a thin descending and a thick ascending limb. The ascending limb continues as a highly coiled tubular region called the distal convoluted tubule [DCT]. The DCT of many nephrons open into a straight tube called collecting duct. The collecting duct runs through the medullary pyramids in the region of the pelvis. Several collecting ducts fuse to form papillary duct that delivers urine into the calyces, which opens into the renal pelvis.
 
 In the renal tubules, PCT and DCT of the nephron are situated in the cortical region of the kidney whereas the loop of Henle is in the medullary region. In majority of nephrons, the loop of Henle is too short and extends only very little into the medulla and are called **cortical nephrons.** Some nephrons have very long loop of Henle that run deep into the medulla and are called **juxta medullary nephrons (JMN)** (Figure 8.5 a and b)  
 
-![(a) Cortical nephrons are located predominantly in the outer cortex.  (b) Juxtamedullary nephrons are mainly located in the inner medulla](/content.en/excretion/8.5.png)
+![(a) Cortical nephrons are located predominantly in the outer cortex.  (b) Juxtamedullary nephrons are mainly located in the inner medulla](8.5.png)
 
 
-![Blood vessels of the nephron](/content.en/excretion/8.6.png)
+![Blood vessels of the nephron](8.6.png)
 
 
 **The capillary bed of the nephrons**- First capillary bed of the nephron is the glomerulus and the other is the peritubular capillaries. The glomerular capillary bed is different from other capillary beds in that it is supplied by the afferent and drained by the efferent arteriole. The efferent arteriole that comes out of the glomerulus forms a fine capillary network around the renal tubule called the peritubular capillaries. The efferent arteriole serving the juxta medullary nephron forms bundles of long straight vessel called vasa recta and runs parallel to the loop of Henle. Vasa recta is absent or reduced in cortical nephrons (Figure 8.6).
@@ -75,7 +74,7 @@ In the renal tubules, PCT and DCT of the nephron are situated in the cortical re
 The nitrogenous waste formed as a result of breakdown of amino acids is converted to urea in the liver by the Ornithine cycle or urea cycle (Figure 8.7).
 
 
-![Ornithine cycle](/content.en/excretion/8.7.png)
+![Ornithine cycle](8.7.png)
 
 
 Urine formation involves three main processes namely, glomerular filtration, tubular reabsorption and tubular secretion.  
@@ -140,7 +139,7 @@ T**he vasa recta, maintains the medullary osmotic gradient via counter current e
 
 When the blood leaves the efferent arteriole and enters vasa recta the osmolarity in the medulla increases (1200mOsm) and
 
-![(a) Counter current multiplier – the long loops of Henle of the juxtamedullary nephrons create the medullary osmotic gradient](/content.en/excretion/8.8.png)
+![(a) Counter current multiplier – the long loops of Henle of the juxtamedullary nephrons create the medullary osmotic gradient](8.8.png)
 
 results in passive uptake of solutes and loss of water in descending vasa recta. As the blood enters the cortex, the osmolarity in the blood decreases (300mOsm) and the blood loses solutes and gains water.
 
@@ -158,7 +157,7 @@ The functioning of kidneys is efficiently monitored and regulated by hormonal fe
 
 e long loops of Henle of the juxtamedullary t (b) Counter current exchanger – Vasa recta emoving reabsorbed water and solutes.
 
-![(b) Counter current exchanger – Vasa recta preserves the medullary gradient while removing reabsorbed water and solutes.](/content.en/excretion/8.8.png)
+![(b) Counter current exchanger – Vasa recta preserves the medullary gradient while removing reabsorbed water and solutes.](8.8.png)
 
 
 apparatus and to a certain extent the heart. Osmoreceptors in the hypothalamus are activated by changes in the blood volume, body fluid volume and ionic concentration. When there is excessive loss of fluid from the body or when there is an increase in the blood pressure, the osmoreceptors of the hypothalamus respond by stimulating the neurohypophysis to secrete the antidiuretic hormone (ADH) or vasopressin (a positive feedback). ADH facilitates reabsorption of water by increasing the number of aquaporins on the cell surface membrane of the distal convoluted tubule and collecting duct. This increase in aquaporins causes the movement of water from the lumen into the interstitial cells, thereby preventing excess loss of water by diuresis. When you drink excess amounts of your favourite juice, osmoreceptors of the hypothalamus is no longer stimulated and the release of ADH is suppressed from the neurohypophysis (negative feedback) and the aquaporins of the collecting ducts move into the cytoplasm. This makes the collecting ducts impermeable to water and the excess fluid flows down the collecting duct without any water loss. Hence dilute urine is produced to maintain the blood volume. Vasopressin secretion is controlled by positive and negative feedback mechanism. Defects in ADH receptors or inability to secrete ADH leads to a condition called diabetes insipidus, characterized by excessive thirst and excretion of large quantities of dilute urine resulting in dehydration and fall in blood pressure.
@@ -170,7 +169,7 @@ Juxta glomerular apparatus (JGA) is a specialized tissue in the afferent arterio
 
 ```Angiotensin Converting Enzyme inhibitors (ACE inhibitors) are used to treat high blood pressure. Using a flow chart, explain why these drugs are helpful in treating hypertension.```
 
-![Schematic representations of the various hormones in the regulation of body fluid concentration](/content.en/excretion/8.9.png)
+![Schematic representations of the various hormones in the regulation of body fluid concentration](8.9.png)
 
 
 (synthesized in the liver) to angiotensin I. Angiotensin converting enzyme (ACE) converts angiotensin I to angiotensin II. Angiotensin II stimulates Na1 reabsorption in the proximal convoluted tubule by vasoconstriction of the blood vessels and increases the glomerular blood pressure. Angiotensin II acts at different sites such as heart, kidney, brain, adrenal cortex and blood vessels. It stimulates adrenal cortex to secrete aldosterone that causes reabsorption of Na1, K1 excretion and absorption of water from the distal convoluted tubule and collecting duct. This increases the glomerular blood pressure and glomerular filtration rate. This complex mechanism is generally known as **Renin- Angiotensin- Aldosterone System** (RAAS). Figure 8.9 shows the schematic representation of the various hormones in the regulation of body fluid concentration.
@@ -217,7 +216,7 @@ Uremia is characterized by increase in urea and other non-protein nitrogenous su
 Kidney stone or calculi, also called renal stone or nephrolithiasis, is the formation of hard stone like masses in the renal tubules of renal pelvis. It is mainly due to the accumulation of soluble crystals of salts of sodium oxalates and certain phosphates. This result in severe pain called “renal colic
 
 
-![Simplified diagram of hemodialysis](/content.en/excretion/8.10.png)
+![Simplified diagram of hemodialysis](8.10.png)
 
 pain” and can cause scars in the kidneys. Renal stones can be removed by techniques like pyleothotomy or lithotripsy.
 
