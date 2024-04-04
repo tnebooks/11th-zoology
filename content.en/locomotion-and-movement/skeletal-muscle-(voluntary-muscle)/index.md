@@ -3,12 +3,10 @@ title: Skeletal muscle (Voluntary muscle)
 weight: 3
 ---
 
-Skeletal muscle (Voluntary muscle)## Skeletal muscle (Voluntary muscle)
+## Skeletal muscle (Voluntary muscle)
 
 
-Skeletal muscle is attached to the bone by a bundle of collagen fibres known  
-
-as **tendon**. Each muscle is made up of bundles of **muscle fibres** called **fascicle**. Each muscle fibre contains hundreds to thousands of rod-like structures called **myofibrils** that run parallel to its length. The connective tissue covering the whole muscle is the **epimysium**, the covering around each fascicle is the **perimysium** and the muscle fibre is surrounded by the **endomysium**. They control the voluntary actions such as walking, running, swimming, writing hence termed as voluntary muscles.
+Skeletal muscle is attached to the bone by a bundle of collagen fibres known  as **tendon**. Each muscle is made up of bundles of **muscle fibres** called **fascicle**. Each muscle fibre contains hundreds to thousands of rod-like structures called **myofibrils** that run parallel to its length. The connective tissue covering the whole muscle is the **epimysium**, the covering around each fascicle is the **perimysium** and the muscle fibre is surrounded by the **endomysium**. They control the voluntary actions such as walking, running, swimming, writing hence termed as voluntary muscles.
 
 ### Structure of a skeletal muscle fibre
 
@@ -17,10 +15,7 @@ Each muscle fibre is thin and elongated. Most of them taper at one or both ends.
 
 Along the length of each myofibril there are a repeated series of dark and light bands (Figure 9.1). The dark **A-bands** (Anisotropic bands) and the light **I-bands** (Isotropic bands) are perfectly aligned with one another. This type of arrangement gives the cell a striated appearance. Each dark band has a lighter region in its middle
 
-
-
-
-  
+![alt text](<skeletal muscle.png>)
 
 called the **H-Zone** (H-Helles: means clear). Each H-zone is bisected vertically by a dark line called the M-line (M-for middle). The light I-bands also have a darker mid line area called the **Z–disc** (from the German "Zwischenscheibe" the disc inbetween the I-bands).
 
@@ -28,9 +23,11 @@ The myofibrils contain the contractile element, the **sarcomere** which is the f
 
 The thick filaments extend the entire length of the A-band, the thin filaments extend across the I-band and partly into the A-band. The invagination of the sarcolemma forms transverse tubules **(T–tubules)** and they penetrate into the junction between the A and I-bands.
 
-**Muscle Terminology General Term Muscle Equivalent**
+**Muscle Terminology** 
 
-Cell Muscle fibre/ Myofibril Plasma membrane Sarcolemma Cytoplasm Sarcoplasm Endoplasmic reticulum
-
-Sarcoplasmic reticulum  
-
+| **General Term** |   **Muscle Equivalent**   |
+|-------------|:---------------:|
+|Cell   | Muscle fibre/ Myofibril   |
+|  Plasma membrane  | Sarcolemma |
+|    Cytoplasm   |   Sarcoplasm   |
+|    Endoplasmic retriculum    |   Sarcoplasmic reticulum |

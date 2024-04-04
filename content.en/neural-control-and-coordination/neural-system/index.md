@@ -3,12 +3,13 @@ title: Neural System
 weight: 1
 ---
 
-Neural System## Neural System
- The neural system comprises of highly specialized cells called **neurons**, which can detect, receive, process and transmit different kinds of stimuli. Simple form of neural system as nerve net is seen in lower invertebrates. The neural system of higher animals are well developed and performs the following basic functions:
+## Neural System
 
-**• Sensory functions**\- It receives sensory input from internal and external environment.
+The neural system comprises of highly specialized cells called **neurons**, which can detect, receive, process and transmit different kinds of stimuli. Simple form of neural system as nerve net is seen in lower invertebrates. The neural system of higher animals are well developed and performs the following basic functions:
 
-**• Motor functions**\- It transmits motor commands from the brain to the skeletal and muscular system.
+- **Sensory functions**- It receives sensory input from internal and external environment.
 
-**• Autonomic functions**\- Reflex actions.
+- **Motor functions**- It transmits motor commands from the brain to the skeletal and muscular system.
+
+- **Autonomic functions**- Reflex actions.
 
