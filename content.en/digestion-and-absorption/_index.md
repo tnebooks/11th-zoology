@@ -25,7 +25,7 @@ Tongue is a freely movable muscular organ attached at the posterior end by the f
 The oral cavity leads into a short common passage for food and air called pharynx. The oesophagus and the trachea (wind pipe) open into the pharynx. Food passes into the oesophagus through a wide opening called gullet at the back of the pharynx. A cartilaginous flap called epiglottis prevents the entry of food into the glottis (opening of trachea) during
 
 
-![The Human Digestive system](/content.en/digestion-and-absorption/5.1.png)
+![The Human Digestive system](5.1.png)
 
 
 
@@ -37,19 +37,19 @@ The stomach functions as the temporary storage organ for food and is located in 
 
 The small intestine assists in the final digestion and absorption of food. It is the longest part of the alimentary canal and has three regions, a ‘U’ shaped duodenum (25cm long), a long coiled middle portion jejunum (2.4m long) and a highly coiled ileum (3.5m long). The wall of the duodenum has **Brunner’s glands** which secrete mucus and enzymes. Ileum is the longest part of the small intestine and opens into the caecum of the large intestine. The ileal mucosa has numerous vascular projections called **villi** which are
 
-![Buccal cavity](/content.en/digestion-and-absorption/5.2.png)
+![Buccal cavity](5.2.png)
 
 
 involved in the process of absorption and the cells lining the villi produce numerous microscopic projections called microvilli giving a brush border appearance that increase the surface area enormously. Along with villi, the ileal mucosa also contain mucus secreting goblet cells and lymphoid tissue known as **Peyer’s patches** which produce lymphocytes. The wall of the small intestine bears crypts between the base of villi called **crypts of Leiberkuhn** ( Figure.5.3).
 
 
 
-![Small intestine with Villi](/content.en/digestion-and-absorption/5.3.png)
+![Small intestine with Villi](5.3.png)
 
 
 The large intestine consists of caecum, colon and rectum. The caecum is a small blind pouch like structure that opens into the colon and it possesses a narrow finger like tubular projection called **vermiform appendix**. Both caecum and vermiform appendix are large in herbivorous animal and act as an important site for cellulose digestion with the help of symbiotic bacteria. The colon is divided into four regions – an ascending, a transverse, a descending part and a sigmoid colon. The colon is lined by dilations called **haustra** (singular – haustrum) (Figure.5.4). The “S” shaped sigmoid colon (pelvic colon) opens into the rectum. Rectum is concerned with temporary storage of faeces. The rectum open out through the anus. The anus is guarded by two anal sphincter muscles. The anal mucosa is folded into several vertical folds and contains arteries and veins called anal columns. Anal column may get enlarged and causes **piles** or **haemorrhoids**.
 
-![Large intestine](/content.en/digestion-and-absorption/5.4.png)
+![Large intestine](5.4.png)
 
 
 ### 5.1.2 Histology of the Gut
@@ -64,7 +64,7 @@ The wall of the alimentary canal from oesophagus to rectum consists of four laye
 Digestive glands are exocrine glands which secrete biological catalysts called enzymes. The digestive glands associated with the alimentary canal are salivary glands, liver and pancreas. Stomach wall has gastric glands that secrete gastric juice and the intestinal mucosa secretes intestinal juice.
 
 
-![The layers of the alimentary cana](/content.en/digestion-and-absorption/5.5.png)
+![The layers of the alimentary cana](5.5.png)
 
 
 **Salivary glands** 
@@ -76,7 +76,7 @@ The wall of the stomach is lined by gastric glands. Chief cells or **peptic cell
 **Liver** 
 The liver, the largest gland in our body is situated in the upper right side of the abdominal cavity, just below the diaphragm. The liver consists of two major left and right lobes and two minor lobes. These lobes are connected with diaphragm. Each lobe has many hepatic lobules (functional unit of liver) and is covered by a thin connective
 
-![Salivary glands](/content.en/digestion-and-absorption/5.6.png)
+![Salivary glands](5.6.png)
 
 
 tissue sheath called the **Glisson’s capsule**. Liver cells (hepatic cells) secrete bile which is stored and concentrated in a thin muscular sac called the gall bladder. The duct of gall bladder (cystic duct) along with the hepatic duct from the liver forms the common bile duct. The bile duct passes downwards and joins with the main pancreatic duct to form a common duct called hepato-pancreatic duct. The opening of the hepato-pancreatic duct into the duodenum is guarded by a sphincter called the **sphincter of Oddi (**Figure.5.7)**.** Liver has high power of regeneration and liver cells are replaced by new ones every 3-4 weeks.
@@ -93,7 +93,7 @@ Apart from bile secretion, the liver also performs several functions
 
 5. Involves in the synthesis of non-essential amino acids and urea.
 
-![Liver and pancreas](/content.en/digestion-and-absorption/5.7.png)
+![Liver and pancreas](5.7.png)
 
 
 
@@ -101,7 +101,6 @@ Apart from bile secretion, the liver also performs several functions
 
 The second largest gland in the digestive system is the Pancreas, which is a yellow coloured, compound elongated organ consisting of exocrine and endocrine cells. It is situated between the limbs of the ‘U’ shaped duodenum. The exocrine portion secretes pancreatic juice containing enzymes such as pancreatic amylase, trypsin and pancreatic lipase and the endocrine part called Islets of Langerhans, secretes hormones such as insulin and glucagon. The pancreatic duct directly opens into the duodenum.
 
-```List the chemical preservatives, artificial enhancers found in the food items available in the market. How can you avoid such harmful substances in your food?```
 
 # 5.2 Digestion of food and role of digestive enzymes
 
@@ -117,7 +116,7 @@ The smell, sight and taste as well as the mechanical stimulation of food in the 
 Food remains in the stomach for 4 to 5 hours, the rhythmic peristaltic movement churns and mixes the food with gastric juice and make it into a creamy liquid called **chyme**. The gastric secretion is partly controlled by autonomic reflexes. The secretion of gastric juice begins when the food is in the mouth. The gastric juice contains HCl and proenzymes. The proenzyme pepsinogen, on exposure to HCl gets converted into the active enzyme pepsin which converts proteins into proteoses and peptones (peptides). The HCl provides an acidic medium which is optimum for pepsin, kills bacteria and other harmful organisms and avoids putrifaction. The mucus and bicarbonates present in the gastric juice play an important role in lubrication and protection of the mucosal epithelium from the eroding nature of the highly acidic HCl (Figure. 5.8). Another proteolytic enzyme found in gastric juice of infants is rennin helps in the digestion of milk protein, caseinogen to casein in the presence of calcium ions. This enzyme secretion gradually reduces with aging.
 
 
-![The stomach and gastric secretions](/content.en/digestion-and-absorption/5.8.png)
+![The stomach and gastric secretions](5.8.png)
 
 
 **Digestion in the small intestine**
@@ -127,7 +126,6 @@ The bile, pancreatic juice and intestinal juice are the secretions released into
 The bile contains bile pigments (bilirubin and biliverdin) as the break down products of hemoglobin of dead RBCs, bile salts,
 
 
-```What would happen if HCl is not secreted in the stomach?```
 
 
 cholesterol and phospholipids but has no enzymes. Bile helps in emulsification of fats. Bile salts reduce the surface tension of fat droplets and break them into small globules. Bile also activates lipases to digest lipids Proteins and partially digested proteins in the chyme on reaching the intestine are acted upon by the proteolytic enzymes of pancreatic juice.The pancreatic juice contains enzymes such as trypsinogen, chymotrypsinogen, carboxypeptidases, pancreatic amylases, pancreatic lipases and nucleases. Trypsinogen is activated by an enzyme, enterokinase, secreted by the intestinal mucosa into active trypsin, which in turn activates the enzyme chymotrypsinogen in the pancreatic juice.
@@ -140,23 +138,7 @@ The pancreatic amylase converts glycogen and starch into maltose. Lipase acts on
 The secretions of the Brunner's gland along with the secretions of the intestinal glands constitute the intestinal juice or **succus entericus. The enzymes in the** intestinal juice such as maltase, lactase, sucrase (invertase), peptidases, lipases, nucleotidases and nucleosidases act on the breakdown products of bile and pancreatic digestion.
 
 
-`formulae` Maltose Maltase glucose + glucose
-
-Sucrose Sucrase glucose + fructose
-
-Lactose Lactase glucose + galactose
-
-Dipeptides, Tripeptides
-
-Peptidase amino acids
-
-Nucleotides Nucleotidase Nucleoside + Phosphoric acid
-
-Nucleoside Nucleosidase Sugar + Nitrogen base
-
-Diglycerides and monoglycerides
-
-Lipases Fatty acids + glycerol
+![alt text](<eq 1.png>)
 
 
 
@@ -164,8 +146,7 @@ The mucus along with the bicarbonate ions from the pancreas provides an alkaline
 
 
 
-`formulae` Carbohydrates monosaccharides (glucose, fructose, galactose) Proteins amino acids Lipids fatty acids and glycerol
-
+![alt text](<eq 2 .png>)
 
 
 The simple substances thus formed are absorbed in the jejunum and ileum region of the small intestine. The undigested and unabsorbed substances are propelled into the large intestine. The activities of the gastro-intestinal tract are carried out by the neural and hormonal control for proper coordination of different parts. Gastric and intestinal secretions are stimulated by neural signals. Hormonal control of the secretion of digestive juices is carried out by local hormones produced by the gastric and intestinal mucosa.
@@ -177,7 +158,7 @@ Absorption is a process by which the end product of digestion passes through the
 
 Nutrients like amino acids, glucose and electrolytes like Na+ are absorbed into the blood against the concentration gradient by active transport. The insoluble substances like fatty acids, glycerol and fat soluble vitamins are first incorporated into small, spherical water soluble droplets called micelles and are absorbed into the intestinal mucosa where they are re-synthesized into protein coated fat globules called chylomicrons which are then transported into the lacteals within the intestinal villi and eventually empty into lymphatic duct. The lymphatic ducts ultimately release the absorbed substances into the blood stream. While the fatty acids are absorbed by the lymph duct, other materials are absorbed either actively or passively by the capillaries of the villi (Figure. 5.9). Water soluble vitamins are absorbed by simple
 
-![Process of Digestion and absorption](/content.en/digestion-and-absorption/5.9.png)
+![Process of Digestion and absorption](5.9.png)
 
 
 diffusion or active transport. Transport of water depends upon the osmotic gradient.
@@ -210,14 +191,14 @@ Vitamins are naturally occurring organic substances regularly needed in minute q
 These are the inorganic chemical elements, i.e., Ca, Fe, I, K, Mg, Na, P, S, etc needed for regulation of various physiological functions. These can be classified into major minerals (Na, P, K, Ca, Mg, S, Cl) and others are trace minerals such as Fe, Cu, Zn, Co, Mn, I, and fluorine. Sodium ions are more abundant than any other cation in the body fluids.
 
 
-![table-1](/content.en/digestion-and-absorption/table1.png)
+![table-1](table1.png)
 
-![table-2](/content.en/digestion-and-absorption/table2.png)
+![table-2](table2.png)
 
-![table-3](/content.en/digestion-and-absorption/table3.png)
+![table-3](table3.png)
 
 
-# 5.6 Caloric value of carbohydrates, proteins and fats## Caloric value of carbohydrates, proteins and fats
+# 5.6 Caloric value of carbohydrates, proteins and fats Caloric value of carbohydrates, proteins and fats
 
 
 We obtain 50% energy from carbohydrates 35% from fats and 15% from proteins. We require about 400 to 500 gm of carbohydrates, 60 to 70 gm of fats and 65 to 75 gm of proteins per day. Balanced diet of each individual will vary according to their age, gender, level of physical activity and others conditions such as pregnancy and lactation.
@@ -268,7 +249,7 @@ Any alteration in the composition of the bile can cause the formation of stones 
 It is the inflammation of the vermiform appendix, leading to severe abdominal pain. The treatment involves the removal of appendix by surgery. If treatment is delayed the appendix may rupture and results in infection of the abdomen, called **peritonitis**. **Hiatus Hernia (Diaphragmatic Hernia):** It is a structural abnormality in which superior part of the stomach protrudes slightly above the diaphragm. The exact cause of hiatus hernias is not known. In some people, injury or other damage may weaken muscle tissue, by applying too much pressure (repeatedly) on the muscles around the stomach while coughing, vomiting, and straining during bowel movement and lifting heavy object. Heart burn is also common in those with a hiatus hernia. In this condition, stomach contents travel back into the oesophagus or even into oral cavity and causes pain in the centre of the chest due to the eroding nature of acidity (Figure.5.10).
 
 
-![Hiatus hernia](/content.en/digestion-and-absorption/5.12.png)
+![Hiatus hernia](5.12.png)
 
 
 
@@ -282,7 +263,7 @@ It is the most common gastrointestinal disorder worldwide. It is sometimes cause
 It refers to an eroded area of the tissue lining (mucosa) in the stomach or duodenum. Duodenal ulcer occurs in people in the age group of 25 - 45 years. Gastric ulcer is more common in persons above the age of 50 years. Ulcer is mostly due to infections caused by the bacterium **_Helicobacter pylori_.** It may also be caused due to uncontrolled usage of aspirin or certain antiinflammatory drugs. Ulcer may also be caused due to smoking, alcohol, caffeine and psychological stress.
 
 
-```Nobel Prize for the year 2005 was awarded to Robin Warren and Barry Marshall for the discovery of Helicobacter pylori which causes peptic ulcer```
+
 
 
 **Obesity:** 
@@ -291,4 +272,4 @@ It is caused due to the storage of excess of body fat in adipose tissue. It may 
 
 That is BMI = 50 /(1.6)2= 19.5
 
-![](/content.en/digestion-and-absorption/5.13.png)
+![](5.13.png)

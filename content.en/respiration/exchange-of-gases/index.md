@@ -17,8 +17,8 @@ Haemoglobin belongs to the class of conjugated protein. The iron containing pigm
 
 If the iron component of the haem is in the ferric state, than the normal ferrous state, it is called methaemoglobin. Methaemoglobin does not bind with O2. Normally RBC contains less than 1% methaemoglobin.
 
-![Exchange of gases at the alveolus and the tissue with blood and transport of oxygen and carbondioxide](/content.en/respiration/6.5.png)
+![Exchange of gases at the alveolus and the tissue with blood and transport of oxygen and carbondioxide](../6.5.png)
 
 
-![Partial pressure of Oxygen and Carbon dioxide (in mmHg) in comparison to those gases in the atmosphere](/content.en/respiration/tble1.png)
+![Partial pressure of Oxygen and Carbon dioxide (in mmHg) in comparison to those gases in the atmosphere](../tble1.png)
 

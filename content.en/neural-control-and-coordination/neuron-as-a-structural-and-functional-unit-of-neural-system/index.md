@@ -9,7 +9,8 @@ weight: 3
 A neuron is a microscopic structure composed of three major parts namely **cell body** (soma), **dendrites** and **axon.** The cell body is the spherical part of the neuron that contains all the cellular organelles as a typical cell (except centriole)**.** The plasma membrane covering the neuron is called **neurilemma** and the axon is **axolemma.** The repeatedly branched short fibres coming out of the cell body are called **dendrites,** which transmit impulses towards the cell body. The cell body and the dendrites contain cytoplasm and granulated endoplasmic reticulum called **Nissl’s granules.**
 
 An axon is a long fibre that arises from a cone shaped area of the cell body called the **Axon hillock** and ends at the branched distal end. Axon hillock is the place where the nerve impulse is generated in the motor neurons. The axon of one-neuron branches and forms connections with many other neurons. An axon contains the same organelles found in the dendrites and cell body but lacks Nissl’s granules and Golgi apparatus.
-![alt text](image.png)
+
+![alt text](Neuron.png)
 
 The axon, particularly of peripheral nerves is surrounded by **Schwann cells** (a type of glial cell) to form myelin sheath, which act as an insulator. **Myelin sheath** is associated only with the axon; dendrites are always non-myelinated. Schwann cells are not continuous along  
 

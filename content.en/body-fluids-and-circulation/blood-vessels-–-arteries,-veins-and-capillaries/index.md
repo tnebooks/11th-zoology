@@ -12,7 +12,7 @@ The vessels carrying the blood are of three types; they are the arteries, veins 
 
 The blood vessels that carry blood away from the heart are called arteries. The arteries usually lie deep inside the body. The walls of the arteries are thick, non- collapsible to withstand high pressure. Valves are absent and have a narrow lumen. All arteries carry oxygenated blood, except the pulmonary artery. The largest artery, the **aorta** (2.5 cm in diameter and 2 mm thick) branch into smaller arteries and culminates into the tissues as feed arteries. In the tissues the arteries branches into arterioles. As blood enters an arteriole it may have a pressure of 85 mm Hg (11.3 KPa) but as it leaves and flows into the capillary, the pressure drops to 35 mm Hg (4.7 KPa). (Note 1 mm Hg =0.13 KPa. SI unit of mm Hg is KiloPascal (KPa)). Arterioles
 
-![Structure of Blood vessels](/content.en/body-fluids-and-circulation/7.5.png)
+![Structure of Blood vessels](../7.5.png)
 
 
 are small, narrow, and thin walled which are connected to the capillaries. A small sphincter lies at the junction between the arterioles and capillaries to regulate the blood supply. Arteries do not always branch into arterioles, they can also form anastomoses.

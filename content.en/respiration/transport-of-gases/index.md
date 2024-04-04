@@ -10,7 +10,7 @@ weight: 5
 
 Molecular oxygen is carried in blood in two ways bound to haemoglobin within the red blood cells and dissolved in plasma. Oxygen is poorly soluble in water, so only 3% of the oxygen is transported in the dissolved form. 97% of oxygen binds with haemoglobin in a reversible manner to form oxyhaemoglobin (HbO2). The rate at which haemoglobin binds with O2 is regulated by the partial pressure of O2. Each haemoglobin carries maximum of four molecules of
 
-![Oxygen dissociation curve](/content.en/respiration/6.6.png)
+![Oxygen dissociation curve](../6.6.png)
 
 
 
@@ -22,13 +22,13 @@ against pO2. This curve is called **oxygen haemoglobin dissociation curve** (Fig
 
 Under normal physiological conditions, every 100mL of oxygenated blood can deliver about 5mL of O2 to the tissues.
 
-### Transport of Carbondioxide**
+### Transport of Carbondioxide
 
 Blood transports CO2 from the tissue cells to the lungs in three ways
 
 i. **Dissolved in plasma** About 7 – 10% of CO2 is transported in a dissolved form in the plasma.
 
-ii. **Bound to haemoglobin** About 20 – 25% of dissolved CO2 is bound and carried in the RBCs as carbaminohaemoglobin (Hb CO2) CO2 + Hb Hb CO2
+ii. **Bound to haemoglobin** About 20 – 25% of dissolved CO2 is bound and carried in the RBCs as carbaminohaemoglobin (Hb CO2) CO2 + Hb == Hb CO2
 
 iii. **As bicarbonate ions in plasma** about 70% of CO2 is transported as bicarbonate ions
 
@@ -42,7 +42,7 @@ diffuses into the RBCs, it combines with water forming carbonic acid (H2CO3) cat
 
 Carbonic anhydrase facilitates the reaction in both directions.
 
-`formulae`CO2 + H2O carbonic anhydrase H2CO3 H2CO3 carbonic anhydrase HCO3 – + H+
+![Equation 1](<../eq 1.png>)
 
 
 The HCO3 – moves quickly from the RBCs into the plasma, where it is carried to the lungs. At the alveolar site where pCO2 is low, the reaction is reversed leading to the formation of CO2 and water. Thus CO2 trapped as HCO3 – at the tissue level is transported to the alveoli and released out as CO2. Every 100mL of deoxygenated blood delivers 4mL of CO2 to the alveoli for elimination.  

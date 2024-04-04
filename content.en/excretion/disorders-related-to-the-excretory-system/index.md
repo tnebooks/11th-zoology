@@ -23,7 +23,7 @@ Uremia is characterized by increase in urea and other non-protein nitrogenous su
 Kidney stone or calculi, also called renal stone or nephrolithiasis, is the formation of hard stone like masses in the renal tubules of renal pelvis. It is mainly due to the accumulation of soluble crystals of salts of sodium oxalates and certain phosphates. This result in severe pain called “renal colic
 
 
-![Simplified diagram of hemodialysis](/content.en/excretion/8.10.png)
+![Simplified diagram of hemodialysis](../8.10.png)
 
 pain” and can cause scars in the kidneys. Renal stones can be removed by techniques like pyleothotomy or lithotripsy.
 

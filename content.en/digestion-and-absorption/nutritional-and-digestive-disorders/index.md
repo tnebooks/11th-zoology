@@ -40,11 +40,12 @@ Any alteration in the composition of the bile can cause the formation of stones 
 
 **Appendicitis:** 
 
-It is the inflammation of the vermiform appendix, leading to severe abdominal pain. The treatment involves the removal of appendix by surgery. If treatment is delayed the appendix may rupture and results in infection of the abdomen, called **peritonitis**. **Hiatus Hernia (Diaphragmatic Hernia):** It is a structural abnormality in which superior part of the stomach protrudes slightly above the diaphragm. The exact cause of hiatus hernias is not known. In some people, injury or other damage may weaken muscle tissue, by applying too much pressure (repeatedly) on the muscles around the stomach while coughing, vomiting, and straining during bowel movement and lifting heavy object. Heart burn is also common in those with a hiatus hernia. In this condition, stomach contents travel back into the oesophagus or even into oral cavity and causes pain in the centre of the chest due to the eroding nature of acidity (Figure.5.10).
+It is the inflammation of the vermiform appendix, leading to severe abdominal pain. The treatment involves the removal of appendix by surgery. If treatment is delayed the appendix may rupture and results in infection of the abdomen, called **peritonitis**. 
+
+**Hiatus Hernia (Diaphragmatic Hernia):** It is a structural abnormality in which superior part of the stomach protrudes slightly above the diaphragm. The exact cause of hiatus hernias is not known. In some people, injury or other damage may weaken muscle tissue, by applying too much pressure (repeatedly) on the muscles around the stomach while coughing, vomiting, and straining during bowel movement and lifting heavy object. Heart burn is also common in those with a hiatus hernia. In this condition, stomach contents travel back into the oesophagus or even into oral cavity and causes pain in the centre of the chest due to the eroding nature of acidity (Figure.5.10).
 
 
-![Hiatus hernia](/content.en/digestion-and-absorption/5.12.png)
-
+![Hiatus hernia](../5.12.png)
 
 
 **Diarrhoea:** 
@@ -57,7 +58,6 @@ It is the most common gastrointestinal disorder worldwide. It is sometimes cause
 It refers to an eroded area of the tissue lining (mucosa) in the stomach or duodenum. Duodenal ulcer occurs in people in the age group of 25 - 45 years. Gastric ulcer is more common in persons above the age of 50 years. Ulcer is mostly due to infections caused by the bacterium **_Helicobacter pylori_.** It may also be caused due to uncontrolled usage of aspirin or certain antiinflammatory drugs. Ulcer may also be caused due to smoking, alcohol, caffeine and psychological stress.
 
 
-```Nobel Prize for the year 2005 was awarded to Robin Warren and Barry Marshall for the discovery of Helicobacter pylori which causes peptic ulcer```
 
 
 **Obesity:** 
@@ -66,4 +66,4 @@ It is caused due to the storage of excess of body fat in adipose tissue. It may 
 
 That is BMI = 50 /(1.6)2= 19.5
 
-![](/content.en/digestion-and-absorption/5.13.png)
+![alt text](../5.13.png)
