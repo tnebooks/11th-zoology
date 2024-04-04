@@ -9,7 +9,7 @@ Tools and taxonomical aids may be different for the study of plants and animals.
 
 The important components of the taxonomical tools are field visits, survey, identification, classification, preservation and documentation. Many tools are being used for taxonomical studies, amongst them some of the important tools are discussed below:
 
-?Arignar Anna Zoological Park, also known as the Vandalur Zoo is in the south western part of Chennai, Tamil Nadu, spreads over an area of 1500 acres, is one of the largest zoological parks in India. The zoo houses 2,553 species of both flora and fauna.
+>Arignar Anna Zoological Park, also known as the Vandalur Zoo is in the south western part of Chennai, Tamil Nadu, spreads over an area of 1500 acres, is one of the largest zoological parks in India. The zoo houses 2,553 species of both flora and fauna.
 
 **The classical taxonomical tools**
 
@@ -19,7 +19,9 @@ The important components of the taxonomical tools are field visits, survey, iden
 
 **Zoological parks:** These are places where wild animals are kept in protected environments under human care. It enables us to study their food habits and behaviour.
 
-**Marine parks:** Marine organisms are maintained in protected enviroments. **Printed taxonomical tools** consist of identification cards, description, field guides and manuals.
+**Marine parks:** Marine organisms are maintained in protected enviroments. 
+
+**Printed taxonomical tools** consist of identification cards, description, field guides and manuals.
 
 **Molecular taxonomical tools**
 
@@ -41,7 +43,7 @@ Draw wing ----> Honey bee wing identification.
 
 **Neo taxonomical tools** – This is based on Electron Microscopy images to study the molecular structures of cell organelles.
 **Ethology of taxonomical tools** – Based on the behaviour of the organisms it can be classified. For example sound of birds, bioluminescence, etc.
-**e-Taxonomic resources** – INOTAXA is an electronic resource for digital images and description about the species which was developed by Natural History Museum, London. INOTAXA means Integrated­Open TAXonomic Access.
+**e-Taxonomic resources** – INOTAXA is an electronic resource for digital images and description about the species which was developed by Natural History Museum, London. **INOTAXA** means **In**tegrated­**O**pen **TAX**onomic **A**ccess.
 
 **Summary**
 
