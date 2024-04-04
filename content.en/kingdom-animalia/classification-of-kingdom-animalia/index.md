@@ -3,31 +3,12 @@ title: Classification of Kingdom Animalia
 weight: 2
 ---
 
-Classification of Kingdom Animalia## Classification of Kingdom Animalia
+## Classification of Kingdom Animalia
 
 
-Animal kingdom is divided into two sub-kingdoms, the Parazoa and Eumetazoa based on their organisation. **1\. Parazoa: These include the** multicellular sponges and their cells are loosely aggregated and do not form tissues or organs. **2\. Eumetazoa: These include multicellular** animals with well defined tissues, which are organised as organs and organ systems. Eumetazoans includes two taxonomic levels called grades. They include Radiata and **Bilateria**.
+Animal kingdom is divided into two sub-kingdoms, the Parazoa and Eumetazoa based on their organisation. **1. Parazoa:** These include the multicellular sponges and their cells are loosely aggregated and do not form tissues or organs. **2. Eumetazoa:** These include multicellular animals with well defined tissues, which are organised as organs and organ systems. Eumetazoans includes two taxonomic levels called grades. They include Radiata and **Bilateria**.
 
-sentation of coelom in animals
-
-
-
-
-  
-
-Kingdom
-
-Cellular level
-
-Radial
-
-Bilateral
-
-Tissue/Organ/ Organ system
-
-Animalia (multicellular)
-
-SymmetryLevels of Organisation
+![alt text](../2.7.png)
 
 **Grade 1: Radiata**
 
@@ -40,28 +21,6 @@ The eumetazoans other than Radiata, show organ level of organisation and are bil
 **Division 1: Protostomia (_Proto_: first; _stomium_: mouth)**
 
 Protostomia includes the eumetazoans in which the embryonic blastopore develops into mouth. This division includes three subdivisions namely **acoelomata, pseudocoelomata and schizocoelomata.**
-
-**Figure 2.8 Classification of Kingdom Anima**  
-
-Porifera
-
-Platyhelminthes
-
-Aschelminthes
-
-Annelida Arthropoda Mollusca Echinodermata Hemichordata Chordata
-
-Without body cavity (aceolomates)
-
-Coelenterata (Cnidaria)
-
-Ctenophora
-
-With false coelom (pseudocoelomates)
-
-With true coelom (coelomates)
-
-PhylumBody Cavity or Coelom
 
 **Division 2: Deuterostomia (_deuteron_: secondary; _stomium_: mouth)**
 
