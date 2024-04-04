@@ -5,7 +5,7 @@ weight: 1
 
 # Basis of classification##
 
-Multicellular organisms are structurallyand functionally different but yet they possess certain common fundamental features such as the arrangement of cell layers, the levels of organisation, nature of coelom, the presence or absence of segmentation, notochord and the organisation of the organ system.
+Multicellular organisms are structurally and functionally different but yet they possess certain common fundamental features such as the arrangement of cell layers, the levels of organisation, nature of coelom, the presence or absence of segmentation, notochord and the organisation of the organ system.
 
 ## Levels of organisation
 
@@ -19,7 +19,11 @@ This basic level of organisation is seen in sponges. The cells in the sponges ar
 
 **Tissue level of organisation**
 
-In some animals, cells that perform similar functions are aggregated to form tissues. The cells of a tissue integrate in a highly coordinated fashion to perform a common function, due to the presence of nerve cells and sensory cells. This tissue level of organisation is exhibited in diploblastic animals like cnidarians. The formation of tissues is the first step towards evolution of body plan in animals (_Hydra_ \- Coelenterata).
+In some animals, cells that perform similar functions are aggregated to form tissues. The cells of a tissue integrate in a highly coordinated fashion to perform a common function, due to the presence of nerve cells and sensory cells. This tissue level of organisation is exhibited in diploblastic animals like cnidarians. The formation of tissues is the first step towards evolution of body plan in animals (_Hydra_ \- Coelenterata).              
+
+ **Organ level of organisation**              
+ 
+  Different Kinds of tissues aggregate to form an organ to perform a specific function.Organ level of organisation is a further advancement over the tissue level of organisation and appears for the first time in the Phylum Platyhelminthes and seen in other higher phyla.
 
 **Organ system level of organisation**
 
@@ -59,7 +63,7 @@ The presence of body cavity or coelom is important in classifying animals. Most 
 
 Animals which do not possess a body cavity are called **acoelomates**. Since there is no body cavity in these animals their body is solid without a perivisceral cavity, this restricts the free movement of internal organs. (e.g., Flatworms)
 
-In some animals, the body cavity is not fully lined by the mesodermal epithelium, but the mesoderm is formed as scattered pouches between the ectoderm and endoderm. Such a body cavity is called a **pseudocoel** and is filled with pseudocoelomic fluid. Animals that possess a pseudocoel are called **pseudocoelomates e.g., Round worms. The** pseudocoelomic fluid in the pseudocoelom acts as a hydrostatic skeleton and allows free movement of the visceral organs and for circulation of nutrients.
+In some animals, the body cavity is not fully lined by the mesodermal epithelium, but the mesoderm is formed as scattered pouches between the ectoderm and endoderm. Such a body cavity is called a **pseudocoel** and is filled with pseudocoelomic fluid. Animals that possess a pseudocoel are called **pseudocoelomates** e.g., Round worms. The pseudocoelomic fluid in the pseudocoelom acts as a hydrostatic skeleton and allows free movement of the visceral organs and for circulation of nutrients.
 
 **Eucoelom** or true coelom is a fluid- filled cavity that develops within the mesoderm and is lined by mesodermal epithelium called peritoneum. Such animals with a true body cavity are called coelomates or **eucoelomates**. Based on the mode of formation of coelom, the eucoelomates are classified into two types, **Schizocoelomates** – in these animals the
 
@@ -67,40 +71,12 @@ In some animals, the body cavity is not fully lined by the mesodermal epithelium
 
 body cavity is formed by splitting of mesoderm. (e.g., annelids, arthropods, molluscs). In **Enterocoelomate animals** the body cavity is formed from the mesodermal pouches of archenteron. (e.g., Echinoderms, hemichordates and chordates) (Figure 2.7).
 
-**Development of Schizocoelom** Ectoderm Gut
+![alt text](../2.6.png)
 
-Endoderm
-
-Early mesoderm
-
-cells
-
-Split in mesoderm Developing
-
-coelom **Development of Enterocelom**
-
-Early mesoderm
-
-cells Gut
-
-Ectoderm
-
-Endoderm Separation of
-
-pouches from gut Developing
-
-coelom
-
-## Development of Schizocoelomata and Enterocoelomata 2.7.png
-
-## Diagrammatic repre 2.6.png
-
-What is the advantage of true coelom over a pseudocoelom?
+>What is the advantage of true coelom over a pseudocoelom?
 
 ## Segmentation and Notochord
 
-In some animals, the body is externally and internally divided into a series of repeated units called segments with a serial repetition of some organs **(Metamerism)**. The simplest form of segmentation is
-
-found in Annelids in which each unit of the body is very similar to the next one. But in arthropods (cockroach), the segments may look different and has different functions.
+In some animals, the body is externally and internally divided into a series of repeated units called segments with a serial repetition of some organs **(Metamerism)**. The simplest form of segmentation is found in Annelids in which each unit of the body is very similar to the next one. But in arthropods (cockroach), the segments may look different and has different functions.
 
 Animals which possess notochord at any stage of their development are called chordates. Notochord is a mesodermally derived rod like structure formed on the dorsal side during embryonic development in some animals. Based on the presence or absence of notochord, animals are classified as chordates (Cephalochordates, Urochordates, Pisces to Mammalia) and nonchordates (Porifera to Hemichordata).
