@@ -2,13 +2,8 @@
 title: Aquaponics
 weight: 6
 ---
-
-Aquaponics## Aquaponics
+## Aquaponics
  Aquaponics is a technique which is a combination of aquaculture (growing fish) and hydroponics (growing plants in non-soil media and nutrient-laden water). Aquaponics may also prevent toxic water runoff. It also maintains ecosystem balance by recycling the waste and excretory products produced by the fish. In India, aquaponics was started in 2013. Some primary methods of aquaponic gardening that are in use nowadays are as follows: (i) **Deep water culture** is otherwise known as raft based method. In this method a raft floats in water. Plants are kept in the holes of raft and the roots float in water. This method is applicable for larger commercial scale system. By this method fast growing plants are cultivated. (ii) **Media based method** involves growing plants in inert planting media like clay pellets or shales. This method is applicable for home and hobby scale system. Larger number of fruiting plants, leafy green plants, herbs and other varieties of plants can be cultivated (Figure 13. 7) (iii) **Nutrient Film technique** involves the passage of nutrient rich water through a narrow trough or PVC pipe. Plants are kept in the holes of the pipe to allow the roots to be
-
-Hyper-parasitism - A condition in which a secondary parasite develops within
-
-a previously existing parasite or a hyperparasite is the parasite whose host is also a parasite.  
 
 in free contact with in the water stream. (iv) **Aqua vertica** is otherwise known as vertical aquaponics. Plants are stacked on the top of each other in tower systems. Water flows in through the top of the tower. This method is suitable for growing leafy greens, strawberries and other crops that do not need supporting solid substratum to grow.
 
@@ -22,15 +17,7 @@ in free contact with in the water stream. (iv) **Aqua vertica** is otherwise kno
 
 **Artificial food for fishes**: In this system plant waste and decays are utilized by fishes as food. So, the need for the use of supplementary feed can be minimized.
 
-Clean water
-
-Gravel
-
-Waste water
-
-Pump
-
-Waste uptake by plants and bacteria
+![Aquaponics-Media based method](../13.7.jpg)
 
 **Figure 13. 7** Aquaponics – Media based method
 
