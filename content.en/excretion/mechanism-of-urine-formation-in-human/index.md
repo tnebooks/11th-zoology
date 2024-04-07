@@ -22,7 +22,7 @@ Net filtration Pressure = Glomerular hydrostatic pressure - (Colloidal osmotic p
 
 Net filtration pressure = 55 mmHg - (30 mmHg + 15 mmHg) 5 = 10mmHg
 
-The effective glomerular pressure of 10 mmHg results in ultrafiltration. Glomerular filtration rate (GFR) is the volume of filtrate formed min21 in all nephrons (glomerulus) of both the kidneys. In adults the GFR is approximately 120- 125mL/min. Blood from the glomerulus is passed out through the efferent arteriole. The smooth muscle of the efferent arteriole contract resulting in vasoconstriction. Table 8.1 shows the relative concentrations of substances in the blood plasma and the glomerular filtrate. The glomerular filtrate is similar to blood plasma except that there are no plasma proteins. In cortical nephrons, blood from efferent arteriole flows into peritubular capillary beds and enters the venous system carrying with it recovered solutes and water from the interstitial fluid that surrounds the tubule.
+The effective glomerular pressure of 10 mmHg results in **ultrafiltration**. Glomerular filtration rate (GFR) is the volume of filtrate formed min21 in all nephrons (glomerulus) of both the kidneys. In adults the GFR is approximately 120- 125mL/min. Blood from the glomerulus is passed out through the efferent arteriole. The smooth muscle of the efferent arteriole contract resulting in vasoconstriction. Table 8.1 shows the relative concentrations of substances in the blood plasma and the glomerular filtrate. The glomerular filtrate is similar to blood plasma except that there are no plasma proteins. In cortical nephrons, blood from efferent arteriole flows into peritubular capillary beds and enters the venous system carrying with it recovered solutes and water from the interstitial fluid that surrounds the tubule.
 
 **Table 8.1** Concentration of substances in the blood plasma and in the glomerular filtrate
 
@@ -44,27 +44,27 @@ The effective glomerular pressure of 10 mmHg results in ultrafiltration. Glomeru
 
 This involves movement of the filtrate back into the circulation. The volume of filtrate formed per day is around 170-180 L and the urine released is around 1.5 L per day, i.e., nearly 99% of the glomerular filtrate that has to be reabsorbed by the renal tubules as it contains certain substances needed by the body. This process is called selective reabsorption. Reabsorption takes place by the tubular epithelial cells in different segments of the nephron either by active transport or passive transport, diffusion and osmosis.
 
-**Proximal convoluted Tubule (PCT)**- Glucose, lactate, amino acids, Na1 and water in the filtrate is reabsorbed in the PCT. Sodium is reabsorbed by active transport through sodium- potassium (Na1 K1) pump in the PCT. Small amounts of urea and uric acid are also reabsorbed.
+**Proximal convoluted Tubule (PCT)**- Glucose, lactate, amino acids, Na+ and water in the filtrate is reabsorbed in the PCT. Sodium is reabsorbed by active transport through sodium- potassium (Na+ K+) pump in the PCT. Small amounts of urea and uric acid are also reabsorbed.
 
-**Descending limb** of Henle’s loop is permeable to water due the presence of aquaporins, but not permeable to salts. Water is lost in the descending limb, hence Na1 and Cl2 gets concentrated in the filtrate.
+**Descending limb** of Henle’s loop is permeable to water due the presence of aquaporins, but not permeable to salts. Water is lost in the descending limb, hence Na+ and Cl- gets concentrated in the filtrate.
 
-**Ascending limb of Henle’s loop** is impermeable to water but permeable to solutes such as Na1, Cl2 and K1.
+**Ascending limb of Henle’s loop** is impermeable to water but permeable to solutes such as Na+, Cl- and K+.
 
-The **distal convoluted tubule** recovers water and secretes potassium into the tubule. Na1, Cl2 and water remains in the filtrate of the DCT. Most of the reabsorption from this point is dependent on the body’s need and is regulated by hormones. Reabsorption of bicarbonate (HCO32) takes place to regulate the blood pH. Homeostasis of K1 and Na1 in the blood is also regulated in this region.
+The **distal convoluted tubule** recovers water and secretes potassium into the tubule. Na+, Cl- and water remains in the filtrate of the DCT. Most of the reabsorption from this point is dependent on the body’s need and is regulated by hormones. Reabsorption of bicarbonate (HCO32) takes place to regulate the blood pH. Homeostasis of K+ and Na+ in the blood is also regulated in this region.
 
 ```Aquaporins are water–permeable channels (membrane transport proteins) that allow water to move across the epithelial cells in relation to the osmotic difference from the lumen to the interstitial fluid.```
 
 
-**Collecting duct** is permeable to water, secretes K1 (potassium ions are actively transported into the tubule) and reabsorbs Na1 to produce concentrated urine. The change in permeability to water is due to the presence of number of water- permeable channels called **aquaporins**.
+**Collecting duct** is permeable to water, secretes K+ (potassium ions are actively transported into the tubule) and reabsorbs Na+ to produce concentrated urine. The change in permeability to water is due to the presence of number of water- permeable channels called **aquaporins**.
 
-**Tubular secretion-** Substances such as H1, K1, NH41, creatinine and organic acids move into the filtrate from the peritubular capillaries into the tubular fluid. Most of the water is absorbed in the proximal convoluted tubule and Na1 is exchanged for water in the loop of Henle. Hypotonic fluid enters the distal convoluted tubule and substances such as urea and salts pass from peritubular blood into the cells of DCT. The urine excreted contains both filtered and secreted substances. Once it enters the collecting duct, water is absorbed and concentrated hypertonic urine is formed. For every H1 secreted into the tubular filtrate, a Na1 is absorbed by the tubular cell. The H1 secreted combines with HCO32, HPO3 2 and NH3 2 and gets fixed as H2CO4 1, H2PO4 1 and NH4 1 respectively. Since H1 gets fixed in the fluid, reabsorption of H1 is prevented.  
+**Tubular secretion-** Substances such as H+, K+, NH4+, creatinine and organic acids move into the filtrate from the peritubular capillaries into the tubular fluid. Most of the water is absorbed in the proximal convoluted tubule and Na+ is exchanged for water in the loop of Henle. Hypotonic fluid enters the distal convoluted tubule and substances such as urea and salts pass from peritubular blood into the cells of DCT. The urine excreted contains both filtered and secreted substances. Once it enters the collecting duct, water is absorbed and concentrated hypertonic urine is formed. For every H+ secreted into the tubular filtrate, a Na+ is absorbed by the tubular cell. The H+ secreted combines with HCO3-,HPO3- and NH3- and gets fixed as H2CO4+, H2PO4+ and NH4+ respectively. Since H+ gets fixed in the fluid, reabsorption of H+ is prevented.  
 
 ```Osmolarity - The solute concentration of a solution of water is known as the solutions osmolarity, expressed as milliosmoles /liter (mOsm/L)```
 
 
-**Formation of concentrated urine** Formation of concentrated urine is accomplished by kidneys using counter current mechanisms. The major function of Henle’s loop is to concentrate Na1 and
+**Formation of concentrated urine** Formation of concentrated urine is accomplished by kidneys using counter current mechanisms. The major function of Henle’s loop is to concentrate Na+ and
 
-Cl2. There is low osmolarity near the cortex and high osmolarity towards the medulla. This osmolarity in the medulla is due to the presence of the solute transporters and is maintained by the arrangement of the loop of Henle, collecting duct and vasa recta. This arrangement allows movement of solutes from the filtrate to the interstitial fluid. At the transition between the proximal convoluted tubule and the descending loop of Henle the osmolarity of the interstitial fluid is similar to that of the blood – about 300mOsm.
+Cl-. There is low osmolarity near the cortex and high osmolarity towards the medulla. This osmolarity in the medulla is due to the presence of the solute transporters and is maintained by the arrangement of the loop of Henle, collecting duct and vasa recta. This arrangement allows movement of solutes from the filtrate to the interstitial fluid. At the transition between the proximal convoluted tubule and the descending loop of Henle the osmolarity of the interstitial fluid is similar to that of the blood – about 300mOsm.
 
 **Ascending and descending limbs of Henle, create a counter current multiplier** (interaction between flow of filtrate through the limbs of Henle’s and JMN) by active transport. Figure 8.8 (a) shows the counter current multiplier created by the long loops of **Henle of the JM nephrons which creates medullary osmotic gradient.**
 
