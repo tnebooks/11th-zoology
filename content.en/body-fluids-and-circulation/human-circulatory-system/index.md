@@ -20,7 +20,7 @@ The opening of right and left ventricles into the pulmonary artery and aorta are
 
 The heart in human is myogenic (cardiomyocytes can produce spontaneous rhythmic depolarisation that initiates contractions). The sequence of electrical conduction of heart is shown in Figure 7.7. The cardiac cells with fastest rhythm are called the **Pacemaker cells**, since they determine the contraction rate of the entire heart. These cells are located in the right **sinuatrial (SA) node/ Pacemaker**. On the left side of the right atrium is a node called a**uriculo ventricular node** (AV node). Two special cardiac muscle fibres originate from the auriculo ventricular node and are called the **bundle of His** which runs down into the interventricular septum and the fibres spread into the ventricles. These fibres are called the **Purkinje fibres**.
 
-Pacemaker cells produce excitation through depolarisation of their cell membrane. Early depolarisation is slow and takes place by sodium influx and reduction in potassium efflux. Minimum potential is required to activate voltage gated calcium (Ca+) channels that causes rapid depolarisation which results in action potential. The pace maker cells repolarise slowly via K1 efflux.
+Pacemaker cells produce excitation through depolarisation of their cell membrane. Early depolarisation is slow and takes place by sodium influx and reduction in potassium efflux. Minimum potential is required to activate voltage gated calcium (Ca+) channels that causes rapid depolarisation which results in action potential. The pace maker cells repolarise slowly via K+ efflux.
 
 HEART BEAT- Rhythmic contraction and expansion of heart is called **heart beat**. The contraction of the heart is called **systole** and the relaxation of the heart is called **diastole**. The heart normally beats 70-72 times per min in a human adult. During each cardiac cycle two sounds are produced that can be heard through a **stethoscope**. The first heart sound
 
@@ -35,7 +35,7 @@ HEART BEAT- Rhythmic contraction and expansion of heart is called **heart beat**
 
 The events that occur at the beginning of heart beat and lasts until the beginning of next beat is called cardiac cycle. It lasts for 0.8 seconds. The series of events that takes place in a **cardiac cycle**.
 
-PHASE 1**: Ventricular diastole**- The pressure in the auricles increases than that of the ventricular pressure. AV valves are open while the semi lunar valves are closed. Blood flows from the auricles into the ventricles passively.
+PHASE 1: Ventricular diastole**- The pressure in the auricles increases than that of the ventricular pressure. AV valves are open while the semi lunar valves are closed. Blood flows from the auricles into the ventricles passively.
 
 PHASE 2: **Atrial systole** - The atria contracts while the ventricles are still relaxed. The contraction of the auricles pushes maximum volume of blood to the ventricles until they reach the end diastolic volume (EDV). EDV is related to the length of the cardiac muscle fibre. More the muscle is stretched, greater the EDV and the stroke volume.
 
