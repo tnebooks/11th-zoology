@@ -6,20 +6,9 @@ weight: 2
 Human endocrine system## Human endocrine system
  There are two glandular systems such as the exocrine glands and the endocrine glands. The exocrine glands secrete enzymes, saliva and sweat and have ducts that carry their substances to the membrane surfaces. Example: salivary gland and gastric gland. The endocrine glands, called ductless glands produce hormones and lack ducts; they release their hormone to the surrounding tissue fluid. The hormones circulate around the body and eventually reach the target organs. Endocrine glands (Figure: 11. 1) include the pituitary, thyroid, parathyroid, pineal, adrenal, thymus and are also known as **exclusive endocrine glands**. The hypothalamus along with its neural function also produces hormones and is considered as a **neuro endocrine gland.** In addition several organs such as pancreas, gastro intestinal tract epithelium, kidney, heart, gonads and placenta are also have endocrine tissues and are known as **partial endocrine glands.**
 
-**Example** Adrenalin, nor adrenalin, melatonin and
-
-thyroid hormone Insulin, glucagon and pituitary hormones Cortisol, aldosterone, testosterone, oestrogen, progesterone.
-
-
-
-
-
-
+**Example** Adrenalin, nor adrenalin, melatonin and thyroid hormone Insulin, glucagon and pituitary hormones Cortisol, aldosterone, testosterone, oestrogen, progesterone.
 
 |------|
-
-
-
 | Class |Chemical properties |Example |
 |------|------|------|
 | Amines |Small, water soluble derived from tyrosine or tr yptophan |Adrenalin, nor adrenalin, melatonin and thyroid hormone |
@@ -28,13 +17,32 @@ thyroid hormone Insulin, glucagon and pituitary hormones Cortisol, aldosterone, 
   
 
 ### Hypothalamus
- Hypothalamus is a small cone shaped structure that projects downward from the brain ending into the pituitary stalk. It interlinks both the nervous system and endocrine system. Though pituitary gland is known as master endocrine glands that controls the other endocrine glands, but it is, in turn controlled by the hypothalamus. Hypothalamus contains groups of neurosecretory cells. It produces neurotransmitters which regulate the secretions of the pituitary (Figure11. 2). The hormones produced by the hypothalamus act either as a releasing hormone or as an inhibitory hormone.
+
+Hypothalamus is a small cone shaped structure that projects downward from the brain ending into the pituitary stalk. It interlinks both the nervous system and endocrine system. Though pituitary gland is known as master endocrine glands that controls the other endocrine glands, but it is, in turn controlled by the hypothalamus. Hypothalamus contains groups of neurosecretory cells. It produces neurotransmitters which regulate the secretions of the pituitary (Figure11. 2). The hormones produced by the hypothalamus act either as a releasing hormone or as an inhibitory hormone.
 
 In the basal region of the brain, the **hypothalamic hypophyseal portal blood vessel** connects hypothalamus and anterior pituitary. It allows hypothalamic hormones to control anterior pituitary secretion. The posterior pituitary is connected with hypothalamus by a nerve bundle called **hypothalamic hypophyseal axis**. It produces nerve signal that control the posterior pituitary secretion. Hypothalamus maintains homeostasis, blood pressure, body temperature, cardio and fluid electrolyte balance of the body.
 
-**Table 11.2 The major hypothalamic hormone S.No. Hormones** 1\. Thyrotropin releasing hormone (TRH) 2. Gonadotropin releasing hormone(GnRH) 3. Corticotropin releasing hormone (CRH) 4. Growth hormone releasing hormone(GHR 5. Prolactin releasing hormone (PRH) 6. Luteinizing hormone releasing hormone ( 7. MSH releasing hormone 8. Growth hormone-inhibiting hormone (GH 9. Prolactin inhibiting hormone (PIH)
+**Table 11.2 The major hypothalamic hormone S.No. Hormones** 
 
-10\. MSH inhibiting hormone  
+1. Thyrotropin releasing hormone (TRH)
+
+2. Gonadotropin releasing hormone(GnRH)
+
+3. Corticotropin releasing hormone (CRH) 
+
+4. Growth hormone releasing hormone(GHR)
+
+5. Prolactin releasing hormone (PRH)
+
+6. Luteinizing hormone releasing hormone
+
+7. MSH releasing hormone
+
+8. Growth hormone-inhibiting hormone (GHR)
+
+9. Prolactin inhibiting hormone (PIH)
+
+10. MSH inhibiting hormone  
 
 As the part of limbic system it influences various emotional responses.
 
@@ -42,27 +50,33 @@ In mammals, the role of pars intermedia is insignificant, but in other vertebrat
 
 ### Pituitary gland or Hypophysis
 
+The pituitary gland (means to grow under) is ovoid in shape and is located in the **sella turcica**, a bony cavity of the sphenoid bone at the base of brain and connected to the hypothalamic region of the brain by a stalk called **infundibulum**. It is about one centimetre in diameter and 0.5 gm in weight. The pituitary consists of two lobes, anterior glandular adenohypophysis and posterior neural neurohypophysis. The anterior lobe originates from the embryonic invagination of pharyngeal epithelium called **Rathke’s pouch** and the posterior lobe is originates from the base of the brain as an outgrowth of hypothalamus. Anatomically the adenohypophysis has three lobes or zones namely pars intermedia, pars distalis and pars tuberalis.
 
-The pituitary gland (means to grow under) is ovoid in shape and is located in the **sella turcica**, a bony cavity of the sphenoid bone at the base of brain and connected to the hypothalamic region of the brain by a stalk called **infundibulum**. It is about one centimetre in diameter and 0.5 gm in weight. The pituitary consists of two lobes, anterior glandular adenohypophysis and posterior neural neurohypophysis. The anterior lobe originates from the embryonic invagination of pharyngeal epithelium called **Rathke’s pouch** and the posterior lobe is originates from the base of the brain as an outgrowth of hypothalamus. Anatomically the adenohypophysis has three lobes or zones namely pars intermedia, pars distalis and pars tuberalis. The neurohypophysis is otherwise known as pars nervosa.
+The neurohypophysis is otherwise known as pars nervosas and their functions **Functions**
 
-s and their functions **Functions**
+Stimulates the secretion of TSH
 
-Stimulates the secretion of TSH Stimulates the secretion of FSH Stimulates the secretion of ACTH
+Stimulates the secretion of FSH
 
-H) Stimulates the secretion of GH Stimulates the secretion of Prolactin
+Stimulates the secretion of ACTH
 
-LHRH) Stimulates the secretion of LH Stimulates the secretion of MSH
+Stimulates the secretion of GH
 
-IH) Inhibits the secretion of GH Inhibits the secretion of Prolactin Inhibits the secretion of MSH
+Stimulates the secretion of Prolactin
 
+Stimulates the secretion of LH
 
+Stimulates the secretion of MSH
 
+Inhibits the secretion of GH
 
+Inhibits the secretion of Prolactin
 
+Inhibits the secretion of MSH
 
 | S.No. |Hormones |Functions |
 |------|------|------|
-| 1. |yrotropin releasing hormone (TRH) |Stimulates the secretion of TSH |
+| 1. |pyrotropin releasing hormone (TRH) |Stimulates the secretion of TSH |
 | 2. |Gonadotropin releasing hormone(GnRH) |Stimulates the secretion of FSH |
 | 3. |Corticotropin releasing hormone (CRH) |Stimulates the secretion of ACTH |
 | 4. |Growth hormone releasing hormone(GHRH) |Stimulates the secretion of GH |
@@ -78,24 +92,29 @@ The anterior lobe of pituitary secretes six tropic hormones such as growth hormo
 
 **Figure 11. 2** Hypothalamus and pituitary gland
 
-**Hormones of Adenohypophysis i) Growth hormone (GH):** It is also known as somatotropic hormone (STH) or Somatotropin. It is a peptide hormone. Growth hormone promotes growth of all the tissues and metabolic process of the body. It influences the metabolism of carbohydrates, proteins and lipids and increases the rate of protein biosynthesis in the cells. It stimulates chondrogenesis (cartilage formation), osteogenesis (bone formation) and helps in the retention of minerals like nitrogen, potassium, phosphorus, sodium etc., in the body.  
+**Hormones of Adenohypophysis**
+
+**i) Growth hormone (GH):**
+
+It is also known as somatotropic hormone (STH) or Somatotropin. It is a peptide hormone. Growth hormone promotes growth of all the tissues and metabolic process of the body. It influences the metabolism of carbohydrates, proteins and lipids and increases the rate of protein biosynthesis in the cells. It stimulates chondrogenesis (cartilage formation), osteogenesis (bone formation) and helps in the retention of minerals like nitrogen, potassium, phosphorus, sodium etc., in the body.  
 
 GH increases the release of fatty acid from adipose tissue and decreases the rate of glucose utilization for energy by the cells. Thus it conserves glucose for glucose dependent tissues, such as the brain.
 
-**ii) Thyroid stimulating hormone (TSH) or thyrotropin:** TSH is a glycoprotein hormone, which stimulates the thyroid gland to secrete Tri-iodothyronine (T3) and thyroxine (T4). TSH secretion is regulated by negative feedback mechanism. It’s release from the anterior pituitary is induced by the thyrotropin releasing hormone (TRH). When thyroxine level in the blood increases, TRH acts on both the pituitary and hypothalamus to inhibit TSH secretion.
+**ii) Thyroid stimulating hormone (TSH) or thyrotropin:**
 
-**iii) Adreno cortico tropic hormone (ACTH):** ACTH is a peptide hormone that stimulates the adrenal cortex to secrete glucocorticoids and mineralocorticoids. It stimulates melanin synthesis in melanocytes, induces the release of fatty acids from adipose tissues and stimulates insulin secretion. ACTH secretion is regulated by **negative feedback mechanism.**
+TSH is a glycoprotein hormone, which stimulates the thyroid gland to secrete Tri-iodothyronine (T3) and thyroxine (T4). TSH secretion is regulated by negative feedback mechanism. It’s release from the anterior pituitary is induced by the thyrotropin releasing hormone (TRH). When thyroxine level in the blood increases, TRH acts on both the pituitary and hypothalamus to inhibit TSH secretion.
 
-**iv) Follicle stimulating hormone (FSH):** FSH is a glycoprotein hormone which regulates the functions of the gonads (ovary and testis). In males, FSH along with androgens acts on the germinal epithelium of seminiferous tubules and stimulates the production and release of sperms (spermatogenesis). In females, FSH acts on the ovaries and brings about the development and maturation of graffian follicles.
+**iii) Adreno cortico tropic hormone (ACTH):** 
 
-**v) Luteinizing hormone (LH):** LH is a glycoprotein hormone which is also known as interstitial cell stimulating
+ACTH is a peptide hormone that stimulates the adrenal cortex to secrete glucocorticoids and mineralocorticoids. It stimulates melanin synthesis in melanocytes, induces the release of fatty acids from adipose tissues and stimulates insulin secretion. ACTH secretion is regulated by **negative feedback mechanism.**
 
+**iv) Follicle stimulating hormone (FSH):** 
 
+FSH is a glycoprotein hormone which regulates the functions of the gonads (ovary and testis). In males, FSH along with androgens acts on the germinal epithelium of seminiferous tubules and stimulates the production and release of sperms (spermatogenesis). In females, FSH acts on the ovaries and brings about the development and maturation of graffian follicles.
 
+**v) Luteinizing hormone (LH):**
 
-  
-
-hormone (ICSH). In males, ICSH acts on the interstitial cells of testis to produce the male sex hormone, testosterone. In females, LH along with FSH matures the ovarian follicles. LH independently induces ovulation, maintains the corpus luteum and promotes synthesis and release of ovarian hormones. FSH and LH are collectively referred as gonadotropins. FSH and LH are not produced during childhood. The secretion of FSH and LH starts only during pre pubertal period.
+LH is a glycoprotein hormone which is also known as interstitial cell stimulating hormone (ICSH). In males, ICSH acts on the interstitial cells of testis to produce the male sex hormone, testosterone. In females, LH along with FSH matures the ovarian follicles. LH independently induces ovulation, maintains the corpus luteum and promotes synthesis and release of ovarian hormones. FSH and LH are collectively referred as gonadotropins. FSH and LH are not produced during childhood. The secretion of FSH and LH starts only during pre pubertal period.
 
 **vi) Luteotropic hormone (LTH):** LTH is also called luteotropin or lactogenic hormone or prolactin or mammotropin. It is a protein hormone which stimulates milk secretion after the child birth in females. High prolactin secretion during lactation suppresses LH secretion and ovulation since it induces the corpus luteum hence named as luteo tropic hormone.
 
