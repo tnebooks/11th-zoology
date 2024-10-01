@@ -3,8 +3,8 @@ title: Vermiculture Vermiculture
 weight: 2
 ---
 
-Vermiculture Vermiculture## Vermiculture Vermiculture
- is the process of using earthworms to decompose organic food waste, into a nutrient-rich material capable of supplying necessary nutrients which helps to sustain plant growth. The aim is to continually increase the number of worms to have a sustainable harvest. The excess worms can either be used to expand a vermicomposting operation or sold to customers. Vermicompost is the primary goal of vermiculture. Technically,  
+## Vermiculture 
+Vermiculture is the process of using earthworms to decompose organic food waste, into a nutrient-rich material capable of supplying necessary nutrients which helps to sustain plant growth. The aim is to continually increase the number of worms to have a sustainable harvest. The excess worms can either be used to expand a vermicomposting operation or sold to customers. Vermicompost is the primary goal of vermiculture. Technically,  
 
 the worm castings are pure worm waste and are fine and nutrient rich organic soil amendment. Vermicompost on the other hand, is comprised of the castings, bits of bedding and other organic matter. Essentially, though the terms are used interchangeably, they are both worm manure and are valuable for improving soil health. Applications of earthworm in technology of composting and bioremediation of soils and other activities is called Vermitech (Sultan Ismail, 1992).
 
@@ -25,27 +25,18 @@ in India for vermicomposting such as _Periyonyx excavatus, Lampito mauritii, Oct
 
 Earthworms collected from native soil prefer a layer of local soil in their compost beds. If local soil earthworms are used, add a layer of native loamy soil for about 15 cm
 
-2 meter
-
-3 meter
-
-1 meter
 
 
+![alt text](../{0D84F70E-715F-4886-A422-A9C17C005AE6}.png.jpg)
 
 
 on top of the gravel sand layer and introduce earthworms into it. For exotic species such as _Eisenia fetida_ and _Eudrilus eugeniae,_the layer of soil is not needed. The unit can now be loaded with digested biomass or animal dung such as cow dung that has lost its heat. The number of earthworms to be introduced in an unit depends on the size of the vermibed prepared. Earthworms such as _Periyonyx excavatus, Eisenia fetida_ or _Eudrilus eugeniae_ are introduced on the top. Jute bags or cardboards or broad leaves are used to cover the unit. As worms require moisture, water management is most important for the survival of the earthworms. Too little or too much of water is not good for the worms.
-
 Earthworms release their castings on the surface. One can start harvesting this from the surface on noticing the castings on the surface. It may take several days for the entire biomass to be composted depending on the amount of biomass. When all the compost is harvested, earthworms can be handpicked by creating small conical heaps of harvested compost and leaving in sunlight for a few hours. The earthworms then move down and settle at the bottom of the heap as a cluster. Earthworms from the lower layers of the compost can be recovered and the worms can be transferred to new composting units.
 
 **Vermiwash is a liquid collected after** the passage of water through a column
 
-e unit and Earthworms
 
-
-
-
-  
+  ![alt text](../{DAF90BC3-27D7-4BB3-946C-8A16258FEB2D}.png.jpg)
 
 of vermibed. It is useful as a foliar spray to enhance plant growth and yield. It is obtained from the burrows or **drilospheres** formed by earthworms. Nutrients, plant growth promoter substances and some useful microorganisms are present in vermiwash.
 

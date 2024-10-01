@@ -3,7 +3,7 @@ title: Aquaculture
 weight: 7
 ---
 
-Aquaculture## Aquaculture
+## Aquaculture
  Aquaculture has been practiced in varying forms for centuries dating to the time of the Phoenicians. India offers a huge potential for aquaculture development. Fish culture received
 
 notable attention in Tamil Nadu in 1911. Aquaculture is a branch of science that deals with the farming of aquatic organisms such as fish, molluscs, crustaceans and aquatic plants.
@@ -51,19 +51,8 @@ phytoplanktons, decaying weeds, debris and other aquatic plants.
 3\. Can tolerate O2 variations in water. 4. Can be transported from one place to
 
 other easily. 5. They are highly nutritive and palatable.
+![Different types of freshwater cultivable fishes ](../13.8.jpg)
 
-Mullet
-
-**Figure 13.8 Different types of** freshwater cultivable fishes
-
-Catla
-
-Common carps
-
-
-
-
-  
 
 **External factors affecting fish culture** The factors that affect fish culture are temperature, light, rain, water, flood, water current, turbidity of water, pH hardness, salinity and dissolved O2. Light and temperature also play an important role in fish breeding.
 
@@ -71,7 +60,9 @@ Common carps
 
 **Breeding pond** The first step in fish culture is the breeding of fishes, therefore, for proper breeding special types of ponds are prepared called breeding ponds. These ponds are prepared near the rivers or other natural water resources.
 
-**Types of breeding** Depending on the mode of breeding, they are divided into 1. **Natural breeding** (Bundh breeding) These are special types of ponds where natural riverine conditions or any natural water resources are managed for breeding of culturable fishes. There bundhs are constructed in large low-lying areas that can accommodate large quantity of rain water. The shallow area of such bundhs is used as spawning ground. 2. **Induced breeding** The fish seed is commonly collected from breeding grounds but does not guarantee  
+**Types of breeding** Depending on the mode of breeding, they are divided into
+ 1.**Natural breeding** (Bundh breeding) These are special types of ponds where natural riverine conditions or any natural water resources are managed for breeding of culturable fishes. There bundhs are constructed in large low-lying areas that can accommodate large quantity of rain water. The shallow area of such bundhs is used as spawning ground.
+  2. **Induced breeding** The fish seed is commonly collected from breeding grounds but does not guarantee  
 
 that all fish seeds belong to the same species. Hence advanced techniques have been developed to improve the quality of fish seed by artificial method of fertilization and induced breeding. Artificial fertilization involves removal of ova and sperm from female and male by artificial mechanical process and the eggs are fertilized. For artificial fertilization the belly of mature female fish is held upward. Stripping is done with the thumb of the right hand from the anterior to posterior direction for the ejection of eggs due to force. In this way eggs are collected separately. Further, the male fish is caught with its belly downwards. The milt of fish is striped and collected separately, and then the eggs are fertilized.
 
@@ -85,24 +76,23 @@ Induced breeding is also done by hypophysation (removal of pituitary gland). The
   
 
 **Hatching pit** The fertilized eggs are kept in hatching pits. The hatching pits should be nearer to the breeding grounds, should be smaller in size with good quality water. There are two types of hatching pits, hatcheries are small sized pond in which unfertilized eggs are transferred and hatching happens. Hatching hapas are rectangular trough shaped tanks made up of mosquito net cloth supported by bamboo poles and fixed in the river (Figure 13.9).
-
+![A fish pond-showing fish breeding hapas](../13.9.jpg)
 **Nursery pond** The newly hatched fries are transported from the hatching happa to nursery ponds where they grow into fingerlings.
 
 **Rearing pond** Fingerlings are transferred to rearing ponds that is long and narrow and allows long distance swimming. The rearing pond should be free from toxicants and predators. Antibiotics are used for washing the fingerlings and then transferred to the stocking ponds.
 
 **Stocking pond** Stocking ponds should be devoid of weeds and predatory fishes. Proper organic
 
-**Figure 13.9 A fish pond-showing** fish breeding hapas  
 
 manuring should be done to increase the production with cow dung and chemical fertilizing should also be done.
 
 **Harvesting** Harvesting is done to capture the fishes from the water. Well grown fishes are taken out for marketing. Small sized fishes are again released into the stocking ponds for further growth. Different methods of fishing are carried out to harvest fishes. These include Stranding, Angling, Traps, Dipnets, Cast nets, Gill nets, Drag nets and purse nets. The harvested fishes are preserved by refrigeration, Deep freezing, freeze drying, sun drying, salting, smoking and canning.
 
-**Composite fish farming** Few selected fishes belonging to different species are stocked together in proper proportion in a pond. This mixed farming is termed composite fish farming or polyculture. The advantages include, 1. All available niches are fully utilized. 2. Compatible species do not harm each other. 3. No competition among different
-
-species is found. 4. _Catla catla,_ _Labeo rohita_ and _Cirrhinus_
-
-_mrigala_ are the commonly used fish species for composite fish farming.
+**Composite fish farming** Few selected fishes belonging to different species are stocked together in proper proportion in a pond. This mixed farming is termed composite fish farming or polyculture. The advantages include, 
+1. All available niches are fully utilized.
+ 2. Compatible species do not harm each other.
+  3. No competition among different species is found.
+ 4. _Catla catla,_ _Labeo rohita_ and _Cirrhinus_ _mrigala_ are the commonly used fish species for composite fish farming.
 
 **Exotic fishes** The fishes imported into a country for fish culture are called exotic fishes and such fish culture is known as exotic fish culture. Examples of such exotic fishes introduced in India are _Cyprinus carpio_ and _Oreochromis mossambicus_.
 
@@ -128,9 +118,8 @@ Why are fish so efficient at converting feed to flesh?
 ### Prawn Culture
 
 
-Most important aquatic crustacean is prawn, which is widely cultured prawn flesh is palatable and rich in glycogen, protein with low fat content. Types of prawn fishery **1\. Shallow water prawn fishery** – located
-
-on the west coast restricted to shallow waters.
+Most important aquatic crustacean is prawn, which is widely cultured prawn flesh is palatable and rich in glycogen, protein with low fat content. Types of prawn fishery 
+**1\. Shallow water prawn fishery** – located on the west coast restricted to shallow waters.
 
 **2\. Estuaries and back waters or saline lake prawn fishery** \- The area of production of prawns are the back waters seen along the Western coast, Ennur, Pulicat, Chilka lake and Estuaries of Ganga and Brahmaputra rivers.
 
@@ -148,7 +137,7 @@ on the west coast restricted to shallow waters.
   
 
 fertilization, one pair of prawn are kept in a separate tank. After mating, the eggs are laid. Spawning tanks of different sizes should be prepared with proper aeration. Temperature (240 C – 300 C) and pH (7-8) should be maintained in the hatching tank. The eggs hatch into first and second stage larva. Artificial feed is supplied. Young ones of 5cm length (60 days old) can be reared in fresh or slightly brackish water ponds and paddy fields. Harvesting of prawns can be done twice in a year.
-
+![Marcrobrachium rosenbergii](../13.10.jpg)
 **Culture of marine prawn** Several factors that determine the success of marine prawn culture includes selection of site, water quality, soil quality and availability of seed.
 
 **Preparation of farm** For the preparation of ponds for algal growth and for the subsequent stocking of prawns it is essential to drain off the water and sundry the bottom followed by light tilling. Agricultural lime should be applied to absorb excess CO2 and to supply calcium which is required for moulting. Fertilizers like rice, bran, poultry, and cattle dung are used to increase the fertility of the soil. Prawns are commonly caught in crafts and gears using different types of nets such as cast nets, bag nets, drag nets, trawl nets and barrier nets. Preservation of prawns is done by peeling and deveining or by cooking and peeling.

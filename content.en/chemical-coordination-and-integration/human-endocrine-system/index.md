@@ -3,7 +3,7 @@ title: Human endocrine system
 weight: 2
 ---
 
-Human endocrine system## Human endocrine system
+### Human endocrine system
  There are two glandular systems such as the exocrine glands and the endocrine glands. The exocrine glands secrete enzymes, saliva and sweat and have ducts that carry their substances to the membrane surfaces. Example: salivary gland and gastric gland. The endocrine glands, called ductless glands produce hormones and lack ducts; they release their hormone to the surrounding tissue fluid. The hormones circulate around the body and eventually reach the target organs. Endocrine glands (Figure: 11. 1) include the pituitary, thyroid, parathyroid, pineal, adrenal, thymus and are also known as **exclusive endocrine glands**. The hypothalamus along with its neural function also produces hormones and is considered as a **neuro endocrine gland.** In addition several organs such as pancreas, gastro intestinal tract epithelium, kidney, heart, gonads and placenta are also have endocrine tissues and are known as **partial endocrine glands.**
 
 **Example** Adrenalin, nor adrenalin, melatonin and thyroid hormone Insulin, glucagon and pituitary hormones Cortisol, aldosterone, testosterone, oestrogen, progesterone.
